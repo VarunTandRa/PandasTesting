@@ -117,7 +117,7 @@
 115	2011		Lea Village, Stechford	
 116	2011		Lenches Close, Mosley	
 117	2011		Lime Tree Rd	
-118	2011		Lode Ln @ Hermitage Rd	
+118	2011		Lode Ln Hermitage Rd	Lode Lane @ Hermitage Road
 119	2011		Long Str	
 120	2011		Long Str Sparkhill	
 121	2011		Longbridge Ln	
@@ -787,7 +787,7 @@
 785	2011	Birmingham	Birmingham New St	
 786	2011	Birmingham	Birmingham New Str Stn	
 787	2011	Birmingham	Birmingham New Str,	
-788	2011		Bishopgate Str @ Junction Of Broad Str	
+788	2011		Bishopgate Str Junction Of Broad Str	Bishopgate Street @ Junction Of Broad Street
 789	2011		Bishopgate Str, City Centre	
 790	2011		Bishopsgate Str	
 791	2011		Bliss Bar, Broad Str	
@@ -823,7 +823,7 @@
 821	2011		Broad St	
 822	2011		Broad St	
 823	2011		Broad St	
-824	2011		Broad St @ Gas Str, City Centre	
+824	2011		Broad St Gas Str, City Centre	 Broad St @ Gas Street, City Centre
 825	2011		Broad St Bham	
 826	2011		Broad St Bham	
 827	2011		Broad St City Centre	
@@ -1152,7 +1152,7 @@
 1150	2011		Icc,Broad Str	
 1151	2011		In Arcadian Centre Bham	
 1152	2011		Inge Str	
-1153	2011		Inge Str @ Hurst Str	
+1153	2011		Inge Str Hurst Str	Inge Street @ Hurst Street
 1154	2011		Islington Row, City Centre	
 1155	2011		Islington Row, Middleway	
 1156	2011	Birmingham	James Watt Queensway, Birmingham	
@@ -1213,7 +1213,7 @@
 1211	2011		New Str	
 1212	2011		New Str	
 1213	2011		New Str	
-1214	2011		New Str @ Stephenson Str	
+1214	2011		New Str Stephenson Str	New Street @ Stephenson Street
 1215	2011	Birmingham	New Str City Centre, Birmingham	
 1216	2011		New Str Railwaty	
 1217	2011		New Str Stn	
@@ -2680,7 +2680,7 @@
 2678	2011		Lichfield Str	
 2679	2011		Lichfield Str	
 2680	2011		Lichfield Str	
-2681	2011		Lichfield Str @Princess Str, WåäìýåTon	
+2681	2011		Lichfield Str Princess Str, WåäìýåTon	 Lichfield Street @Princess Street, WåäìýåTon
 2682	2011		Lichfield Str, City Centre, WåäìýåTon	
 2683	2011		Lichfield Str, City Centre, WåäìýåTon	
 2684	2011	Wolverhampton	Lichfield Str, Wolverhampton	
@@ -2892,7 +2892,7 @@
 2890	2012		Belgravia Close	
 2891	2012		Bennetts Hill City Centre	
 2892	2012		Berkely Rd	
-2893	2012		Birchley Rise @ Wagon Ln, Olton	
+2893	2012		Birchley Rise Wagon Ln, Olton	 Birchley Rise @ Wagon Lane, Olton
 2894	2012		Birchtree Drive	
 2895	2012	Birmingham	Birmingham New Str	
 2896	2012	Birmingham	Birmingham Rd, Castle Bromwich	
@@ -3143,7 +3143,7 @@
 3141	2012		Marsh Ln, Erdington, B'Ham	
 3142	2012		Mere Green Island Lichfield Rd	
 3143	2012		Mill Ave	
-3144	2012		Mill St @ High Str	
+3144	2012		Mill St High Str	Mill St @ High Street
 3145	2012		New Str	
 3146	2012		New Str Stn	
 3147	2012		Newdigate Rd	

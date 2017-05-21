@@ -11,6 +11,7 @@ df = df.drop(['Strange HTML'], axis = 1)
 # Removing Special Characters
 df["Street"] = df["Street"].str.replace("Ì´",' ')
 df["Street"] = df["Street"].str.replace(".",'')
+df["Street"] = df["Street"].str.replace("@",'')
 df["Street 2"] = df["Street 2"].str.replace(".",'')
 df["Street"] = df["Street"].str.replace(" ,",',')
 df["Street 2"] = df["Street 2"].str.replace(" ,",',')
