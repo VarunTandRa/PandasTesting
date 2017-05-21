@@ -1,0 +1,5280 @@
+	Year	Area	Street	Street 2
+0	2011		Acocks Green	
+1	2011		Adderly Str	
+2	2011		Alcester Raod, Mosley	
+3	2011		Alcester Rd	
+4	2011	Moseley	Alcester Rd Moseley	
+5	2011	Moseley	Alcester Rd Moseley	
+6	2011		Alfred Str	
+7	2011		All Service Club, Mosley	
+8	2011	Alum	Alum Rock Rd	
+9	2011	Alum	Alum Rock Rd	
+10	2011	Alum	Alum Rock Rd	
+11	2011	Alum	Alum Rock Rd	
+12	2011		Arcadian Centre	
+13	2011		Arden Rd, Saltley	
+14	2011		Asda, Chemsley Wood	
+15	2011		Balsahll Heath Park, J/W Brighton Rd	
+16	2011		Bamford Rd	
+17	2011		Bamford Rd	
+18	2011		Beechbrook Ave Sparkhill	
+19	2011	Belchers	Belchers Ln	
+20	2011	Belchers	Belchers Ln	
+21	2011	Belchers	Belchers Ln	
+22	2011	Belchers	Belchers Ln, Bordesley Green	
+23	2011		Bell Str	
+24	2011		Berkley Rd East, Haymills	
+25	2011	Birmingham	Birmingham Airport	
+26	2011	Birmingham	Birmingham International Railway Stn	
+27	2011	Bordesley	Bordesley Green	
+28	2011	Bordesley	Bordesley Green, Bordesley Green	
+29	2011	Bristol	Bristol Rd	
+30	2011	Bristol	Bristol Str	
+31	2011		Broad Str	
+32	2011		Broad Str	
+33	2011	Birmingham	Broad Str Birmingham	
+34	2011		Buckland End Ln Shard End	
+35	2011		Bulls Head Ph, St Marys Row	
+36	2011		Bushbury Rd, Kitts Green	
+37	2011		Chartice Rd	
+38	2011		Chestnut Rd	
+39	2011		Church Rd, Stechford	
+40	2011		Church Rd, Sheldon	
+41	2011		Clifford Rd Dorridge	
+42	2011		Clock Ln	
+43	2011	Bordesley	Colonial Rd, Bordesley Green`	
+44	2011		Corporation St,Birmingham	
+45	2011		Corporation Str	
+46	2011	Coventry	Coventry Rd Small Heath	
+47	2011	Coventry	Coventry Rd, Small Heath, Bham	
+48	2011	Coventry	Coventry Rd	
+49	2011	Coventry	Coventry Rd	
+50	2011	Coventry	Coventry Rd	
+51	2011	Coventry	Coventry Rd	
+52	2011	Coventry	Coventry Rd	
+53	2011	Coventry	Coventry Rd, Small Heath	
+54	2011	Coventry	Coventry Rd, Small Heath	
+55	2011	Coventry	Coventry Road,Small Heath	
+56	2011		Cranes Park Rd	
+57	2011		Cranes Park Rd Sheldon	
+58	2011		Crossfield Rd	
+59	2011		Crossfields Rd Kitts Green	
+60	2011		Cxhurch Rd, Stechford, Bham	
+61	2011		Digbeth High Str	
+62	2011		Edgbaston Rd	
+63	2011	Moseley	Edward Rd Moseley	
+64	2011		Fighting Cox Ph	
+65	2011		Foremans Rd, Sparkhill	
+66	2011		Front Office, Kings Heath	
+67	2011		Garretts Green Rd, Garretts Green	
+68	2011		Giles Close	
+69	2011		Giles Close, Stechford	
+70	2011		Glazedale Rd	
+71	2011		Gospel Farm Rd	
+72	2011		Gospel Farm Rd	
+73	2011		Gospel Ln	
+74	2011		Gospel Ln	
+75	2011		Gospel Ln	
+76	2011		Gospel Ln, Acocks Green	
+77	2011	Coldfield	Grace Church, Sutton Coldfield	
+78	2011		Great Hampton Str	
+79	2011		Green Ln	
+80	2011		Greswell Ln Shard End	
+81	2011		Harlequin Drive, Mosley	
+82	2011		Haslucks Green Rd	
+83	2011		Hazeldean Rd	
+84	2011		Heartlands Hospital	
+85	2011		Heartlands Hospital	
+86	2011		Heartlands Hospital A & E	
+87	2011		Heartlands Hospital A & E	
+88	2011		Heartlands Hospital A & E	
+89	2011		Hepben Grove	
+90	2011		Herrick Rd	
+91	2011		Herrick Rd, Washwood Heath	
+92	2011		Herrick Rd, Washwood Heath	
+93	2011	Solihull	High St Solihull	
+94	2011		High Str Kings Heath	
+95	2011		High Str Kings Heath	
+96	2011		High Str, Kings Heath	
+97	2011		Hob Moor Rd At Starbank Rd	
+98	2011		Holloway Head Bham City Centre	
+99	2011		Hollywell Rd	
+100	2011		Home Address	
+101	2011		Home Address	
+102	2011		Homer Str	
+103	2011		Hunters Moon Public House	
+104	2011		Hurst Str	
+105	2011		Hurst Str	
+106	2011		Hurst Str	
+107	2011	Birmingham	Hurst Str, Birmingham	
+108	2011		Kings Heath High Str	
+109	2011		Knowle Rd, Small Heath, Bham	
+110	2011		Ladypool Rd	
+111	2011		Ladypool Rd	
+112	2011		Ladywell Walk	
+113	2011		Lea Hall Rd	
+114	2011		Lea Hall Rd	
+115	2011		Lea Village, Stechford	
+116	2011		Lenches Close, Mosley	
+117	2011		Lime Tree Rd	
+118	2011		Lode Ln @ Hermitage Rd	
+119	2011		Long Str	
+120	2011		Long Str Sparkhill	
+121	2011		Longbridge Ln	
+122	2011		Longmeadow Crescent Shard End, Bham	
+123	2011		Maccadown Ln	
+124	2011		Masshouse Ln	
+125	2011		Meadwaym Stechford	
+126	2011		Mickleover Rd, Bromford	
+127	2011		Moorcroft Rd	
+128	2011	Moseley	Moseley Rd	
+129	2011	Moseley	Moseley Rd	
+130	2011	Moseley	Moseley Rd	
+131	2011	Moseley	Moseley Rd	
+132	2011	Moseley	Moseley Village	
+133	2011	Moseley	Moseley Village	
+134	2011	Moseley	Moseley Village, Alcester Rd	
+135	2011	Moseley	Mosley All Services Club, Church Rd, Moseley	
+136	2011	Quinton	Nearlands Close Quinton	
+137	2011		New Str	
+138	2011		Northfield High Str	
+139	2011		O/S Behans, Highfield Rd, Billesley	
+140	2011		O/S The Junction, Mosley Village	
+141	2011		O/S Washwood Heath Rd	
+142	2011		Oakhill Rd, Acocks Green	
+143	2011		Opp White Hart Ln Cooks Ln	
+144	2011		Opposite, Aldi, Stratford Rd	
+145	2011		Outside Java Lounge Alcester Rd	
+146	2011		Outside O2 Academy Night Club B'Ham City Centre	
+147	2011		Outside Raven Public House	
+148	2011		Packington Ave, Shard End	
+149	2011		Park Off Hob Moor Rd	
+150	2011		Parkhall Croft	
+151	2011		Pear Tree Ph	
+152	2011		Police Stn	
+153	2011		Police Stn Stechford	
+154	2011		Poplar Rd	
+155	2011		Poplar Rd	
+156	2011	Solihull	Poplar Rd, Solihull	
+157	2011	Solihull	Poplar Rd, Solihull	
+158	2011		Preston Rd	
+159	2011		Priory Rd, Hall Green	
+160	2011		Prospect Rd	
+161	2011		Queenswood Rd	
+162	2011		Rear Of Boots, High Str	
+163	2011		Reddings Ln, Tsyley	
+164	2011		Richmond Primary Care Centre, Richmond Rd, Stechford	
+165	2011		Ring Rd, Stourbridge	
+166	2011		Sainsburys, Wawrick Rd	
+167	2011		Sainsburys Alcester Rd South	
+168	2011	Moseley	Sandford Rd Moseley	
+169	2011		Sarehole Mill	
+170	2011		Sedgemere Rd	
+171	2011		Shirley Rd	
+172	2011		Shirley Rd	
+173	2011		Snow Hill	
+174	2011	Solihull	Solihull Ln	
+175	2011	Moseley	St Mary'S Rd, Moseley	
+176	2011		St Marys Row	
+177	2011		Stn Rd	
+178	2011	Birmingham	Stn Way, Birmingham International Rail Stn	
+179	2011		Stechford Front Office	
+180	2011		Stechford Ps	
+181	2011		Stechford Retail Park	
+182	2011		Stonehenge Croft Druids Heath	
+183	2011		Stoney Ln	
+184	2011		Stoney Ln	
+185	2011		Stoney Ln	
+186	2011	Birmingham	Stratford Heath, Spark Hill, Birmingham	
+187	2011		Stratford Rd	
+188	2011		Stratford Rd	
+189	2011		Stratford Rd	
+190	2011		Stratford Rd, Hall Green	
+191	2011		Stratford Roads	
+192	2011		Stuart Rd, Stechford	
+193	2011		Talbort Str	
+194	2011		Taunton Rd	
+195	2011		Tavistock Rd	
+196	2011		The Ave	
+197	2011		The Paer Tree Pub	
+198	2011		Trafalger Rd	
+199	2011		Wake Green Rd	
+200	2011		Ward End Rd	
+201	2011		Warwick Rd	
+202	2011		Warwick Rd	
+203	2011		Warwick Rd	
+204	2011		Warwick Rd	
+205	2011		Warwick Rd	
+206	2011		Warwick Rd Tysley	
+207	2011		Wash Ln	
+208	2011		Washford Heath Rd	
+209	2011		Washwood Heath Pub	
+210	2011		Washwood Heath Rd, Washwood Heath, Bham	
+211	2011		Washwood Heath Rd	
+212	2011		Washwood Heath Rd	
+213	2011		Washwood Heath Rd	
+214	2011		Washwood Heath Rd	
+215	2011	Birmingham	Watery Ln Middleway, Birmingham	
+216	2011		Wawrick Rd	
+217	2011	Quinton	Welshfarm Rd, Quinton	
+218	2011		Westley Rd	
+219	2011		Westley Rd, Acocks Green	
+220	2011		White Hart Public House	
+221	2011		White Hart Public House	
+222	2011		Whiteheart Pub, Gressell Ln	
+223	2011		William Hill Bookmakers, Washwood Heath Rd	
+224	2011		William Hill Bookmakers, Washwood Heath Rd	
+225	2011		William Hill Washwood Heath Rd	
+226	2011		Windward Rd	
+227	2011		Windward Rd	
+228	2011		Wood End Rd, Erdington	
+229	2011	Moseley	Woodbridge Rd, Moseley	
+230	2011		Wright Str	
+231	2011		Yardley Green Rd	
+232	2011		Yardley Rd Acocks Green	
+233	2011		Yardley Wood Rd	
+234	2011		Yardley Wood Rd	
+235	2011		Yew Tree Car Park	
+236	2011		Yew Tree Ln	
+237	2011		Yew Tree Public House Car Park	
+238	2011	Birmingham	Armada Pub, Slade Rd, Erdington, Birmingham	
+239	2011		Armarda Pub, Gravelly Hill	
+240	2011		Armarda Pub, Gravelly Hill	
+241	2011		Badgers Bank Rd	
+242	2011	Birmingham	Baldmoor Lake Rd, Erdington, Birmingham	
+243	2011		Bandywood Rd, Kingstanding	
+244	2011		Beckenham Rd	
+245	2011		Beeches Walk	
+246	2011	Birmingham	Birmingham Rd	
+247	2011	Birmingham	Birmingham Rd	
+248	2011	Birmingham	Birmingham Rd, Sc	
+249	2011	Birmingham	Birmingham Rd	
+250	2011	Birmingham	Birmingham Rd	
+251	2011	Birmingham	Birmingham Rd Sutton	
+252	2011	Birmingham	Birmingham Rd, Erdington	
+253	2011	Birmingham	Birmingham Rd, Sutton Coldfield	
+254	2011	Birmingham	Birmingham Rd, Sutton Coldfield	
+255	2011		Bowling Green Close	
+256	2011		Bracebridge Rd, Erdington	
+257	2011		Brassington Ave	
+258	2011		Bromford Ln	
+259	2011		Bromford Ln, Erdington, B'Ham	
+260	2011		Brookvale Park Rd	
+261	2011		Carhampton Rd, Falcon Lodge, Sutton Colfield	
+262	2011		Carshalton Rd	
+263	2011		Carshorlton Rd	
+264	2011		Chester Rd	
+265	2011		Chester Rd	
+266	2011		Chester Rd, Halls Garden Centre	
+267	2011		Church Rd At Chester Rd	
+268	2011		College Rd, Kingstanding, B'Ham	
+269	2011		College Rd, Kingstanding, B'Ham	
+270	2011	Coldfield	Copshill Court, Mount View, Sutton Coldfield	
+271	2011		Dovedale Rd, Erdington, B'Ham	
+272	2011		Downside Rd, Erdington, B'Ham	
+273	2011		Eachelhurt Rd, Erdington	
+274	2011		Erdington Hall Rd	
+275	2011		Erdington Hall Rd	
+276	2011		Erdington High Str	
+277	2011		Fentham Rd, Erdington, B'Ham	
+278	2011		Finchley Rd	
+279	2011		Finchley Rd, Kingstanding, B'Ham	
+280	2011		George Frederick Rd	
+281	2011		Golden Pond Take Away Åäìýå Boldmere Rd	
+282	2011		Good Hope Hospital	
+283	2011		Gracechurch Centre	
+284	2011		Gracechurch Centre, Outside Supercigs	
+285	2011	Coldfield	Gracechurch Shopping Centre, Sutton Coldfield	
+286	2011		Grassed Area, Pype Hayes Park	
+287	2011		Gravelley Ln	
+288	2011		Gravelley Ln	
+289	2011		Gravelley Ln	
+290	2011	Birmingham	Gravelly Ln, Erdington, Birmingham	
+291	2011	Coldfield	Hairy Lemon Pub Sutton Coldfield	
+292	2011	Coldfield	Hairy Lemon Pub Sutton Coldfield	
+293	2011		Hermatige Rd	
+294	2011		Hermatige Rd	
+295	2011		Hermitage Drive	
+296	2011		High Str	
+297	2011		High Str Erdington	
+298	2011		High Str, Erdington	
+299	2011		High Str, Erdington	
+300	2011		High Str, S/C	
+301	2011		High Str, S/C	
+302	2011		Hight St Erdington	
+303	2011		Hunton Hill	
+304	2011		Kfc Retail Outlet, Erdington High Str	
+305	2011		Kingsbury Rd, Erdington, B'Ham	
+306	2011		Kingstanding Circle	
+307	2011	Birmingham	Ladywell Walk, Birmingham	
+308	2011		Landsdown Rd	
+309	2011		Lichfield Rd, Mere Green	
+310	2011	Coldfield	Lichfield Rd, Sutton Coldfield	
+311	2011	Coldfield	Lindridge Rd, Sutton Coldfield	
+312	2011		Little Aston Ln	
+313	2011		Longford Rd	
+314	2011		Longford Rd, Kingstanding, B'Ham	
+315	2011		Lower Parade	
+316	2011		Lower Parade	
+317	2011		Lower Parade	
+318	2011		Lower Parade	
+319	2011		Lower Parade	
+320	2011		Lower Parade	
+321	2011		Lower Parade	
+322	2011		Lower Parade	
+323	2011		Lower Parade	
+324	2011		Lower Parade	
+325	2011		Lower Parade	
+326	2011		Lower Parade	
+327	2011		Lower Parade	
+328	2011		Lower Parade	
+329	2011		Lower Parade	
+330	2011		Lower Parade	
+331	2011		Lower Parade	
+332	2011		Lower Parade	
+333	2011		Lower Parade	
+334	2011		Lower Parade Sc	
+335	2011		Lower Parade Sutton	
+336	2011	Coldfield	Lower Parade Sutton Coldfield	
+337	2011		Lower Parade,	
+338	2011	Coldfield	Lower Parade, Suton Coldfield	
+339	2011	Coldfield	Lower Parade, Sutton Coldfield	
+340	2011	Coldfield	Lower Parade, Sutton Coldfield	
+341	2011	Coldfield	Lower Parade, Sutton Coldfield	
+342	2011	Coldfield	Lower Parade, Sutton Coldfield	
+343	2011	Coldfield	Lower Parade, Sutton Coldfield	
+344	2011	Coldfield	Lower Parade, Sutton Coldfield	
+345	2011	Coldfield	Lower Parade, Sutton Coldfield	
+346	2011	Coldfield	Lower Parade, Sutton Coldfield	
+347	2011	Coldfield	Lower Parade, Sutton Coldfield	
+348	2011	Coldfield	Lower Parade, Sutton Coldfield	
+349	2011	Coldfield	Lower Parade, Sutton Coldfield	
+350	2011	Coldfield	Lower Parade, Sutton Coldfield	
+351	2011	Coldfield	Lower Parade, Sutton Coldfield	
+352	2011	Coldfield	Lower Parade, Sutton Coldfield	
+353	2011	Coldfield	Lower Parade, Sutton Coldfield	
+354	2011	Coldfield	Lower Parade, Sutton Coldfield Town Centre	
+355	2011	Coldfield	Lower Parade, Sutton Coldfield Town Centre	
+356	2011	Coldfield	Lower Parade, Sutton Coldfield	
+357	2011		Lydham Close	
+358	2011		Mill Str	
+359	2011	Coldfield	Mill Str, Sutton Coldfield	
+360	2011		Moor Hall Hotel	
+361	2011	Birmingham	Mulberry Court Carpark, Kings Rd, Kingstanding, Birmingham	
+362	2011		Newhall Walk Car Park	
+363	2011		Newhall Walk Car Park	
+364	2011		O/S H/A	
+365	2011		O/S Litten Tree	
+366	2011		O/S Litten Tree, S/C Town Centre	
+367	2011		O/S Moomoo Bar, S/C Town Centre	
+368	2011		O/S Moomoo Bar, South Parade	
+369	2011		O/S Retro	
+370	2011		O/S Retro, South Parade	
+371	2011		O/S Retros	
+372	2011		O/S Royal Hotel, Lichfield Rd	
+373	2011		O/S Temple Bar	
+374	2011		O/S Temple Bar	
+375	2011		O/S Temple Bar, High Str	
+376	2011	Coldfield	O/S Temple Bar, Lower Parade Sutton Coldfield	
+377	2011		O/S Temple Bar, S/C Town Centre	
+378	2011		O/S Temple Bar, Sutton Coldfield, West Milands	
+379	2011		O/S The Hairy Lemon	
+380	2011		On Pavement Outside The Royal Hotel	
+381	2011	Coldfield	Ourtside Royal Pub, Lichfield Rd, Sutton Coldfield	
+382	2011		Outside Glendale Tower, Lyndhurst Estate	
+383	2011	Birmingham	Outside Litten Tree Pub, Birmingham Rd, Sutton Coldfield`	
+384	2011	Coldfield	Outside Moo Moo Club, Town Centre, Sutton Coldfield	
+385	2011		Outside Moo Moo Night Club, South Parade	
+386	2011		Outside Temple Parade, Lower Parade	
+387	2011		Outside The Temple Bar, Lower Parade, Sc	
+388	2011	Coldfield	Parade Sutton Coldfield	
+389	2011		Parade Sc	
+390	2011	Coldfield	Parade Sutton Coldfield	
+391	2011	Coldfield	Parade Sutton Coldfield	
+392	2011	Coldfield	Parade Sutton Coldfield	
+393	2011		Parade Sutton Town	
+394	2011	Coldfield	Parade, Sutton Coldfield	
+395	2011	Coldfield	Parade, Sutton Coldfield	
+396	2011		Parade, Sutton Town Centre	
+397	2011		Parkeston Crescent, Kinsgatnding, B'Ham	
+398	2011		Plants Grove Erdington	
+399	2011		Pype Hayes Rd, Pype Hayes, B'Ham	
+400	2011		Pype Hayes Rd, Pype Hayes, B'Ham	
+401	2011		Pype Hayes Rd, Pype Hayes, B'Ham	
+402	2011		Queen Str	
+403	2011		Queen Str	
+404	2011		Queen Str	
+405	2011		Queen Str	
+406	2011	Coldfield	Queen Str Sutton Coldfield Town Centre	
+407	2011		Queslett Rd East	
+408	2011		Redacre Rd Boldmere	
+409	2011		Reservoir Rd	
+410	2011		Ridgeway	
+411	2011		Slade Rd, Erdington, B'Ham	
+412	2011		Slade Rd, Erdington, B'Ham	
+413	2011	Coldfield	Soth Parade, Sutton Coldfield	
+414	2011	Coldfield	Soth Parade, Sutton Coldfield	
+415	2011		South Parade	
+416	2011		South Parade	
+417	2011		South Parade	
+418	2011		South Parade	
+419	2011		South Parade	
+420	2011		South Parade	
+421	2011		South Parade	
+422	2011		South Parade	
+423	2011		South Parade	
+424	2011		South Parade	
+425	2011		South Parade	
+426	2011		South Parade	
+427	2011	Coldfield	South Parade Åäìýå Town Centre, Sutton Coldfield	
+428	2011	Coldfield	South Parade Sutton Coldfield	
+429	2011	Coldfield	South Parade Sutton Coldfield	
+430	2011		South Parade Sutton Town Centre	
+431	2011	Coldfield	South Parade, Sutton Coldfield	
+432	2011	Coldfield	South Parade, Sutton Coldfield	
+433	2011	Coldfield	South Parade, Sutton Coldfield	
+434	2011	Coldfield	South Parade, Sutton Coldfield	
+435	2011	Coldfield	South Parade, Sutton Coldfield	
+436	2011	Coldfield	South Parade, Sutton Coldfield	
+437	2011	Coldfield	South Parade, Sutton Coldfield	
+438	2011	Coldfield	South Parade, Sutton Coldfield	
+439	2011	Coldfield	South Parade, Sutton Coldfield	
+440	2011	Coldfield	South Parade, Sutton Coldfield	
+441	2011	Coldfield	South Parade, Sutton Coldfield	
+442	2011		South Parade, Sutton Town Centre	
+443	2011	Coldfield	South Parade, Town Centre, Sutton Coldfield	
+444	2011		Stornaway Rd Castle Vale	
+445	2011		Streetley Rd Erdington	
+446	2011		Sumburgh Croft	
+447	2011	Coldfield	Sutton Coldfield Town Centre	
+448	2011	Coldfield	Sutton Coldfield Town Centre	
+449	2011		Sutton New Rd	
+450	2011		Sutton New Rd Erdington	
+451	2011		Sutton New Rd Erdington	
+452	2011		Sutton New Rd Erdington	
+453	2011		Sutton New Rd, Erdington, B'Ham	
+454	2011		Sutton Parade	
+455	2011		Sutton Parade	
+456	2011		Sutton Parade	
+457	2011		Sutton Town Centre	
+458	2011		Sutton Town Centre	
+459	2011		Sutton Town Centre	
+460	2011		Sutton Town Centre	
+461	2011		Sutton Town Centre	
+462	2011		Tedbury Crescent	
+463	2011	Coldfield	Tesco'S Express, Walsall Rd, Four Oaks, Sutton Coldfield	
+464	2011		The Parade	
+465	2011		The Parade	
+466	2011		The Parade	
+467	2011		The Parade Sutton	
+468	2011	Coldfield	The Parade Sutton Coldfield	
+469	2011	Birmingham	The Parade, Birmingham Rd, Sutton Coldfield	
+470	2011	Coldfield	The Parade, Sutton Coldfield	
+471	2011	Coldfield	The Parade, Sutton Coldfield	
+472	2011	Coldfield	The Parade, Sutton Coldfield	
+473	2011	Coldfield	The Parade, Sutton Coldfield	
+474	2011	Coldfield	The Parade, Sutton Coldfield	
+475	2011	Coldfield	The Parade, Sutton Coldfield	
+476	2011		The Parade, Sutton Town Centre	
+477	2011		The Parade	
+478	2011		The Ridgeway	
+479	2011		The Ridgeway	
+480	2011		The Ridgeway	
+481	2011		The Swan Ph	
+482	2011		Turnhouse Rd	
+483	2011		Upper Holland Rd	
+484	2011	Victoria	Victoria Rd	
+485	2011	Victoria	Victoria Rd	
+486	2011	Victoria	Victoria Rd	
+487	2011	Coldfield	Walsh Drive, Walmley, Sutton Coldfield	
+488	2011		Warren Farm Rd	
+489	2011		Warren Farm Rd	
+490	2011		Whitehouse Common Rd	
+491	2011		Wilton Rd	
+492	2011		Windsor House, Jarvis Rd, Erdington	
+493	2011		Witton Lodge Rd	
+494	2011		Witton Lodge Rd, Erdington	
+495	2011		York Rd	
+496	2011		Abdon Ave	
+497	2011		Alcester Rd South	
+498	2011		Alvechurch Rd	
+499	2011		Arden Rd	
+500	2011		Ardencote Froad	
+501	2011		Ashley Close	
+502	2011	Bristol	Balti Spice Bristol Rd South	
+503	2011		Barnes Hill	
+504	2011		Barrow House	
+505	2011		Bell Str	
+506	2011	Birmingham	Birmingham New Str	
+507	2011	Birmingham	Birmingham New Str	
+508	2011	Birmingham	Birmingham New Str	
+509	2011	Birmingham	Birmingham Str, Oldbury	
+510	2011		Blandford Rd	
+511	2011		Bournbrook Rd	
+512	2011		Bournville Front Office	
+513	2011		Bournville Front Office	
+514	2011		Bournville Ln	
+515	2011		Bournville Ln	
+516	2011		Bournville Ln Front Office	
+517	2011		Bowling Green Rd	
+518	2011	Bristol	Bristol Rd	
+519	2011	Bristol	Bristol Rd	
+520	2011	Bristol	Bristol Rd	
+521	2011	Bristol	Bristol Rd	
+522	2011	Bristol	Bristol Rd Selly Oak	
+523	2011	Bristol	Bristol Rd South	
+524	2011	Bristol	Bristol Rd South	
+525	2011	Bristol	Bristol Rd Sth	
+526	2011	Bristol	Bristol Rd, Northfield	
+527	2011	Bristol	Bristol Rd, Selly Oak	
+528	2011	Bristol	Bristol Rd	
+529	2011	Bristol	Bristol Rd	
+530	2011	Bristol	Bristol Rd	
+531	2011	Bristol	Bristol Rd	
+532	2011	Bristol	Bristol Rd	
+533	2011	Bristol	Bristol Rd	
+534	2011	Bristol	Bristol Rd	
+535	2011	Bristol	Bristol Rd	
+536	2011	Bristol	Bristol Rd	
+537	2011	Bristol	Bristol Rd	
+538	2011	Bristol	Bristol Rd	
+539	2011	Bristol	Bristol Rd	
+540	2011	Bristol	Bristol Rd	
+541	2011	Bristol	Bristol Rd	
+542	2011	Bristol	Bristol Rd Northfield	
+543	2011	Bristol	Bristol Rd Selly Oak	
+544	2011	Bristol	Bristol Rd Selly Oak	
+545	2011	Bristol	Bristol Rd Selly Oak	
+546	2011	Bristol	Bristol Rd South, Northfield	
+547	2011	Bristol	Bristol Rd South, Selly Oak	
+548	2011	Bristol	Bristol Rd, Selly Oak	
+549	2011	Bristol	Bristol Rd, Selly Oak	
+550	2011	Bristol	Bristol Rd, Selly Oak	
+551	2011		Broad Str	
+552	2011		Broad Str	
+553	2011		Broad Str	
+554	2011		Broad Str, City Centre	
+555	2011		Broad Str, City Centre	
+556	2011		Brook Ln	
+557	2011		Bunburry Rd	
+558	2011		Bunburry Rd	
+559	2011		Burnhill Grove,Weoley Castle,Birmingham	
+560	2011		Car Park Of Bournville Ln P/Stn	
+561	2011		Chinbrook Rd, Billsley	
+562	2011		Church Hill Nortthfield	
+563	2011		Church Rd	
+564	2011		Compton Rd, Cradley Heath	
+565	2011		Costcutters, Ardern Rd	
+566	2011		Dawberry Rd	
+567	2011		Dawlish Rd	
+568	2011		Dingle Club	
+569	2011		Doddington Rd	
+570	2011		Dog Kennel Ln	
+571	2011		Dog Pool Ln	
+572	2011		Downfield Drive	
+573	2011	Dudley	Dudley Bus Stn	
+574	2011		Dwellings Ln	
+575	2011		Eafo	
+576	2011		Edgbaston Cricket Ground	
+577	2011		Edgbaston Park Rd	
+578	2011		Exeter Rd / Hubert Rd	
+579	2011		Fordhouse Ln	
+580	2011		Four Acres,Quinton	
+581	2011		Frogmill Rd, Frankley	
+582	2011		Genners Ln	
+583	2011		Glastonbury Rd	
+584	2011		Great Park Rubery	
+585	2011		Griffins Brook Ln	
+586	2011		Grosvenor Shopping Centre	
+587	2011		Hagley Rd	
+588	2011		Hagley Rd	
+589	2011		Hagley Rd	
+590	2011		Hagley Rd	
+591	2011		Hagley Rd	
+592	2011		Hagley Rd	
+593	2011		Hagley Rd	
+594	2011		Hagley Rd	
+595	2011		Hagley Rd	
+596	2011		Hagley Rd, Edgbaston	
+597	2011		Hagley Rd, Eedgbaston	
+598	2011	Harborne	Harborne Cricket Club	
+599	2011	Harborne	Harborne High St	
+600	2011	Harborne	Harborne High Str	
+601	2011	Harborne	Harborne High Str	
+602	2011	Harborne	Harborne High Str	
+603	2011	Harborne	Harborne Park Rd	
+604	2011	Harborne	Harborne Police Stn	
+605	2011		Harbourne Cricket Club	
+606	2011		Hawkesley End	
+607	2011		Hawkesley Square	
+608	2011		Hazelwell Str	
+609	2011		Heathmill Ln Digbeth	
+610	2011		Herons Wood	
+611	2011		High St	
+612	2011	Harborne	High St Harborne	
+613	2011	Harborne	High St Harborne	
+614	2011		High St Northfield	
+615	2011	Harborne	High Str Harborne	
+616	2011	Harborne	High Str Harborne	
+617	2011	Harborne	High Str Harborne	
+618	2011	Harborne	High Str Harborne	
+619	2011		High Str Harbourne	
+620	2011	Harborne	High Str, Harborne	
+621	2011	Harborne	High Str, Harborne	
+622	2011		Highfdield Ln	
+623	2011		Highfield Ln	
+624	2011	Quinton	Highfield Ln, Quinton	
+625	2011		Hoggs Ln, Northfield	
+626	2011		Hollybank Rd	
+627	2011		Holywood Bowl, Rubery	
+628	2011		Home Address	
+629	2011		Honnington Crescent, Northfield	
+630	2011		Jiggins Ln	
+631	2011		Jiggins Ln, Bartley Green	
+632	2011		Kembertone Rd	
+633	2011		Kings Norton Green	
+634	2011		Leech Green Rd	
+635	2011		Leith Grove	
+636	2011		Leith Grove	
+637	2011		Long Fellow Rd	
+638	2011		Longbridge Ln	
+639	2011		Longbridge Ln	
+640	2011		Longbridge Ln, West Heath	
+641	2011		Longham Croft	
+642	2011		Lottie Rd	
+643	2011		Lutley Grove	
+644	2011	Harborne	Malins Rd, Harborne	
+645	2011		Manderville House	
+646	2011		Marjoram Close, Hawksley	
+647	2011		Masshouse Ln	
+648	2011		Masshouse Ln	
+649	2011		Maypole Ln	
+650	2011		Merritts Hill	
+651	2011		Metchley Ln	
+652	2011		Moat Rd	
+653	2011		Mounbatten House, Wyndham Rd	
+654	2011		New Str Br	
+655	2011		New Str Stn	
+656	2011		Nortb Worcester Golf Club	
+657	2011	Harborne	North Str, Harborne	
+658	2011	Harborne	North Str, Harborne	
+659	2011		Northfield High Str	
+660	2011		Northfield High Str	
+661	2011		Oakridge Rd Northfield	
+662	2011		Oddingley Rd	
+663	2011		Oddingley Rd, West Heath	
+664	2011		Paradise Forum,Birmingham	
+665	2011		Parsons Hill	
+666	2011		Pershore Rd	
+667	2011		Pershore Rd	
+668	2011		Pershore Rd	
+669	2011		Pershore Rd	
+670	2011		Pershore Rd	
+671	2011		Pershore Rd	
+672	2011		Pershore Rd	
+673	2011		Pershore Rd	
+674	2011		Pershore Rd	
+675	2011		Pershore Rd	
+676	2011		Pershore Rd	
+677	2011		Pershore Rd South, Kings Norton	
+678	2011	Harborne	Poole Crescent, Harborne	
+679	2011		Poplar Ave	
+680	2011		Portlands Rd	
+681	2011		Princethorpe Rd	
+682	2011		Qe Casualty	
+683	2011		Qe Hospital	
+684	2011		Qe Hospital	
+685	2011		Quality Hotel	
+686	2011		Queen Elizabeth Hospital	
+687	2011		Raddlebarn Rd	
+688	2011		Richmond Hill Rd	
+689	2011		Richmond Rd	
+690	2011		Rose Rd	
+691	2011	Harborne	Rose Rd, Harborne	
+692	2011		Sainsburys, Frankley Beeches Rd, Northfield	
+693	2011		Selcroft Ave	
+694	2011		Shannon Rd, Kings Norton	
+695	2011		Shawbrook Grove	
+696	2011	Bristol	Shell Forecourt Bristol Rd	
+697	2011		Sir Hiltons Rd, West Heath	
+698	2011		Snax 24 Forcourt	
+699	2011	Solihull	Solihull High Str	
+700	2011	Solihull	Solihull High Str Outside Rosies	
+701	2011	Quinton	Stanley Rd Quinton	
+702	2011		Stone Rd, Edgbaston	
+703	2011		Stonehouse Ln	
+704	2011		Stratford Road,Sparkbrook,Birmingham	
+705	2011		The Fold	
+706	2011		The Fold, Kings Norton	
+707	2011		The Jester Ph	
+708	2011		The Parade Queensway, City Centre	
+709	2011		The Royal Oak Public House, Pershore Rd	
+710	2011		Three Horshoes Ph	
+711	2011		Three Shires Oak Rd	
+712	2011		Three Shires Rd	
+713	2011		Trescotte Rd	
+714	2011		Turves Green	
+715	2011		Unknown	
+716	2011		Valbourne Rd Kings Heath	
+717	2011		Vicarage Rd, Kings Heath	
+718	2011		Vineyard Rd, Northfield	
+719	2011		War Ln	
+720	2011		Watford Rd, Cotteridge	
+721	2011		Weolly Castle Rd	
+722	2011		Westminster Rd	
+723	2011	Wolverhampton	Wolverhampton Str	
+724	2011	Quinton	Woodhouse Rd, Quinton	
+725	2011		Woodmeadow Rd	
+726	2011		Worlds End Ln	
+727	2011		Worlds End Ln	
+728	2011		Worlds End Lane,Quinton	
+729	2011		Worlds End Lane,Quinton	
+730	2011		Acardian Centre	
+731	2011		Adderley Rd	
+732	2011		Air Night Club	
+733	2011	Birmingham	Albert Rd, Handsworth, Birmingham	
+734	2011	Birmingham	Arcadia Centre, Birmingham City Centre	
+735	2011		Arcadian	
+736	2011		Arcadian	
+737	2011	Birmingham	Arcadian Birmingham City Centre	
+738	2011	Birmingham	Arcadian Center, Birmingham	
+739	2011		Arcadian Centre	
+740	2011		Arcadian Centre	
+741	2011		Arcadian Centre	
+742	2011		Arcadian Centre	
+743	2011		Arcadian Centre	
+744	2011		Arcadian Centre	
+745	2011		Arcadian Centre	
+746	2011		Arcadian Centre	
+747	2011		Arcadian Centre	
+748	2011		Arcadian Centre	
+749	2011		Arcadian Centre	
+750	2011		Arcadian Centre	
+751	2011		Arcadian Centre	
+752	2011		Arcadian Centre	
+753	2011		Arcadian Centre Bham	
+754	2011	Birmingham	Arcadian Centre, Birmingham	
+755	2011	Birmingham	Arcadian Centre, Birmingham City Centre	
+756	2011		Arcadian Centre, Ladywell Walk	
+757	2011		Arcadian Centre, Ladywell Walk	
+758	2011	Birmingham	Arcadian Entertainment Centre, Birmingham	
+759	2011		Arcadian, City Centre	
+760	2011		Arcadian, Hurst Str	
+761	2011		Aston Hotel`	
+762	2011		Aston Police Stn	
+763	2011		Aston Villa Football Ground	
+764	2011		Attenborough Close	
+765	2011		Away Fans Coach Park, Bham Cfc	
+766	2011		Away Supporters Entrance Bcfc	
+767	2011		Bar Risa	
+768	2011	Birmingham	Bath Row, Birmingham	
+769	2011		Bath Street,City Centre	
+770	2011		Bcfc Home Fans Car Aprke	
+771	2011		Bcfc Ground	
+772	2011		Bcfc Tilton Rd Entrance	
+773	2011		Berkeley Str	
+774	2011		Berkeley Str	
+775	2011		Berkley Str	
+776	2011		B'Ham New Str Stn	
+777	2011		Big Bite, Broad Str	
+778	2011	Birmingham	Bigwok Restaurant, Birmingham	
+779	2011		Birchfield Rd, Perry Barr	
+780	2011	Birmingham	Birchfield Rd, Birmingham	
+781	2011		Birchfield Rd, City Centre	
+782	2011		Birchfiled Rd	
+783	2011	Birmingham	Birmingham City Fc Åäìýå Coach Park	
+784	2011	Birmingham	Birmingham Magistrates Court	
+785	2011	Birmingham	Birmingham New St	
+786	2011	Birmingham	Birmingham New Str Stn	
+787	2011	Birmingham	Birmingham New Str,	
+788	2011		Bishopgate Str @ Junction Of Broad Str	
+789	2011		Bishopgate Str, City Centre	
+790	2011		Bishopsgate Str	
+791	2011		Bliss Bar, Broad Str	
+792	2011	Birmingham	Bliss Nightclub, Broad St, Birmingham	
+793	2011		Bliss Nightclub, Broad St	
+794	2011		Bliss, Broad St	
+795	2011	Bordesley	Bordesley Green	
+796	2011	Bordesley	Bordesley Green Rd	
+797	2011	Birmingham	Bradford St, Birmingham	
+798	2011		Braod Str, City Centre	
+799	2011		Braod Str, City Centre	
+800	2011		Braod Str, City Centre	
+801	2011		Braod Str, City Centre	
+802	2011		Braod Str, City Centre	
+803	2011		Braod Str, City Centre	
+804	2011		Briar Rose Ph Bennetts Hill	
+805	2011		Brighton Arms Ph	
+806	2011	Birmingham	Bristol Rd, Birmingham	
+807	2011	Bristol	Bristol Rd, Edgbaston	
+808	2011	Birmingham	Bristol St, Birmingham City Centre	
+809	2011	Bristol	Bristol Str	
+810	2011	Bristol	Bristol Str	
+811	2011	Bristol	Bristol Str South	
+812	2011	Bristol	Bristol Str South	
+813	2011		Brittania Hotel	
+814	2011		Broad St	
+815	2011		Broad St	
+816	2011		Broad St	
+817	2011		Broad St	
+818	2011		Broad St	
+819	2011		Broad St	
+820	2011		Broad St	
+821	2011		Broad St	
+822	2011		Broad St	
+823	2011		Broad St	
+824	2011		Broad St @ Gas Str, City Centre	
+825	2011		Broad St Bham	
+826	2011		Broad St Bham	
+827	2011		Broad St City Centre	
+828	2011	Birmingham	Broad St City Centre Birmingham	
+829	2011		Broad St, Bham	
+830	2011		Broad St, Bham	
+831	2011		Broad St, Bham	
+832	2011		Broad St, Bham	
+833	2011		Broad St, Bham	
+834	2011		Broad St, Bham	
+835	2011		Broad St, Bham	
+836	2011		Broad St, Bham	
+837	2011	Birmingham	Broad St, Birmingham	
+838	2011	Birmingham	Broad St, Birmingham	
+839	2011	Birmingham	Broad St, Birmingham	
+840	2011		Broad Str	
+841	2011		Broad Str	
+842	2011		Broad Str	
+843	2011		Broad Str	
+844	2011		Broad Str	
+845	2011		Broad Str	
+846	2011		Broad Str	
+847	2011		Broad Str	
+848	2011		Broad Str	
+849	2011		Broad Str	
+850	2011		Broad Str	
+851	2011		Broad Str	
+852	2011		Broad Str	
+853	2011		Broad Str	
+854	2011		Broad Str	
+855	2011		Broad Str	
+856	2011		Broad Str	
+857	2011		Broad Str	
+858	2011		Broad Str	
+859	2011		Broad Str	
+860	2011		Broad Str	
+861	2011		Broad Str	
+862	2011		Broad Str	
+863	2011		Broad Str	
+864	2011		Broad Str	
+865	2011		Broad Str	
+866	2011		Broad Str	
+867	2011		Broad Str	
+868	2011		Broad Str	
+869	2011		Broad Str	
+870	2011		Broad Str	
+871	2011		Broad Str	
+872	2011		Broad Str	
+873	2011		Broad Str	
+874	2011		Broad Str	
+875	2011		Broad Str	
+876	2011		Broad Str	
+877	2011		Broad Str	
+878	2011		Broad Str	
+879	2011		Broad Str	
+880	2011		Broad Str	
+881	2011		Broad Str	
+882	2011		Broad Str	
+883	2011		Broad Str	
+884	2011		Broad Str	
+885	2011		Broad Str	
+886	2011		Broad Str	
+887	2011		Broad Str	
+888	2011		Broad Str	
+889	2011		Broad Str	
+890	2011		Broad Str	
+891	2011		Broad Str	
+892	2011		Broad Str	
+893	2011		Broad Str	
+894	2011		Broad Str	
+895	2011		Broad Str	
+896	2011		Broad Str	
+897	2011		Broad Str	
+898	2011		Broad Str	
+899	2011		Broad Str	
+900	2011		Broad Str	
+901	2011		Broad Str	
+902	2011		Broad Str	
+903	2011		Broad Str	
+904	2011		Broad Str	
+905	2011		Broad Str	
+906	2011		Broad Str	
+907	2011		Broad Str	
+908	2011		Broad Str	
+909	2011		Broad Str	
+910	2011		Broad Str	
+911	2011		Broad Str	
+912	2011		Broad Str	
+913	2011		Broad Str	
+914	2011		Broad Str	
+915	2011		Broad Str	
+916	2011		Broad Str	
+917	2011		Broad Str	
+918	2011		Broad Str	
+919	2011		Broad Str	
+920	2011		Broad Str	
+921	2011		Broad Str, City Centre	
+922	2011	Birmingham	Broad Str Birmingham	
+923	2011	Birmingham	Broad Str Birmingham	
+924	2011	Birmingham	Broad Str Birmingham	
+925	2011		Broad Str Opposite Walkabout	
+926	2011		Broad Str Outside Roccocco	
+927	2011		Broad Str, B'Ham	
+928	2011		Broad Str, B'Ham	
+929	2011	Birmingham	Broad Str, Birmingham	
+930	2011	Birmingham	Broad Str, Birmingham	
+931	2011	Birmingham	Broad Str, Birmingham	
+932	2011	Birmingham	Broad Str, Birmingham	
+933	2011	Birmingham	Broad Str, Birmingham	
+934	2011	Birmingham	Broad Str, Birmingham	
+935	2011	Birmingham	Broad Str, Birmingham	
+936	2011	Birmingham	Broad Str, Birmingham	
+937	2011	Birmingham	Broad Str, Birmingham	
+938	2011	Birmingham	Broad Str, Birmingham	
+939	2011	Birmingham	Broad Str, Birmingham	
+940	2011	Birmingham	Broad Str, Birmingham	
+941	2011	Birmingham	Broad Str, Birmingham	
+942	2011	Birmingham	Broad Str, Birmingham	
+943	2011	Birmingham	Broad Str, Birmingham	
+944	2011	Birmingham	Broad Str, Birmingham	
+945	2011	Birmingham	Broad Str, Birmingham	
+946	2011	Birmingham	Broad Str, Birmingham	
+947	2011	Birmingham	Broad Str, Birmingham	
+948	2011	Birmingham	Broad Str, Birmingham	
+949	2011	Birmingham	Broad Str, Birmingham	
+950	2011	Birmingham	Broad Str, Birmingham	
+951	2011	Birmingham	Broad Str, Birmingham	
+952	2011	Birmingham	Broad Str, Birmingham	
+953	2011	Birmingham	Broad Str, Birmingham	
+954	2011	Birmingham	Broad Str, Birmingham	
+955	2011	Birmingham	Broad Str, Birmingham	
+956	2011	Birmingham	Broad Str, Birmingham	
+957	2011		Broad Str, City Centre	
+958	2011		Broad Str, City Centre	
+959	2011		Broad Str, City Centre	
+960	2011		Broad Str, City Centre	
+961	2011		Broad Str, City Centre	
+962	2011		Broad Str, City Centre	
+963	2011		Broad Str, City Centre	
+964	2011		Broad Str, City Centre	
+965	2011		Broad Str, City Centre	
+966	2011		Broad Str, City Centre	
+967	2011		Broad Str, City Centre,	
+968	2011	Birmingham	Broad Str, City Centre, Birmingham	
+969	2011	Birmingham	Broad Str, City Centre, Birmingham	
+970	2011	Birmingham	Broad Str, City Centre, Birmingham	
+971	2011	Birmingham	Broad Str, City Centre, Birmingham	
+972	2011		Broad Str, City Centre	
+973	2011		Broad Str, City Centre	
+974	2011		Broad Street,City Centre	
+975	2011		Broad Street,City Centre	
+976	2011		Broad Street,City Centre	
+977	2011		Broad Str	
+978	2011	Birmingham	Broad Str Birmingham	
+979	2011		Broad Strret	
+980	2011		Broadway Plaza, Ladywood Middleway	
+981	2011	Birmingham	Bromsgrove Str, Birmingham	
+982	2011		Brookvale Rd Witton	
+983	2011		Bull Ring	
+984	2011		Bull Ring	
+985	2011		Bullring, City Centre	
+986	2011		Burford Rd, Kingstanding	
+987	2011		Calshott Rd, Great Barr	
+988	2011		Camborne Close	
+989	2011		Canal Side, Soho Loop, Handsworth	
+990	2011		Car Park, Avfc	
+991	2011		Carrs Ln	
+992	2011		Chiswell Rd	
+993	2011		Church Vale Rd	
+994	2011		City Hospita,Dudley Rd	
+995	2011		City Hospital	
+996	2011		City Hospital	
+997	2011		City Hospital	
+998	2011		City Hospital	
+999	2011		City Hospital	
+1000	2011		City Hospital	
+1001	2011		City Hospital	
+1002	2011	Dudley	City Hospital Dudley Rd	
+1003	2011	Birmingham	City Hospital, Birmingham	
+1004	2011	Birmingham	City Hospital, Birmingham	
+1005	2011	Birmingham	City Rd, Birmingham	
+1006	2011		City Tavern	
+1007	2011		City Tavern Bishopsgate Stm	
+1008	2011		Claythorn Ave	
+1009	2011		College Rd	
+1010	2011		Colmore Row	
+1011	2011		Colmore Row	
+1012	2011	Birmingham	Colmore Row, Birmingham	
+1013	2011	Birmingham	Colmore Row, Birmingham	
+1014	2011	Birmingham	Constitution Hill, Birmingham	
+1015	2011	Birmingham	Corparation Str, Birmingham	
+1016	2011		Corporation St	
+1017	2011		Corporation Str	
+1018	2011		Corporation Str	
+1019	2011		Corporation Str	
+1020	2011		Corporation Str	
+1021	2011	Birmingham	Corporation Str, Birmingham	
+1022	2011	Birmingham	Corporation Str, Birmingham	
+1023	2011	Birmingham	Corporation Str, Birmingham	
+1024	2011		Corporation Str, City Centre	
+1025	2011		Corporation Str, City Centre	
+1026	2011		Corporation Str, City Centre	
+1027	2011		Corporation Str, City Centre,	
+1028	2011		Corporation Str	
+1029	2011	Coventry	Coventry Entrance Bcfc	
+1030	2011	Coventry	Coventry Rd	
+1031	2011	Birmingham	Coventry Rd, Birmingham City Fc	
+1032	2011		Dale End	
+1033	2011		Dale End	
+1034	2011		Dale End	
+1035	2011		Dale End	
+1036	2011	Birmingham	Dale End Birmingham	
+1037	2011		Dale End City Centre	
+1038	2011	Birmingham	Dale End, Birmingham	
+1039	2011	Birmingham	Dale End, Birmingham	
+1040	2011	Birmingham	Dale End, Birmingham	
+1041	2011		Ddora Rd, Handsworth	
+1042	2011		Digbeth	
+1043	2011		Digbeth Coad Stn	
+1044	2011		Digbeth High Str	
+1045	2011		Digbeth High Str	
+1046	2011		Digbeth High Str, City Centre	
+1047	2011	Dudley	Dudley Rd	
+1048	2011		Edgbaston St	
+1049	2011		Edgbaston Str	
+1050	2011		Edmund Str	
+1051	2011	Birmingham	Ernest Str City Centre Birmingham	
+1052	2011		Essex St	
+1053	2011		Essex Str (Aston)	
+1054	2011	Birmingham	Essex Str, Birmingham	
+1055	2011		Essex Str, City Centre	
+1056	2011	Birmingham	Etap Hotel Foyer, Birmingham	
+1057	2011		Eva Rd	
+1058	2011		Faisley Str City Centre	
+1059	2011	Birmingham	Five Ways, Birmingham	
+1060	2011	Birmingham	Flood Gate Str Birmingham	
+1061	2011		Formula One Hotel	
+1062	2011		Fox Hollies Rd	
+1063	2011		Gas Str	
+1064	2011		Gas Str	
+1065	2011		Gas Str	
+1066	2011		Gas Str	
+1067	2011		Gas Str	
+1068	2011		Gas Street,City Centre	
+1069	2011		Gatecrasher,Broad Str	
+1070	2011	Birmingham	Gatescrasher, Bishopsgate, Birmingham	
+1071	2011		Golden Hind Ph	
+1072	2011		Golden Hind Pub Kingstanding Rd	
+1073	2011		Gooch St North	
+1074	2011		Grange Rd	
+1075	2011		Grangers Ln Cradley Heath	
+1076	2011		Great Charles Str, City Centre	
+1077	2011	Birmingham	Grosvenor Casino, Birmingham	
+1078	2011		Grotersley Str	
+1079	2011		Hagley Rd	
+1080	2011		Hall Rd	
+1081	2011		Hall Str	
+1082	2011		Hamstead Rd, Handsworth	
+1083	2011		Handsworth Park	
+1084	2011		Handsworth Police Stn	
+1085	2011	Birmingham	Hawthorn Rd, Kingstanding, Birmingham	
+1086	2011		Heath Mill Ln	
+1087	2011	Birmingham	High St Harborne Birmingham	
+1088	2011		High St, ~Digbeth	
+1089	2011		High St, Digbeth	
+1090	2011		High St, Digbeth	
+1091	2011		High Str, City Centre	
+1092	2011		High Street,City Centre	
+1093	2011		Hilden Rd	
+1094	2011	Birmingham	Hill St, Birmingham	
+1095	2011		Hill Str	
+1096	2011	Birmingham	Hill Str, Birmingham	
+1097	2011		Hill Str, City Centre	
+1098	2011		Hill Str, City Centre	
+1099	2011		Hill Str, City Centre	
+1100	2011		Hill Str, City Centre	
+1101	2011		Hockley Circus	
+1102	2011		Holiday Inn, Lionel St	
+1103	2011		Holiday Inn, Smallbrook Queensway,	
+1104	2011		Holiday Str	
+1105	2011		Holly Rd	
+1106	2011		Holte Str, Gosta Green	
+1107	2011		Home Address	
+1108	2011		Horsefair	
+1109	2011	Bristol	Horsefair Bristol St	
+1110	2011		Humer Tower,Francis Str	
+1111	2011		Hurst	
+1112	2011		Hurst St	
+1113	2011	Birmingham	Hurst St City Centre Birmingham	
+1114	2011		Hurst St, Bham	
+1115	2011		Hurst St, Birminhgam	
+1116	2011		Hurst Str	
+1117	2011		Hurst Str	
+1118	2011		Hurst Str	
+1119	2011		Hurst Str	
+1120	2011		Hurst Str	
+1121	2011		Hurst Str	
+1122	2011		Hurst Str	
+1123	2011		Hurst Str	
+1124	2011		Hurst Str	
+1125	2011		Hurst Str	
+1126	2011		Hurst Str	
+1127	2011		Hurst Str	
+1128	2011		Hurst Str	
+1129	2011		Hurst Str	
+1130	2011		Hurst Str	
+1131	2011		Hurst Str	
+1132	2011		Hurst Str	
+1133	2011		Hurst Str	
+1134	2011		Hurst Str	
+1135	2011		Hurst Str	
+1136	2011		Hurst Str	
+1137	2011		Hurst Str	
+1138	2011		Hurst Str	
+1139	2011	Birmingham	Hurst Str, Birmingham	
+1140	2011	Birmingham	Hurst Str, Birmingham	
+1141	2011	Birmingham	Hurst Str, Birmingham	
+1142	2011	Birmingham	Hurst Str, Birmingham	
+1143	2011	Birmingham	Hurst Str, Birmingham	
+1144	2011		Hurst Str, City Center	
+1145	2011		Hurst Str, City Centre,	
+1146	2011		Hurst Street,City Centre	
+1147	2011		Hurst Street,City Centre	
+1148	2011		Ibis Hotel	
+1149	2011		Icc	
+1150	2011		Icc,Broad Str	
+1151	2011		In Arcadian Centre Bham	
+1152	2011		Inge Str	
+1153	2011		Inge Str @ Hurst Str	
+1154	2011		Islington Row, City Centre	
+1155	2011		Islington Row, Middleway	
+1156	2011	Birmingham	James Watt Queensway, Birmingham	
+1157	2011		Kent Str	
+1158	2011		Kingstanding Rd	
+1159	2011		Kingstanding Rd	
+1160	2011		Lady Well Walk, City Centre	
+1161	2011		Ladywell Walk	
+1162	2011		Ladywell Walk	
+1163	2011		Ladywell Walk	
+1164	2011		Ladywell Walk	
+1165	2011		Ladywell Walk	
+1166	2011		Ladywell Walk	
+1167	2011		Ladywell Walk	
+1168	2011		Ladywell Walk	
+1169	2011	Birmingham	Ladywell Walk, Birmingham	
+1170	2011		Lattimer Place Winson Green	
+1171	2011	Birmingham	Lee Longlands, Broad Str, Birmingham	
+1172	2011		Linwood Rd H'Worth	
+1173	2011		Lloyds Baråäìýå Broad Str	
+1174	2011		Lloyds Bar, Broad Str	
+1175	2011		Lodge Rd Winson Green	
+1176	2011		Loft Lounge	
+1177	2011		Long Acre Nechells	
+1178	2011		Lower Bull Str	
+1179	2011		Lower Bull Str	
+1180	2011		Lower Parade, Sutton	
+1181	2011	Coldfield	Lower Parade, Sutton Coldfield	
+1182	2011	Bordesley	Macdonalds, Bordesley Green East	
+1183	2011	Birmingham	Macdonalds, Ramp, City Centre, Birmingham	
+1184	2011	Birmingham	Mailbox, Birmingham	
+1185	2011	Birmingham	Mcdonald Str, Birmingham	
+1186	2011		Millward Close, Small Heath	
+1187	2011		Mono Bar, Arcadian Centre	
+1188	2011		Mono Bar,Ladywell Walk, City Centre	
+1189	2011		Moor St	
+1190	2011		Moor Str	
+1191	2011		Moor Str Entance To Bull Ring	
+1192	2011	Birmingham	Moore Str, Birmingham	
+1193	2011	Birmingham	Moore Str, City Centre, Birmingham	
+1194	2011	Moseley	Moseley Park,Alcester Str	
+1195	2011	Birmingham	Navigation St, Birmingham	
+1196	2011		Navigation Str	
+1197	2011		Near To Hair & Beauty, Soho Rd	
+1198	2011		New Meeting Street,City Centre	
+1199	2011		New St	
+1200	2011		New St B'Ham City Centre	
+1201	2011		New St City Centre	
+1202	2011		New St Railway Stn	
+1203	2011		New St Railway Stn	
+1204	2011		New St Railway Stn	
+1205	2011	Birmingham	New St, Birmingham	
+1206	2011		New Str	
+1207	2011		New Str	
+1208	2011		New Str	
+1209	2011		New Str	
+1210	2011		New Str	
+1211	2011		New Str	
+1212	2011		New Str	
+1213	2011		New Str	
+1214	2011		New Str @ Stephenson Str	
+1215	2011	Birmingham	New Str City Centre, Birmingham	
+1216	2011		New Str Railwaty	
+1217	2011		New Str Stn	
+1218	2011		New Str Stn	
+1219	2011		New Str Stn	
+1220	2011		New Str Stn	
+1221	2011	Birmingham	New Str Stn, Birmingham	
+1222	2011		New Str Stn, Stn Approach	
+1223	2011	Birmingham	New Str, Birmingham	
+1224	2011	Birmingham	New Str, Birmingham	
+1225	2011	Birmingham	New Str, Birmingham	
+1226	2011		New Str, City Centre	
+1227	2011		New Str, City Centre	
+1228	2011		New Str, City Centre	
+1229	2011		New Str, City Centre	
+1230	2011		Newtown Housing Centre	
+1231	2011		Newtown Row	
+1232	2011		Next Clearance Store, Corporation Str	
+1233	2011		Nineva Rd Ayt Soho Rd	
+1234	2011		Not Known	
+1235	2011		O/S Bham Crown Court	
+1236	2011		O/S Flairs Broad Str	
+1237	2011	Birmingham	O/S Flares Club, Broad St, Birmingham	
+1238	2011		O/S Gatecrasher Broad Str	
+1239	2011		O/S Mcdonalds, Ramp, City Centre	
+1240	2011		O/S New Str Stn	
+1241	2011	Birmingham	O/S Oceania, Ladywell Walk, Birmingham	
+1242	2011		O/S Reflex Broad Str, City Centre	
+1243	2011		O/S The Crown Ph Stn Rd	
+1244	2011		O/S Walkabout Broad Str	
+1245	2011		O2 Academy	
+1246	2011		O2 Academy, Horsefair	
+1247	2011	Birmingham	Oh Bar, Broad Str, Birmingham	
+1248	2011	Birmingham	O'Neils, Broad Str, Birmingham	
+1249	2011	Birmingham	Os Birmingham Magistrates Court	
+1250	2011		Os Dubliner Ph	
+1251	2011		Outside Bliss Broad Str	
+1252	2011		Outside Bliss Nightclub	
+1253	2011		Outside Bliss Nightclub	
+1254	2011		Outside Bliss,Broad Str	
+1255	2011		Outside O Velvet, Broad St	
+1256	2011		Outside Oceana Club	
+1257	2011		Outside Reflex Nightclub	
+1258	2011		Outside Revolution Bridge St Walsal	
+1259	2011		Outside Rocket Club Broad St	
+1260	2011		Outside Walkabout,Broad Str	
+1261	2011	Birmingham	O'Velvet, Nightclub, Broad St, Birmingham	
+1262	2011		Oxhill Rd	
+1263	2011		Pagoda Island	
+1264	2011		Paradise Forum	
+1265	2011	Birmingham	Paradise Forum City Centre Birmingham	
+1266	2011	Birmingham	Paradise Forum, Victoria Square, Birmingham	
+1267	2011		Pershore St Car Park	
+1268	2011		Pershore Str Rd, City Centre	
+1269	2011		Pershore Str, City Centre	
+1270	2011	Birmingham	Pizza Hut, New St, Birmingham	
+1271	2011		Quigley Ave	
+1272	2011		Rag Market, City Centre	
+1273	2011	Birmingham	Reflex On Broad Str, Birmingham	
+1274	2011		Regency Wharf	
+1275	2011	Birmingham	Risa Bar, Birmingham	
+1276	2011		Risa,Broad Str	
+1277	2011		Rookery Rd, Handsworth	
+1278	2011	Birmingham	Rottersley Str, Birmingham	
+1279	2011		Rotunda Island, City Centre	
+1280	2011		Sainsburys Colmore Row	
+1281	2011		Sandringham Rd	
+1282	2011	Sandwell	Sandwell Hospital	
+1283	2011		Sence In The Arcadian	
+1284	2011	Birmingham	Sense Nightclub, Arcadia, Birmingham	
+1285	2011		Shadwell Str	
+1286	2011		Shakespeare Bar, New Str Stn	
+1287	2011		Shakespeare Ph, New St Stn	
+1288	2011	Birmingham	Sheepcote Str, Birmingham	
+1289	2011		Sioho Rd, Handsworth	
+1290	2011		Slade Rd, Erdington	
+1291	2011		Small Brook Queensway	
+1292	2011		Smallbrook Queensway	
+1293	2011		Smallbrook Queensway	
+1294	2011		Smallbrook Queensway	
+1295	2011	Birmingham	Smallbrook Queensway City Centre Birmingham	
+1296	2011		Smallbrook Queensway,City Centre	
+1297	2011		Smethwick End	
+1298	2011		Soho Hill	
+1299	2011	Birmingham	Soho Hill, Handsworth, Birmingham	
+1300	2011		Soho Rd	
+1301	2011		Soho Rd	
+1302	2011		Soho Rd	
+1303	2011		Soho Rd	
+1304	2011		Sommerfield Park, Winson Green	
+1305	2011		Square Peg Ph	
+1306	2011		Square Peg,Corporation Str	
+1307	2011		Star City, Aston	
+1308	2011	Birmingham	Star City, Birmingham	
+1309	2011		Star City, Nechells	
+1310	2011		Stn Rd, City Centre	
+1311	2011		Steelhouse Ln	
+1312	2011		Steelhouse Ln	
+1313	2011		Steelhouse Ln	
+1314	2011		Steelhouse Ln	
+1315	2011		Steelhouse Ln	
+1316	2011		Steelhouse Ln	
+1317	2011		Steelhouse Ln	
+1318	2011		Steelhouse Ln	
+1319	2011		Steelhouse Ln Police Stn	
+1320	2011	Birmingham	Steelhouse Ln, Birmingham	
+1321	2011	Birmingham	Steelhouse Ln, City Centre, Birmingham	
+1322	2011		Stephenson St	
+1323	2011		Stephenson Str	
+1324	2011	Birmingham	Stephenson Str, Birmingham City	
+1325	2011		Stephenson Str, City Centre	
+1326	2011		Stephensons Str	
+1327	2011		Suffolk St Queensway	
+1328	2011		Sugar Suite, Broad Str	
+1329	2011		Summer Ln	
+1330	2011		Summer Row	
+1331	2011		Temple Row	
+1332	2011		Temple Row	
+1333	2011		Tennant St	
+1334	2011		Terrace Rd, Handsworth	
+1335	2011		Tesco Aston Ln	
+1336	2011		Tesco Springhill	
+1337	2011	Coldfield	The Parade Sutton Coldfield	
+1338	2011	Coldfield	The Parade, Sutton Coldfield	
+1339	2011	Birmingham	The Ramp, Corporation St, Birmingham	
+1340	2011		The Ramp	
+1341	2011	Birmingham	Thornhill Rd, Birmingham	
+1342	2011		Thornhill Rd, Handsworth	
+1343	2011		Thorpe St At Hurst St	
+1344	2011		Thorpe Str	
+1345	2011		Trocadero Public House O/S	
+1346	2011		Turners Pallets, Hayhole Rd	
+1347	2011		Upper Dean Str	
+1348	2011	Birmingham	Upper Dean Str, Birmingham	
+1349	2011	Birmingham	Upper Dean Str, Birmingham City Centre	
+1350	2011		Upper Dean Str, City Centre	
+1351	2011	Coldfield	Upper Parade Sutton Coldfield	
+1352	2011	Coldfield	Upper Parade Sutton Coldfield	
+1353	2011	Victoria	Victoria Square, Bham	
+1354	2011	Victoria	Victoria Square, City Centre	
+1355	2011		Waiverley Park,Handsworth	
+1356	2011		Walkabout Bar Broad St	
+1357	2011	Birmingham	Walkabout Ph, Broad St, Birmingham	
+1358	2011	Birmingham	Walkabout Ph, Broad Str, Birmingham	
+1359	2011		Walkabout, Broad Str	
+1360	2011	Walsall	Walsall Rd, Great Barr	
+1361	2011	Walsall	Walsall Rd, Perry Barr	
+1362	2011		Warf Rd Kings Norton	
+1363	2011		Warwards Ln	
+1364	2011		Washington Drive, Handsworth Wood	
+1365	2011		Washington Str	
+1366	2011		Waterloo Rd, Smethwick	
+1367	2011		Waverhill Park, Handsworth	
+1368	2011		Waverhill Rd, Handsworth	
+1369	2011		Way Entrance Villa Ground	
+1370	2011		Wellington Rd	
+1371	2011		Witton Arms	
+1372	2011		Witton Rd	
+1373	2011		Witton Rd	
+1374	2011		Witton Rd Aston	
+1375	2011		Wrottesley Str	
+1376	2011	Coventry	Primrose Hill Coventry	
+1377	2011		Albany Rd	
+1378	2011		Aldbourne Rd	
+1379	2011		Aldermans Green Rd	
+1380	2011		Allesley Old Rd	
+1381	2011		Almond Tree Ave	
+1382	2011	Coventry	Arbury Ave Coventry	
+1383	2011		Arena Carpark A444	
+1384	2011	Coventry	Argyle St Coventry	
+1385	2011		Armstrong Ave Stoke	
+1386	2011		Ashorne Close	
+1387	2011		Attoxhall Rd	
+1388	2011		Averley Rd, Daimler Green	
+1389	2011		Awson Str	
+1390	2011		Bandals Surgery, Foleshill Rd	
+1391	2011		Bell Green Rd Junction A444	
+1392	2011	Coventry	Bell Green Rd, Coventry	
+1393	2011	Coventry	Bell Green Rd, Coventry	
+1394	2011		Binley Rd	
+1395	2011		Binley Rd	
+1396	2011		Binley Rd	
+1397	2011		Binley Rd	
+1398	2011		Bishop Str	
+1399	2011		Blackhorse Ln	
+1400	2011		Blythe Rd	
+1401	2011		Bp Garage Ansty Rd	
+1402	2011	Coventry	Bramble St Coventry	
+1403	2011	Coventry	Braod Park Rd, Coventry	
+1404	2011	Coventry	Bredon Ave, Coventry	
+1405	2011		Broadgate	
+1406	2011		Bull Yard	
+1407	2011		Bushberry Ave	
+1408	2011	Coventry	Butts Rd Coventry	
+1409	2011		Cashs Ln	
+1410	2011		Cauldon Rd	
+1411	2011		Charter Ave	
+1412	2011	Coventry	Charter Ave Coventry	
+1413	2011		Chester Str	
+1414	2011		Chesterton Rd	
+1415	2011	Coventry	Cheveral Ave, Coventry	
+1416	2011		Cliffbridge Rd	
+1417	2011		Clifton St,Coventry	
+1418	2011		Coc Str	
+1419	2011	Coventry	Communal Landing At George Poole House, Coventry	
+1420	2011		Compton Rd	
+1421	2011		Concourse Near Mortimers	
+1422	2011		Cook St	
+1423	2011		Corporation St	
+1424	2011		Corporation St,Coventry	
+1425	2011		Corporation Str	
+1426	2011		Coundon Rd	
+1427	2011	Coventry	Coventry	
+1428	2011	Coventry	Coventry Central Cells	
+1429	2011	Coventry	Coventry Central Front Office	
+1430	2011	Coventry	Coventry Central Pol Stn	
+1431	2011	Coventry	Coventry Central Police Stn	
+1432	2011	Coventry	Coventry Central Police Stn	
+1433	2011	Coventry	Coventry Central Ps	
+1434	2011	Coventry	Coventry Central Ps	
+1435	2011	Coventry	Coventry Railwat Stn	
+1436	2011	Coventry	Coventry Railway Stn	
+1437	2011	Coventry	Coventry Train Stn	
+1438	2011		Cox Str	
+1439	2011		Cross Rd	
+1440	2011		Devonshire Arms	
+1441	2011		Duckham Court	
+1442	2011		Earlsdon High Str	
+1443	2011	Birmingham	Elms Pub, Birmingham Rd	
+1444	2011		Fairfax Str	
+1445	2011		Far Gosford Str	
+1446	2011		Far Gosford Str	
+1447	2011		Farndale Ave	
+1448	2011		Farndale Ave	
+1449	2011		Foleshill Rd	
+1450	2011		Foleshill Rd	
+1451	2011		Foleshill Rd	
+1452	2011		Foleshill Rd	
+1453	2011	Coventry	Foleshill Rd, Coventry	
+1454	2011	Coventry	Four Pounds Ave, Coventry	
+1455	2011		Friars Rd	
+1456	2011	Coventry	Front Of Coventry Central Police Stn	
+1457	2011		Front Office	
+1458	2011		Front Office	
+1459	2011		Gala Bingo, Pool Meadow	
+1460	2011		Gosford Str	
+1461	2011		Gosford Str	
+1462	2011		Gosford Str	
+1463	2011	Coventry	Greyfriars St Coventry	
+1464	2011	Coventry	Gulson Rd Coventry	
+1465	2011	Coventry	Gulson Rd Coventry	
+1466	2011		Hale St	
+1467	2011	Coventry	Hales Str, Coventry	
+1468	2011		Hartfrod Str	
+1469	2011		Hayle Str	
+1470	2011		Hayles Str	
+1471	2011		Hedgefield Way	
+1472	2011	Coventry	Herald Way Coventry	
+1473	2011	Coventry	High St Coventry	
+1474	2011		High Str	
+1475	2011		High Str	
+1476	2011		Hill Str	
+1477	2011		Hipswell Highway	
+1478	2011		Holmesdale Rd	
+1479	2011		Hurst Rd	
+1480	2011		Ibis Hotel	
+1481	2011		Ikea Car Park	
+1482	2011		Ikea Plaza	
+1483	2011		Iron Monger Row	
+1484	2011		Jardine Crescent	
+1485	2011		Jardine Crescent	
+1486	2011		Jasrdine Crescent	
+1487	2011		Jd Wetherspoon Earlsdon	
+1488	2011		Jordan Well	
+1489	2011	Coventry	Jordan Well, Coventry	
+1490	2011		Jubilee Cresent	
+1491	2011		Kirby Rd	
+1492	2011		Lady Ln	
+1493	2011		Lambeth Close	
+1494	2011		Leader Close	
+1495	2011		Lidice Place	
+1496	2011		Lincoln Street,Coventry	
+1497	2011		Littl Park Str	
+1498	2011		Little Park St,Coventry	
+1499	2011		Little Park St,Coventry	
+1500	2011	Coventry	Little Park St Coventry	
+1501	2011		Little Park Str	
+1502	2011		Little Park Str	
+1503	2011		Little Park Str	
+1504	2011		Little Park Str	
+1505	2011		Little Park Str	
+1506	2011		Little Park Str	
+1507	2011		Little Park Str	
+1508	2011		Little Park Str	
+1509	2011		Little Park Str	
+1510	2011		London Rd	
+1511	2011		London Rd	
+1512	2011		Longford Rd	
+1513	2011		Lower Ford St	
+1514	2011		Lower Ford Str	
+1515	2011		Lower Holyhead D Jtn With Spon St	
+1516	2011	Coventry	Lower Holyhead Rd Coventry	
+1517	2011	Coventry	Lower Holyhead Rd Coventry	
+1518	2011	Coventry	Lower Precinct Coventry	
+1519	2011		Mafo	
+1520	2011		Manor House Drive	
+1521	2011		Market Way	
+1522	2011		Mary Slessor St	
+1523	2011		Masser Rd	
+1524	2011		Mcdonalds Restaurant A45,Coventry	
+1525	2011	Coventry	Memorial Park, Coventry	
+1526	2011		Middle Ride	
+1527	2011		Mile Ln	
+1528	2011		Mile Ln	
+1529	2011		Millenium Place	
+1530	2011		Millenium Place	
+1531	2011		Mint Casino, King William Str	
+1532	2011		Miranda Close	
+1533	2011		Morris Rd	
+1534	2011		Motor Museum	
+1535	2011		New Union St	
+1536	2011		Norman Place Rd	
+1537	2011		Northy Rd	
+1538	2011		O/S Ccfo	
+1539	2011	Coventry	O/S Coventry Central Police Stn	
+1540	2011		O/S Gosford Arms	
+1541	2011		Oak Gosford Str	
+1542	2011	Coventry	Outside Coventry Central Ps	
+1543	2011		Outside Foleshill Ps	
+1544	2011	Coventry	Outside Front Of Coventry Central Police Stn	
+1545	2011		Outside Heat Bar	
+1546	2011		Outside Kasbars	
+1547	2011	Coventry	Outside Of The Jewson Stand, Richo Arena, Coventry	
+1548	2011		Owenford Rd	
+1549	2011		Palm Tree Ave, Wood End	
+1550	2011	Coventry	Palmer Ln, Coventry	
+1551	2011	Coventry	Palmer Ln, Coventry	
+1552	2011	Coventry	Palmer Ln, Coventry	
+1553	2011	Coventry	Penruddick Drive, Coventry	
+1554	2011		Plymouth Close	
+1555	2011		Pool Meadow	
+1556	2011		Pool Meadow Bus Stn	
+1557	2011		Pool Meadow Bus Stn	
+1558	2011		Poolmeadow	
+1559	2011		Poolmeadow Bus Stn	
+1560	2011		Poolmeadow Bus Stn	
+1561	2011	Coventry	Poppy Court, Remembrance Rd, Willenhall, Coventry	
+1562	2011		Primrose Hill St	
+1563	2011		Primrose Hill Str	
+1564	2011		Primrose Hill Str	
+1565	2011		Primrose Hill Street,Coventry	
+1566	2011		Princethorpe Way	
+1567	2011	Coventry	Priory Fields, Coventry	
+1568	2011		Priory Gardens	
+1569	2011		Priory Str	
+1570	2011		Puma Way	
+1571	2011		Queen Mary'S Road,Foleshill,Coventry	
+1572	2011	Coventry	Queen Marys Rd Coventry	
+1573	2011	Victoria	Queen Victoria Rd	
+1574	2011		Radford Rd	
+1575	2011		Radford Rd	
+1576	2011		Raglan Str	
+1577	2011		Red Ln	
+1578	2011		Remembrance Rd	
+1579	2011		Richo Areana	
+1580	2011		Richo Areana	
+1581	2011	Coventry	Richo Arena, Coventry	
+1582	2011		Ricoh Arena	
+1583	2011		Ricoh Arena	
+1584	2011		Ricoh Arena	
+1585	2011	Coventry	Ridgethorpe, Willenhall, Coventry	
+1586	2011		Rileys Square, Bell Green	
+1587	2011		Ring Rd	
+1588	2011		Riverwalk Walk Wood End	
+1589	2011		Roland Avenue,Holbrooks,Coventry	
+1590	2011		Rotherhanm Rd	
+1591	2011		Sainsburys,Trinity St,Coventry	
+1592	2011		Scots Ln	
+1593	2011		Sewall Highway	
+1594	2011		Sewall Highway	
+1595	2011	Coventry	Sewall Highway Coventry	
+1596	2011		Silver Street,Coventry	
+1597	2011		Sky Blue Way	
+1598	2011		Sky Dome	
+1599	2011		Sky Dome	
+1600	2011		Sky Dome	
+1601	2011		Sky Dome	
+1602	2011		Sky Dome	
+1603	2011		Sky Dome	
+1604	2011		Sky Dome	
+1605	2011		Sky Dome	
+1606	2011		Sky Dome Concourse	
+1607	2011		Sky Dome Concourse	
+1608	2011		Sky Dome Concourse	
+1609	2011		Sky Dome Concourse	
+1610	2011		Sky Dome Concourse	
+1611	2011		Sky Dome Concourse Covenmtry	
+1612	2011	Coventry	Sky Dome Concourse Coventry	
+1613	2011		Sky Dome Concourse	
+1614	2011	Coventry	Sky Dome, Coventry	
+1615	2011	Coventry	Sky Dome, Coventry City Centre	
+1616	2011		Sky Dome	
+1617	2011		Sky Dome	
+1618	2011		Sky Dome	
+1619	2011		Skydome	
+1620	2011		Skydome	
+1621	2011		Skydome	
+1622	2011		Skydome	
+1623	2011		Skydome	
+1624	2011		Skydome	
+1625	2011	Coventry	Skydome, Coventry	
+1626	2011		Skydome Car Park	
+1627	2011		Skydome Car Park	
+1628	2011		Skydome Complex	
+1629	2011		Skydome Complex	
+1630	2011		Skydome Complex	
+1631	2011	Coventry	Skydome Complex, Coventry	
+1632	2011		Skydome Concourse	
+1633	2011		Skydome Concourse	
+1634	2011		Skydome Concourse	
+1635	2011		Skydome Concourse	
+1636	2011		Skydome Concourse	
+1637	2011		Skydome Concourse	
+1638	2011		Skydome Concourse	
+1639	2011		Skydome Concourse	
+1640	2011		Skydome Concourse	
+1641	2011		Skydome Concourse	
+1642	2011		Skydome Concourse	
+1643	2011		Skydome Concourse	
+1644	2011		Skydome Concourse	
+1645	2011		Skydome Concourse	
+1646	2011		Skydome Concourse	
+1647	2011		Skydome Concourse,Coventry	
+1648	2011		Skydome Concourse	
+1649	2011	Coventry	Skydome Coventry	
+1650	2011	Coventry	Skydome Coventry	
+1651	2011	Coventry	Skydome Coventry City Centre	
+1652	2011	Coventry	Skydome, Coventry	
+1653	2011	Coventry	Skydome, Coventry	
+1654	2011		Sorell Close	
+1655	2011		Southbank Road,Coventry	
+1656	2011	Coventry	Spom St Coventry	
+1657	2011		Spon End	
+1658	2011	Coventry	Spon End, Coventry	
+1659	2011		Spon St,Coventry	
+1660	2011		Spon St,Coventry	
+1661	2011	Coventry	Spon St Coventry	
+1662	2011	Coventry	Spon St Coventry	
+1663	2011	Coventry	Spon St Coventry	
+1664	2011	Coventry	Spon St Coventry	
+1665	2011	Coventry	Spon St Coventry	
+1666	2011	Coventry	Spon St Coventry	
+1667	2011	Coventry	Spon St Coventry	
+1668	2011		Spon Str	
+1669	2011		Spon Str	
+1670	2011		Spon Str	
+1671	2011		Spon Str	
+1672	2011		Spon Str	
+1673	2011		Spon Str	
+1674	2011		St Georges Rd	
+1675	2011		St Georges Rd, Stoke	
+1676	2011	Coventry	St Lukes Rd Coventry	
+1677	2011		Stonet Stanton Rd Police Stn	
+1678	2011	Coventry	Stoney Stanton Rd Police Stn, Coventry	
+1679	2011		Swanswell Park	
+1680	2011		Tachbrook Close	
+1681	2011	Coventry	Tarquin Close, Coventry	
+1682	2011		Terry Rd	
+1683	2011	Coventry	Terry Rd, Coventry	
+1684	2011		The Bull Yard City Centre	
+1685	2011		The Bullyard	
+1686	2011		The Burges	
+1687	2011		The Burgess	
+1688	2011		The Burgess	
+1689	2011		The Burgess	
+1690	2011	Coventry	The Butts Coventry	
+1691	2011		The Butts Retreat Ph	
+1692	2011		The Croft Longford	
+1693	2011	Coventry	The Forum Medical Centre, Coventry	
+1694	2011		Thimbler Rd	
+1695	2011	Coventry	Tile Hill Ln Coventry	
+1696	2011		Torrington Ave	
+1697	2011		Trinity Point Link	
+1698	2011		Trinity Str	
+1699	2011		Trinity Str	
+1700	2011		Trinity Str	
+1701	2011	Coventry	Trinity Str City Centre Coventry	
+1702	2011		University Hospital	
+1703	2011		University Hospital	
+1704	2011	Coventry	University Hospital Coventry	
+1705	2011	Coventry	Unniversity Of Warwick, Coventry	
+1706	2011		Upper Spon St	
+1707	2011		Vine Str	
+1708	2011		Vine Str	
+1709	2011		Vinecote Rd	
+1710	2011		Wallace Rd	
+1711	2011		Walsgrave Hospital	
+1712	2011		Warwick Row	
+1713	2011		Warwick University	
+1714	2011		West Orchard	
+1715	2011		West Orchards Circulatory Rd	
+1716	2011		White Str	
+1717	2011	Coventry	Willenhall Ln Coventry	
+1718	2011		Willenhall Police Stn Front Office	
+1719	2011		Willenhall Ps	
+1720	2011		Winnalthorpe	
+1721	2011	Coventry	Wood Way Ln Coventry	
+1722	2011		Wroxall Drive	
+1723	2011		Wroxhall Drive	
+1724	2011		Albion Str Brierley Hill	
+1725	2011		Amblecote High Str Stourbridge	
+1726	2011		Arley Court	
+1727	2011		Baptist End Rd Netherton	
+1728	2011		Bell St, Stourbridge	
+1729	2011		Bell Str	
+1730	2011		Bell Street,Stourbridge	
+1731	2011		Bhps	
+1732	2011	Birmingham	Birmingham Str, Stourbridge	
+1733	2011		Bramford Arms	
+1734	2011		Brettle Ln	
+1735	2011		Brickhouse Rd	
+1736	2011		Brisbane Rd, Smethwick	
+1737	2011		Broadway Stourbridge	
+1738	2011		Broadway, Stourbridge	
+1739	2011		Broadway, Stourbridge	
+1740	2011		Burmese Way, Rowley Regis	
+1741	2011	Dudley	Bus Stn, Dudley	
+1742	2011		Carpark Of Maybrook Hosue In Halesowen	
+1743	2011		Carpark Of The Barley Mow High Str Wollaston	
+1744	2011	Dudley	Castlegate Dudley	
+1745	2011		Cinder Bank Island Netherton	
+1746	2011		Court St	
+1747	2011		Courthouse Ph, Sedgeley	
+1748	2011		Crabmill Carpark Oldswinford	
+1749	2011		Crompton Rd	
+1750	2011		Crown Centre, Stourbridge	
+1751	2011	Dudley	Dudley Bus Stn	
+1752	2011	Dudley	Dudley Police Stn	
+1753	2011	Dudley	Dudley Rd	
+1754	2011	Dudley	Dudley Rd, Brierley Hill	
+1755	2011		Edward Rutland Ph, High Str, Stourbridge	
+1756	2011		Enville Rd	
+1757	2011		Fern Rd	
+1758	2011		Foster Street,Stourbridge	
+1759	2011		Front Office Bhps	
+1760	2011		Front Office, Stourbridge	
+1761	2011		Front Office, Stourbridge Police Stn	
+1762	2011		Hagley Rd	
+1763	2011		Halesowen Rd, Netherton	
+1764	2011		Halesowen Town Centre	
+1765	2011		Hampden Close,Quarry Bank	
+1766	2011		Hereford Rd, Netherton	
+1767	2011		High St Stourbridge	
+1768	2011		High St Stourbridge	
+1769	2011		High St Stourbridge	
+1770	2011		High St Stourbridge	
+1771	2011	Dudley	High St, Dudley	
+1772	2011		High St, Sedgely	
+1773	2011		High St, Stourbridge	
+1774	2011		High St, Stourbridge	
+1775	2011		High St, Stourbridge	
+1776	2011		High St, Stourbridge	
+1777	2011		High St, Stourbridge	
+1778	2011		High Str	
+1779	2011		High Str	
+1780	2011		High Str	
+1781	2011		High Str, Brierley Hill	
+1782	2011		High Str Blackheath	
+1783	2011		High Str Quarry Bank	
+1784	2011		High Str Stourbridge	
+1785	2011		High Str Stourbridge	
+1786	2011		High Str Stourbridge	
+1787	2011		High Str Stourbridge	
+1788	2011		High Str West Bromwich	
+1789	2011		High Str, Amblecote	
+1790	2011		High Str, Smethwick	
+1791	2011		High Str, Stourbridge	
+1792	2011		High Str, Stourbridge	
+1793	2011		High Str, Stourbridge	
+1794	2011		High Str, Stourbridge	
+1795	2011		High Str, Stourbridge	
+1796	2011		High Str, Stourbridge	
+1797	2011		High Str, Stourbridge	
+1798	2011		High Str, Stourbridge	
+1799	2011		High Street,Halesowen	
+1800	2011	Dudley	High View St, Dudley	
+1801	2011		Hilly Ln, Halesowen	
+1802	2011		Himley Road,Gornal	
+1803	2011		Home Address	
+1804	2011		Hope Tavern Netherton	
+1805	2011		Hurst Rd, Oldbury	
+1806	2011		Jackson Str, Lye	
+1807	2011	Dudley	Kfc, Merry Hill Centre Dudley	
+1808	2011	Dudley	King St Dudley	
+1809	2011		Kingsley Road,Netherton	
+1810	2011		Larel Ln Halesowen	
+1811	2011	Dudley	Little Barrel Ph, Dudley	
+1812	2011		Lloyds Bar Stourbridge	
+1813	2011		Long Ln, Halesowen	
+1814	2011		Lower Derry Str, Brierley Hill	
+1815	2011		Lower High Str, Stourbridge	
+1816	2011		Lupin Rd	
+1817	2011		Lye High St	
+1818	2011		Market Str Kingswinford	
+1819	2011		Market Str, Knigswinford	
+1820	2011		Market Str, Stourbridge	
+1821	2011		Market Str, Stourbridge	
+1822	2011		Market Street,Kingswinford	
+1823	2011		Marriot Rd	
+1824	2011		Marriot Rd	
+1825	2011		Mary Stevens Park	
+1826	2011		Maybrook House Car Park Halesowen	
+1827	2011		Meadowfields Close, Wordsley	
+1828	2011		Merryhill Centre, Brierley Hill	
+1829	2011		Mill Street,Sedgley	
+1830	2011		Mill Street,Sedgley	
+1831	2011		Moore Str	
+1832	2011	Dudley	New Rd, Dudley	
+1833	2011		New Rd Stourbridge	
+1834	2011	Dudley	New Str Dudley	
+1835	2011		Odeon Cinema, Merry Hill	
+1836	2011		Odeon Cinema, Merry Hill	
+1837	2011		Outside Santander High Str Stourbridge	
+1838	2011		Park Rd Wrens Nest	
+1839	2011		Playground At Priory Primary School	
+1840	2011		Princess Rd, Old Hill	
+1841	2011		Priory Street,Dudley	
+1842	2011		Rhh	
+1843	2011		Ring Rd, Stourbridge	
+1844	2011		Ring Rd, Stourbridge	
+1845	2011		Rookery Park, Pensnett	
+1846	2011		Salop Str	
+1847	2011		Salop Str	
+1848	2011		Sedgley Bullring	
+1849	2011		Sedgley Conservative Club	
+1850	2011		Sedgley Conservative Club	
+1851	2011		Short St	
+1852	2011		South Road,Stourbridge	
+1853	2011		Stourbridge	
+1854	2011		Stourbridge High St	
+1855	2011		Stourbridge High Str	
+1856	2011		Stourbridge High Str	
+1857	2011		Stourbridge High Str	
+1858	2011		Stourbridge Junction	
+1859	2011		Stourbridge Ps Front Office	
+1860	2011		Stourbridge Rd Holly Hall	
+1861	2011		Stourbridge Rd, Lye	
+1862	2011		Stourbridge Rd, Brierley Hill	
+1863	2011		Stourbridge Rd, Brierley Hill	
+1864	2011		Stourbridge Rd	
+1865	2011		Tesco Express Amblecote Stourbridge	
+1866	2011		The Swan Public House, Kingswinford	
+1867	2011	Dudley	Tower Str, Dudley	
+1868	2011	Victoria	Victoria Str, Stoubridge	
+1869	2011		Ward B3, Rhh	
+1870	2011	Dudley	Windmill End, Dudley	
+1871	2011		Windmill Ln Cape Hill	
+1872	2011	Dudley	Wolverhampton Str Dudley	
+1873	2011	Dudley	Wolverhampton Str, Dudley	
+1874	2011	Dudley	Wolverhampton Str, Dudley	
+1875	2011		Worcester Str Stourbridge	
+1876	2011	Dudley	W'Ton Str, Dudley	
+1877	2011	Dudley	W'Ton Str, Dudley	
+1878	2011		A+E Soliohull Hospital	
+1879	2011		Airport	
+1880	2011		Ash Crescent, Chelmsley Wood	
+1881	2011		Assembly Rooms	
+1882	2011		Auckland Drive	
+1883	2011		Auckland Drive	
+1884	2011		Auckland Drive	
+1885	2011		Auckland Drive	
+1886	2011		Auckland Drive, C Wood	
+1887	2011	Solihull	Auckland Drive, Chelmsley Wood Solihull	
+1888	2011		Bham Airport	
+1889	2011		Bham Int Train Stn	
+1890	2011		Bham International Train Stn	
+1891	2011	Birmingham	Birmingham Airport	
+1892	2011		Blair Grove,Chelmsley Wood,Birmingham	
+1893	2011	Solihull	Brackleys Way, Solihull	
+1894	2011		Brickhill Dr	
+1895	2011		Broad Str, Os Gatecrasher	
+1896	2011	Solihull	By St Alphedge Church, Solihull	
+1897	2011		Carpark Marston Green Tavern	
+1898	2011		Chelmsley Rd, Chelmsley Wood	
+1899	2011		Chelmsley Rd, Chelmsley Wood	
+1900	2011		Church Close	
+1901	2011		Clock Public House, Clock Ln	
+1902	2011		Colebrook Rd	
+1903	2011		Colebrook Rd	
+1904	2011		Copt Heath Drive, Knowle	
+1905	2011		Danford Ln	
+1906	2011		Dunton Hall Rd, Shirley	
+1907	2011	Coventry	Foleshill Rd, Coventry	
+1908	2011		Forth Drive	
+1909	2011		Fox Hollies Rd	
+1910	2011		Foyer Of Etap Hotel Bhx	
+1911	2011		Grandys Drive, Chelmsley Wood	
+1912	2011		Green Ln	
+1913	2011		Greenwood Shopping Centre	
+1914	2011		Greswold Hotel	
+1915	2011		Halifax Rd	
+1916	2011		Helmswood Drive	
+1917	2011		Helmswood Drive	
+1918	2011		Helmswood Drive	
+1919	2011		High St	
+1920	2011		High St	
+1921	2011		High St,Solihull	
+1922	2011	Solihull	High St Solihull	
+1923	2011	Solihull	High St Solihull	
+1924	2011	Solihull	High St, Town Centre Solihull	
+1925	2011		High Str	
+1926	2011		High Str	
+1927	2011		High Str	
+1928	2011		High Str	
+1929	2011		High Str	
+1930	2011		High Str	
+1931	2011		High Str	
+1932	2011		High Street,Solihull	
+1933	2011		High Street,Solihull	
+1934	2011	Solihull	High Str Solihull	
+1935	2011	Solihull	High Str Solihull	
+1936	2011	Solihull	High Str Solihull	
+1937	2011	Solihull	High Str, Solihull	
+1938	2011	Solihull	High Str, Solihull	
+1939	2011	Solihull	High Str, Solihull Town Centre	
+1940	2011		High Str, Solihull, West Mids	
+1941	2011	Birmingham	Highfield Roa Washwood Heath Birmingham	
+1942	2011	Solihull	Hillfield Park, Solihull	
+1943	2011	Solihull	Hobsmoat Rd, Solihull	
+1944	2011		Hoggarts Hotel Dorridge	
+1945	2011		Kingfisher Drive Smithswood	
+1946	2011		Kitts Green Rd, Kitts Green, Bham	
+1947	2011		Kitts Green Rd	
+1948	2011		Laburnam Ave	
+1949	2011		Lg Arena	
+1950	2011		Lg Arena Nec Complex	
+1951	2011		Lg Arena Nec	
+1952	2011		Lg Arena Nec Complex	
+1953	2011		Lode Ln	
+1954	2011		Lode Ln	
+1955	2011		Lodge Rd	
+1956	2011	Solihull	Manor Walk Solihull	
+1957	2011		Marlene Croft	
+1958	2011		Mcdonalds	
+1959	2011		Mill Ln	
+1960	2011	Solihull	Mill Ln, Solihull	
+1961	2011		Moordane Ave	
+1962	2011	Solihull	Moorend Ave Opposite Wiilow Ave Solihull	
+1963	2011		O/S Avaon Croft House Wincester Drive	
+1964	2011	Birmingham	O/S Departure Terminal Birmingham International Airport Solihull	
+1965	2011	Solihull	O/S Grrenwood Ph Helmswood Drive Chelmsley Wood Solihull	
+1966	2011	Solihull	O/S Loft Nightclub High St Solihull	
+1967	2011		O/S Mill Labe Entrance To Touchwood Shopping Centre	
+1968	2011		O/S Red Lion Earlswood	
+1969	2011	Solihull	O/S Rosies, High St Solihull	
+1970	2011	Solihull	O/Sthe Loft, Solihull	
+1971	2011	Solihull	O?S Coach House P>H Herbert Rd Solihull West Midlands	
+1972	2011	Solihull	O'Neills Poplar Rd Solihull	
+1973	2011		Os Assembly Rooms, Poplar Rd	
+1974	2011		Os Lg Arena, Nec Complex	
+1975	2011		Os Lg Arena/ Nec Complex	
+1976	2011		Outside The Clock Ph, Clock Ln	
+1977	2011	Solihull	Outside White Swan Stn Rd Solihull	
+1978	2011		Park In Bell Lane`	
+1979	2011		Parkdale Rd Sheldon	
+1980	2011	Solihull	Poplar Rd Solihull	
+1981	2011		Poplar Rd	
+1982	2011		Poplar Rd	
+1983	2011		Poplar Rd	
+1984	2011		Poplar Rd	
+1985	2011		Poplar Rd	
+1986	2011		Poplar Rd	
+1987	2011		Poplar Rd	
+1988	2011		Poplar Rd	
+1989	2011		Poplar Rd	
+1990	2011		Poplar Rd	
+1991	2011		Poplar Rd	
+1992	2011		Poplar Rd	
+1993	2011		Poplar Rd	
+1994	2011		Poplar Rd	
+1995	2011		Poplar Rd Solihull, West Midlands	
+1996	2011	Solihull	Poplar Rd, Solihull	
+1997	2011	Solihull	Poplar Rd, Solihull	
+1998	2011	Solihull	Poplar Rd, Solihull	
+1999	2011	Solihull	Poplar Rd, Solihull	
+2000	2011	Solihull	Poplar Rd, Solihull	
+2001	2011	Solihull	Poplar Rd, Solihull	
+2002	2011	Solihull	Poplar Rd, Solihull	
+2003	2011	Solihull	Poplar Rd, Solihull	
+2004	2011	Solihull	Poplar Rd, Solihull	
+2005	2011	Solihull	Poplar Way Solihull	
+2006	2011	Solihull	Poplar Way, Solihull	
+2007	2011	Solihull	Rolls Wood Drive Solihull West Midlands	
+2008	2011		Scolfield Rd Kingshurst	
+2009	2011	Solihull	Solihull / Stn Rd	
+2010	2011	Solihull	Solihull A+E	
+2011	2011	Solihull	Solihull High Str	
+2012	2011	Solihull	Solihull Hospital	
+2013	2011	Solihull	Solihull Hospital	
+2014	2011	Solihull	Solihull Moors Football Club Damson Parkway Solihull	
+2015	2011	Solihull	Solihull Town Centre	
+2016	2011	Solihull	Solihull Town Centre	
+2017	2011	Solihull	Solihull Town Centre Solihull West Midlands	
+2018	2011	Solihull	Solihull Town Centre/ Lode Ln	
+2019	2011	Solihull	Solihull Town Centre/ Outside Kings Chip Shop	
+2020	2011		Solihull/ Poplar Rd	
+2021	2011		Stanley Ave	
+2022	2011		Stn Rd	
+2023	2011		Stn Rd At Herbert Rd Junction	
+2024	2011	Solihull	Stn Rd With Juction Of Herbert Rd Solihull	
+2025	2011		Stn Rd	
+2026	2011		Stn Rd	
+2027	2011	Solihull	Stn Rd Solihull	
+2028	2011	Solihull	Stn Rd Solihull	
+2029	2011	Solihull	Stn Rd Solihull	
+2030	2011	Solihull	Stn Rd Solihull	
+2031	2011	Solihull	Stn Rd, Solihull	
+2032	2011	Solihull	Stn Rd, Solihull	
+2033	2011	Solihull	Stn Road/ High Str Solihull	
+2034	2011		The Crescent	
+2035	2011		The Village Hotel Shirley	
+2036	2011	Solihull	Usk Way Smithswood Solihull	
+2037	2011	Solihull	Warwick Rd Solihull	
+2038	2011	Solihull	Warwick Rd, Solihull	
+2039	2011	Solihull	Warwick Rd, Solihull	
+2040	2011		Warwick Rd	
+2041	2011		Warwick Rd	
+2042	2011		Warwick Rd	
+2043	2011	Solihull	Warwick Roadf, Solihull	
+2044	2011		Wolaston Close	
+2045	2011		Abbey Rd	
+2046	2011		Albright Rd Oldbury	
+2047	2011		Aleander Way	
+2048	2011		Alexandra Rd, Halesowen	
+2049	2011		Angels Nightclub, West Bromwich	
+2050	2011		Angels Ph West Bromwich	
+2051	2011		Anita Ave, Tividale	
+2052	2011		Astel Park Retail Center	
+2053	2011		Aston Str, Tipton	
+2054	2011		Atlas Grove	
+2055	2011		Bank Str West Bromwich	
+2056	2011		Barker Str	
+2057	2011		Bearwood High St	
+2058	2011		Bearwood Rd	
+2059	2011		Bearwood Rd	
+2060	2011		Bearwood Rd, Bearwood	
+2061	2011		Bearwood Rd, Smethwick	
+2062	2011		Bearwood Rd, Smethwick	
+2063	2011		Bearwood Rd, Smwthwick	
+2064	2011		Beawood Rd	
+2065	2011		Beech Crescent	
+2066	2011		Beeches Rd, West Bromwich	
+2067	2011		Bella Pizza	
+2068	2011		Beresford Rd, Oldbury	
+2069	2011		Beresford Rd, Oldbury	
+2070	2011		Beresford Rd, Oldbury	
+2071	2011		Billard Hall West Bromwich	
+2072	2011		Birchfield Ln	
+2073	2011	Birmingham	Birmingham Rd Oldbury	
+2074	2011	Birmingham	Birmingham Rd, Oldbury	
+2075	2011	Birmingham	Birmingham Rd, Oldbury	
+2076	2011	Birmingham	Birmingham St, Oldbury, West Midlands	
+2077	2011		Birminham Rd Oldbury	
+2078	2011		Brandhall Close	
+2079	2011		Brasshouse Ln	
+2080	2011		Broad Str	
+2081	2011		Burnttree	
+2082	2011		Cape Hill, Smethwick	
+2083	2011		Cape Hill, Smethwick	
+2084	2011		Carters Green West Brom	
+2085	2011		Carters Green, West Bromwich	
+2086	2011		Central Ave, Tipton	
+2087	2011		Coop Brandall	
+2088	2011		Dartmouth Park	
+2089	2011		Devonshire Rd, Smethwick	
+2090	2011		Dial Ln West Bromwich	
+2091	2011		Dial Ln West Bromwich	
+2092	2011		Duchess Parade, West Bromwich	
+2093	2011	Dudley	Dudley Port	
+2094	2011	Dudley	Dudley Port Tipton	
+2095	2011	Dudley	Dudley Port Tipton	
+2096	2011	Dudley	Dudley Port Tipton	
+2097	2011	Dudley	Dudley Str	
+2098	2011	Dudley	Dudley Str	
+2099	2011		Dyas Ave	
+2100	2011		Elgar Crescent, Pensnett	
+2101	2011		Esher Rd	
+2102	2011		Fountain Ln, Oldbury	
+2103	2011		Freet Str, Oldbury	
+2104	2011		Freeth Str	
+2105	2011		Galton Bridge	
+2106	2011		Gladstone Str West Bromwich	
+2107	2011		Goose Ph, West Bromwich	
+2108	2011		Great Barr Hotel	
+2109	2011		Great Barr Hotel	
+2110	2011		Great Barr Hotel, Great Barr	
+2111	2011		Great Barr Hotel, Great Barr	
+2112	2011		Great Bridge Str, Tipton	
+2113	2011		Hales Ln, Smethwick	
+2114	2011		Halesowen Rd	
+2115	2011		Halesowen Rd Cradley Heath	
+2116	2011		Halesowen Rd, Cradley Heath	
+2117	2011		Henley Close, Tipton	
+2118	2011		High Ave	
+2119	2011		High St West Brom	
+2120	2011		High St, Cradley Heath	
+2121	2011		High Str Great Bridge	
+2122	2011		High Str Smethwick	
+2123	2011		High Str Smethwick	
+2124	2011		High Str West Brom	
+2125	2011		High Str West Brom	
+2126	2011		High Str West Bromwich	
+2127	2011		High Str West Bromwich	
+2128	2011		High Str, Smethwick	
+2129	2011		High Str, Stourbridge	
+2130	2011		High Str, Stourbridge	
+2131	2011		High Str, Stourbridge	
+2132	2011		High Str, West Bromwich	
+2133	2011		High Str, West Bromwich	
+2134	2011		High Str, West Bromwich, Opposite Wilkinsons	
+2135	2011		Holly Ln, Smethwick	
+2136	2011		Holyhead Rd	
+2137	2011		Holyhead Rd, Handsworth	
+2138	2011		Hugh Rd	
+2139	2011		Huntingtree Rd	
+2140	2011		Hydes Rd	
+2141	2011		Jct 1 Åäìýå Jct 2 Southbound M5	
+2142	2011		Jervoise Lane,West Brom	
+2143	2011		Jervoise Lane,West Bromwich	
+2144	2011		Jowitts Ln	
+2145	2011		Karatchi	
+2146	2011		Kingsbury Rd Tipton	
+2147	2011		Lakeside Piblic Hse Carpark/	
+2148	2011		Langley Mead	
+2149	2011		Ledgends Ph, Tipton	
+2150	2011		Limes Rd	
+2151	2011		Lodge Rd	
+2152	2011		Lombard Str	
+2153	2011		Londonderry Ln	
+2154	2011		Long Ln Blackheath	
+2155	2011		Long Ln Blackheath	
+2156	2011		Lutley Oak,Halesowen	
+2157	2011		Market Place, Wednesbury	
+2158	2011		Market Place, Wednesbury	
+2159	2011		Market Place, Wednesbury	
+2160	2011		Martley Rd	
+2161	2011	Wolverhampton	Mcdonalds, Wolverhampton Rd, Oldbury	
+2162	2011		Middlemore Rd	
+2163	2011		Mill Gardens, Smethwick	
+2164	2011		Newbury Ln, Oldbury	
+2165	2011		O/S Pic Home Adderss	
+2166	2011		O/S Yummys Take Away, Stourbridge	
+2167	2011		Oak Rd	
+2168	2011	Birmingham	Off Birmingham Rd, Rowley Regis	
+2169	2011		Oldbury Rd	
+2170	2011		Oldbury Rd	
+2171	2011		Oldbury Rd, Carpark Of Bulls Head	
+2172	2011		Oldbury Rd	
+2173	2011		Outside Goose Public House	
+2174	2011		Outside Home Address	
+2175	2011		Outside The Bulls Head Ph	
+2176	2011		Park Crecent West Brom	
+2177	2011		Park Rd, Smethwick	
+2178	2011		Piddock Rd Police Stn	
+2179	2011		Portland Rd, Warley	
+2180	2011		Potters Ln	
+2181	2011		Pound Rd	
+2182	2011		Radford Close	
+2183	2011		Redwood Rd	
+2184	2011		Regent Court	
+2185	2011		Resovoir Rd, Oldbury	
+2186	2011		Ruskin Str West Brom	
+2187	2011		Russells Hall Hospiatl	
+2188	2011		Saints Way West Bromwich	
+2189	2011	Sandwell	Sandwell Hospital	
+2190	2011	Sandwell	Sandwell Hospital A And E	
+2191	2011		Shaftsbury Str	
+2192	2011		Silverlands Ave	
+2193	2011		Smethwick Front Office	
+2194	2011		Smethwick High Str	
+2195	2011		Smethwick High Str, Outside Red Cow	
+2196	2011		St Andrews Church	
+2197	2011		St Michaels Str	
+2198	2011		St Michaels Str, West Brom	
+2199	2011		St Micheals Square	
+2200	2011		St Micheals Str, West Bromwich	
+2201	2011		Suffrage Str Smethwick	
+2202	2011		Sycamore Rd, Smethwick`	
+2203	2011		Tanemouth Railway Stn	
+2204	2011		Tanhouse Ave, West Bromwich	
+2205	2011		The Goose Public House, High Str	
+2206	2011		The Goose Public House, West Bromwich	
+2207	2011		Thimbermill Recreation Ground	
+2208	2011		Thimblemill Rd	
+2209	2011		Three Shires Oak Rd, Smethwick	
+2210	2011	Dudley	Tichbourne Place Dudley	
+2211	2011		Titford Rd, Oldbury	
+2212	2011		Tollgate	
+2213	2011		Tollgate Shopping Centre	
+2214	2011		Tollhouse Way Smethwick	
+2215	2011		Tram Lines, West Bromwich	
+2216	2011		Vicarage Str Langley	
+2217	2011	Victoria	Victoria Park Rd Smethwick	
+2218	2011		Warley Mags Court, Oldbury Ringway	
+2219	2011		Waterfall Ln, Cradley Heath	
+2220	2011		Waterfall Ln, Cradley Heath	
+2221	2011		Waterfall Lane,Cradley Heath	
+2222	2011		Watton Str, West Bromwich	
+2223	2011		West Bromwich	
+2224	2011		West Bromwich Bus Stn	
+2225	2011		West Bromwich Front Office	
+2226	2011		West Bromwich High Str	
+2227	2011		White Rd	
+2228	2011		Windmill Ln	
+2229	2011		Windmill Ln	
+2230	2011		Windmill Ln	
+2231	2011	Wolverhampton	Wolverhampton Rd	
+2232	2011	Wolverhampton	Wolverhampton Rd	
+2233	2011	Wolverhampton	Wolverhampton Rd, Oldbury	
+2234	2011		Woodland Drive, Smethwick	
+2235	2011		Woodland Str	
+2236	2011		York Rd	
+2237	2011	Walsall	Aberwell Str Walsall	
+2238	2011		Ablewell St	
+2239	2011	Walsall	Ablewell St Walsall	
+2240	2011		Ablewell Str	
+2241	2011		Ablewell Str	
+2242	2011		Ablewell Street,Walsall	
+2243	2011	Walsall	Arundel Str Caldmore Walsall	
+2244	2011		Asda Darlaston	
+2245	2011		Asda Darlaston	
+2246	2011		Asda, Cape Hill	
+2247	2011		Asda, Darlaston	
+2248	2011		Atlee Road,Bentley, Willenhall	
+2249	2011		Aukland Rd	
+2250	2011		Barnes Ln	
+2251	2011		Barr Common Rd, Streetly	
+2252	2011		Bassano Rd, Black Heath	
+2253	2011	Walsall	Bath Str, Caldmore, Walsall	
+2254	2011	Walsall	Bescot Crescet, Away Turnstile, Walsall	
+2255	2011		Bilston Str	
+2256	2011		Birchills St	
+2257	2011		Birchills St	
+2258	2011	Walsall	Birchills St Walsall	
+2259	2011	Birmingham	Birmingham Rd	
+2260	2011	Birmingham	Birmingham Rd	
+2261	2011		Black Lake West Bromwich	
+2262	2011		Bloxwich High Str	
+2263	2011		Bloxwich High Str	
+2264	2011		Bloxwich Police Stastion	
+2265	2011		Bloxwich Police Stn	
+2266	2011		Bradfor Str	
+2267	2011		Bradford Place	
+2268	2011		Bradford Place	
+2269	2011		Bradford Place	
+2270	2011		Bradford Place	
+2271	2011		Bradford Place	
+2272	2011		Bradford Place	
+2273	2011	Walsall	Bradford Place Walsall	
+2274	2011	Walsall	Bradford Place Walsall	
+2275	2011	Walsall	Bradford Place, Walsall	
+2276	2011	Walsall	Bradford Place, Walsall	
+2277	2011	Walsall	Bradford St Walsall	
+2278	2011	Walsall	Bradford St, Walsall	
+2279	2011		Bradford Str	
+2280	2011		Bradford Street,Walsall	
+2281	2011	Walsall	Brdge St Walsall	
+2282	2011		Bridge St	
+2283	2011		Bridge St	
+2284	2011		Bridge St	
+2285	2011		Bridge St	
+2286	2011		Bridge St	
+2287	2011		Bridge St	
+2288	2011		Bridge St	
+2289	2011		Bridge St	
+2290	2011		Bridge St	
+2291	2011	Walsall	Bridge St Walsall	
+2292	2011	Walsall	Bridge St Walsall	
+2293	2011	Walsall	Bridge St Walsall	
+2294	2011	Walsall	Bridge St Walsall	
+2295	2011	Walsall	Bridge St Walsall	
+2296	2011	Walsall	Bridge St Walsall	
+2297	2011	Walsall	Bridge St Walsall	
+2298	2011	Walsall	Bridge St Walsall	
+2299	2011	Walsall	Bridge St Walsall	
+2300	2011	Walsall	Bridge St Walsall	
+2301	2011	Walsall	Bridge St Walsall	
+2302	2011	Walsall	Bridge St Walsall	
+2303	2011	Walsall	Bridge St Walsall	
+2304	2011		Bridge Str	
+2305	2011		Bridge Str	
+2306	2011		Bridge Str	
+2307	2011		Bridge Str	
+2308	2011		Bridge Str	
+2309	2011		Bridge Str	
+2310	2011		Bridge Str	
+2311	2011		Bridge Str	
+2312	2011		Bridge Str	
+2313	2011		Bridge Str	
+2314	2011		Bridge Str	
+2315	2011		Bridge Str	
+2316	2011		Bridge Str	
+2317	2011		Bridge Str	
+2318	2011		Bridge Str	
+2319	2011		Bridge Str	
+2320	2011		Bridge Str	
+2321	2011		Bridge Str	
+2322	2011		Bridge Str	
+2323	2011	Walsall	Bridge Str Town Centre Walsall	
+2324	2011	Walsall	Bridge Str Town Centre Walsall	
+2325	2011	Walsall	Bridge Str Town Centre Walsall	
+2326	2011	Walsall	Bridge Str Town Centre Walsall	
+2327	2011	Walsall	Bridge Str Town Centre Walsall	
+2328	2011	Walsall	Bridge Str Town Centre Walsall	
+2329	2011	Walsall	Bridge Str Town Centre Walsall	
+2330	2011	Walsall	Bridge Str Walsall	
+2331	2011	Walsall	Bridge Str Walsall	
+2332	2011	Walsall	Bridge Str Walsall	
+2333	2011	Walsall	Bridge Str Walsall	
+2334	2011	Walsall	Bridge Str Walsall	
+2335	2011	Walsall	Bridge Str Walsall	
+2336	2011	Walsall	Bridge Str Walsall	
+2337	2011	Walsall	Bridge Str Walsall	
+2338	2011	Walsall	Bridge Str Walsall	
+2339	2011		Bridge Str West	
+2340	2011	Walsall	Bridge Str, Walsall	
+2341	2011	Walsall	Bridge Str, Walsall	
+2342	2011	Walsall	Bridge Str, Walsall	
+2343	2011	Walsall	Bridge Str, Walsall	
+2344	2011	Walsall	Bridge Str, Walsall	
+2345	2011	Walsall	Bridge Str, Walsall	
+2346	2011	Walsall	Bridge Str, Walsall	
+2347	2011	Walsall	Bridge Str, Walsall	
+2348	2011	Walsall	Bridge Str, Walsall	
+2349	2011	Walsall	Bridge Str, Walsall	
+2350	2011	Walsall	Bridge Str, Walsall	
+2351	2011	Walsall	Bridge Str, Walsall	
+2352	2011	Walsall	Bridge Str, Walsall	
+2353	2011	Walsall	Bridge Str, Walsall	
+2354	2011	Walsall	Bridge Str, Walsall	
+2355	2011	Walsall	Bridge Str, Walsall	
+2356	2011	Walsall	Bridge Str, Walsall	
+2357	2011		Bridge Street,Walsall	
+2358	2011		Bridge Street,Walsall	
+2359	2011		Bridge Street,Walsall	
+2360	2011		Bridge Street,Walsall	
+2361	2011		Bridge Street,Walsall	
+2362	2011		Bridge Street,Walsall	
+2363	2011	Walsall	Brige St Walsall	
+2364	2011		British Oak Public House,High Road,Willenhall	
+2365	2011		Broad Ln Gardens	
+2366	2011		Broad Ln Gardens, Bloxwich	
+2367	2011		Broadway West	
+2368	2011	Walsall	Brook Ln, Walsall Wood	
+2369	2011		Bus Stn Halesowen Str	
+2370	2011	Walsall	Butts Str The Butts Walsall	
+2371	2011		Byland Way, Mosseley	
+2372	2011		Caldmore Rd	
+2373	2011	Dudley	Castle Str Dudley	
+2374	2011		Cecil Str	
+2375	2011	Walsall	Chester Rd Stonnall Walsall	
+2376	2011	Walsall	Church Rd Pelsall Walsall	
+2377	2011		Church Str, Bilston	
+2378	2011		Community Landing Outside The Pic'S Flat	
+2379	2011		Cradley High Str	
+2380	2011		Crankhall Ln	
+2381	2011		Dangerfield Ln, Darlaston	
+2382	2011	Walsall	Darwall Str Walsall	
+2383	2011	Walsall	Darwell St Walsall	
+2384	2011		Darwell Str	
+2385	2011		Davy Rd	
+2386	2011	Dudley	Dudley Rd East	
+2387	2011		Elma Green Rd	
+2388	2011	Wolverhampton	Emsworth Crescent Pendefors Wolverhampton	
+2389	2011		Erdington High Str	
+2390	2011		Erdington High Str	
+2391	2011		Evesham Cr	
+2392	2011		Fletcher Rd	
+2393	2011		Forrester Str	
+2394	2011		Forrester Str	
+2395	2011		Forrester Str	
+2396	2011		Franchise Str, Darlaston	
+2397	2011		Frank Rd Smethwick	
+2398	2011	Walsall	Freer St Walsall	
+2399	2011		Freer Str	
+2400	2011	Walsall	Freer Str Walsall	
+2401	2011	Walsall	Freer Str, Walsall	
+2402	2011	Walsall	Freer Str, Walsall	
+2403	2011	Walsall	Friary Crescent Rushall Walsall	
+2404	2011		Frying Pan Pub, Willenhall Str, Darlsaton	
+2405	2011		Frying Pan Pub, Willenhall Str, Darlsaton	
+2406	2011	Walsall	George St Walsall	
+2407	2011	Walsall	Goddall St Walsall	
+2408	2011		Goscote Ln	
+2409	2011	Walsall	Gosgote Ln, Walsall	
+2410	2011		Green Ln	
+2411	2011		Green Ln	
+2412	2011		Green Ln	
+2413	2011		Green Ln	
+2414	2011	Walsall	Green Ln Walsall	
+2415	2011	Walsall	Green Ln, Walsall	
+2416	2011	Walsall	Green Ln, Walsall	
+2417	2011		Halesowen Tc	
+2418	2011		Harden Rd	
+2419	2011	Walsall	Hatherton Rd Walsall	
+2420	2011		Herbert Park Rd, Darlaston	
+2421	2011		Hewitt St	
+2422	2011		High Bullen Wednesbury	
+2423	2011	Walsall	High Str Digbeth Walsall	
+2424	2011		High Str West Brom	
+2425	2011		High Str West Bromwich	
+2426	2011	Walsall	Holtshill Ln Chuckery Walsall	
+2427	2011		Home Address	
+2428	2011	Walsall	Hough Rd Walsall	
+2429	2011		King Str	
+2430	2011		Kings Rd	
+2431	2011	Walsall	Leamore Ln Leamore Walsall	
+2432	2011		Leciester Street,Walsall	
+2433	2011		Leicester St	
+2434	2011		Leicester St	
+2435	2011	Walsall	Leicester St Walsall	
+2436	2011	Walsall	Leicester St Walsall	
+2437	2011	Walsall	Leicester St Walsall	
+2438	2011		Leicester Str	
+2439	2011	Walsall	Leicester Str, Walsall	
+2440	2011		Leicester Street,Walsall	
+2441	2011		Leicestershire Str	
+2442	2011		Leicestershire Str	
+2443	2011		Lichfield Rd	
+2444	2011		Lichfield Rd (The Square) Willenhall	
+2445	2011		Lichfield St	
+2446	2011		Lichfield St	
+2447	2011	Walsall	Lichfield St Walsall	
+2448	2011	Walsall	Lichfield St Walsall	
+2449	2011	Walsall	Lichfield St Walsall	
+2450	2011	Walsall	Lichfield St Walsall	
+2451	2011	Walsall	Lichfield St, Walsall	
+2452	2011	Walsall	Lichfield St, Walsall	
+2453	2011		Lichfield Str	
+2454	2011		Lichfield Str	
+2455	2011		Lichfield Str	
+2456	2011		Lichfield Str	
+2457	2011		Lichfield Str	
+2458	2011		Lichfield Str	
+2459	2011		Lichfield Str	
+2460	2011		Lichfield Str	
+2461	2011		Lichfield Str	
+2462	2011	Walsall	Lichfield Str Town Centre Walsall	
+2463	2011	Walsall	Lichfield Str Town Centre Walsall	
+2464	2011	Walsall	Lichfield Str Town Centre Walsall	
+2465	2011	Walsall	Lichfield Str Town Centre Walsall	
+2466	2011	Walsall	Lichfield Str Town Centre Walsall	
+2467	2011	Walsall	Lichfield Str Walsall	
+2468	2011	Walsall	Lichfield Str Walsall	
+2469	2011	Walsall	Lichfield Str, Walsall	
+2470	2011	Walsall	Lichfield Str, Walsall	
+2471	2011	Walsall	Lichfield Str, Walsall	
+2472	2011	Walsall	Lichfield Str, Walsall	
+2473	2011	Walsall	Lichfield Str, Walsall	
+2474	2011	Walsall	Lichfield Str, Walsall	
+2475	2011		Lichfield Street,Walsal	
+2476	2011		Liester Str	
+2477	2011		Little Newport Str	
+2478	2011		Littleton Rd, Short Heath, Willenhall	
+2479	2011		Magness Crescent,Willenhall	
+2480	2011		Manor House Close Bescot	
+2481	2011		Market Place,Digbeth	
+2482	2011	Wolverhampton	Market Str, Wolverhampton	
+2483	2011		Mill Ln	
+2484	2011		Moat Rd	
+2485	2011		Moat Rd	
+2486	2011		New Cross Hospital	
+2487	2011	Wolverhampton	New Cross Hospital Wolverhampton	
+2488	2011		New Inns Ph Blakenhall Ln	
+2489	2011	Walsall	Newport Str Walsall	
+2490	2011		Old Meeting St West Bromwich	
+2491	2011	Walsall	Old Square Walsall	
+2492	2011		Outside Beswick House	
+2493	2011		Outside Comrade Tavern, Oldbury Rd, Smethwick	
+2494	2011		Outside Comrades Club, Smethwick	
+2495	2011	Walsall	Outside Retro Bar, Lichfield St, Walsall	
+2496	2011		Outside The Travellers Rest, Great Bridge Rd, Moxley	
+2497	2011	Walsall	Park St Walsall	
+2498	2011	Walsall	Park Str Walsall	
+2499	2011		Peel Close, Willenhall	
+2500	2011		Pelsall Ln, Pelsall	
+2501	2011		Pinfold Str	
+2502	2011	Wolverhampton	Platform 1 Wolverhampton Railway Stn	
+2503	2011		Pleck Rd	
+2504	2011		Prince Str Pleck	
+2505	2011		Princess Sq	
+2506	2011		Queslett Rd, Streetly	
+2507	2011		Queslett Rd	
+2508	2011	Walsall	Raleigh St Walsall	
+2509	2011	Walsall	Raleigh Str, Walsall	
+2510	2011		Rochester Close	
+2511	2011		Rosehill, Willenhall	
+2512	2011		Royal Oak Green Ln	
+2513	2011		Rushall Hall Hospital	
+2514	2011	Walsall	Sadler Centre, Walsall	
+2515	2011		Smethwick Police	
+2516	2011		Smith House Stoney Ln Bloxwich	
+2517	2011	Coldfield	South Parade Sutton Coldfield	
+2518	2011	Coldfield	South Parade Sutton Coldfield	
+2519	2011		Spotted Cow Ph	
+2520	2011		St Michaels Str West Brom	
+2521	2011		St Pauls Bus Stn	
+2522	2011	Walsall	St Pauls Bus Stn Walsall	
+2523	2011		St Paul'S Str	
+2524	2011	Walsall	St Pauls, Brooke St Arcade Walsall	
+2525	2011		St Stephens Court	
+2526	2011		Stafford St	
+2527	2011		Stafford St	
+2528	2011		Stafford Str	
+2529	2011		Stanley Str, Bloxwich	
+2530	2011		Stephenson Ave	
+2531	2011	Walsall	Stevenson Sq Walsall	
+2532	2011		Stoney Ln	
+2533	2011		Stoney Ln	
+2534	2011	Walsall	Stoney Ln Walsall	
+2535	2011		Tame Str	
+2536	2011	Walsall	Tanners Court Glebe Str Caldmore Walsall	
+2537	2011		Telford Rd	
+2538	2011	Walsall	Tesco, Littleton Str, Walsall	
+2539	2011	Walsall	The Bridge Town Centre Walsall	
+2540	2011	Walsall	The Bridge Walsall	
+2541	2011	Walsall	The Bridge, Walsall	
+2542	2011		The Green Darlaston	
+2543	2011		Thomas House Bloxwich Stoney Ln	
+2544	2011	Walsall	Varsisty, Leicester St Walsall	
+2545	2011	Victoria	Victoria Ave, Bloxwich	
+2546	2011		Village Hotel	
+2547	2011	Walsall	Village Hotel, Walsall	
+2548	2011		Walhouse Rd	
+2549	2011		Walker Rd	
+2550	2011	Walsall	Walsall Bus Stn	
+2551	2011	Walsall	Walsall Bus Stn, St Pauls	
+2552	2011	Walsall	Walsall Manor Hospital	
+2553	2011	Walsall	Walsall Manor Hospital	
+2554	2011	Walsall	Walsall Manor Hospital	
+2555	2011	Walsall	Walsall Police Stn	
+2556	2011	Walsall	Walsall Police Stn	
+2557	2011	Walsall	Walsall Police Stn	
+2558	2011	Walsall	Walsall Police Stn	
+2559	2011	Walsall	Walsall Rd	
+2560	2011	Walsall	Walsall Rd Darlaston	
+2561	2011	Walsall	Walsall Train Stn	
+2562	2011		Wanderers Way	
+2563	2011		Wednesbury Rd	
+2564	2011	Walsall	Wednesbury Rd Walsall	
+2565	2011		Wednesbury Rd	
+2566	2011	Walsall	West Bromwich Rd, Walsall	
+2567	2011	Walsall	West Bromwich Rd, Walsall	
+2568	2011	Wolverhampton	Wolverhampton Rd Oldbury	
+2569	2011	Wolverhampton	Wolverhampton Rd Oldbury	
+2570	2011	Wolverhampton	Wolverhampton Rd West	
+2571	2011	Wolverhampton	Wolverhampton Wanders Fc	
+2572	2011	Wednesfield	Wood End Rd Wednesfield	
+2573	2011		Wooden Rd West Darlaston	
+2574	2011	Walsall	Ws1 Walsall	
+2575	2011		A And E New Cross Hospital	
+2576	2011		Alfred Squire Rd	
+2577	2011	Wolverhampton	Arthur St Wolverhampton	
+2578	2011		Asda Stores WåäìýåTon	
+2579	2011		Asda Stores WåäìýåTon	
+2580	2011		Badger Drive, Park Village	
+2581	2011		Bellamy Ln	
+2582	2011		Belmont Rd	
+2583	2011		Belmont Rd	
+2584	2011		Belmont Rd, Penn, WåäìýåTon	
+2585	2011		Berry Str	
+2586	2011		Bilston Bus Stn	
+2587	2011		Bilston Labour Club	
+2588	2011		Bilston Rd	
+2589	2011		Bilston Rd	
+2590	2011		Bilston St	
+2591	2011		Bilston St	
+2592	2011		Bilston St	
+2593	2011	Wolverhampton	Bilston St Wolverhampton	
+2594	2011	Wolverhampton	Bilston St, Wolverhampton	
+2595	2011		Bilston Str	
+2596	2011		Bilston Str	
+2597	2011		Bilston Str	
+2598	2011		Bilston Str	
+2599	2011		Bilston Str	
+2600	2011		Bilston Str	
+2601	2011		Bilston Str	
+2602	2011		Bilston Str	
+2603	2011		Bilston Str	
+2604	2011		Bilston Str	
+2605	2011		Blackhalve Ln	
+2606	2011		Bradford Str Walsalll	
+2607	2011		Brantley Ave	
+2608	2011		Brantley Ave	
+2609	2011	Wolverhampton	Broad St Wolverhampton	
+2610	2011	Wolverhampton	Broad St, Wolverhampton	
+2611	2011		Broad St, Wolves	
+2612	2011		Broad St, Wolves	
+2613	2011		Broad Str	
+2614	2011		Broad Str	
+2615	2011	Wolverhampton	Broad Str, Wolverhampton	
+2616	2011	Wolverhampton	Broad Str, Wolverhampton	
+2617	2011	W'Ton	Broad Str, W'Ton	
+2618	2011		Bronwyn Close	
+2619	2011		Burlesdon Walk, Wolves	
+2620	2011		Bus Stn	
+2621	2011		Bus Stn Pipers Rd	
+2622	2011	Wolverhampton	Bus Stn, Wolverhampton	
+2623	2011	Wolverhampton	Bus Stn, Wolverhampton	
+2624	2011	Wolverhampton	Campion House, Heath Town, Wolverhampton	
+2625	2011	Wolverhampton	Cannock Rd Wolverhampton	
+2626	2011	Wolverhampton	Car Park, New Cross Hospital, Wolverhampton	
+2627	2011		Castle Str City Centre	
+2628	2011	Wolverhampton	Castle Str Wolverhampton	
+2629	2011		Church Str, Bilston	
+2630	2011		Coalway Rd, Wton	
+2631	2011		Codsall Rd	
+2632	2011		CoåäìýåOp, High Str, Wednesfield, Wton	
+2633	2011	Wolverhampton	Dalton St Wolverhampton	
+2634	2011		Darlington St	
+2635	2011		Darlington St	
+2636	2011	Dudley	Dudley Rd	
+2637	2011	Dudley	Dudley Rd, Kingswinford	
+2638	2011	Dudley	Dudley Str	
+2639	2011	Dudley	Dudley Str, Wolverhampton	
+2640	2011		Dunstall Rd	
+2641	2011	Wolverhampton	Dunstall Rd, Wolverhampton	
+2642	2011	Wolverhampton	Edham Rd, Wolverhampton	
+2643	2011		Exchange Str	
+2644	2011	Wolverhampton	Exchange Str, City Centre, Wolverhampton	
+2645	2011		Farndale Ave	
+2646	2011	Wolverhampton	Filey Rd Wolverhampton	
+2647	2011		Front Office	
+2648	2011		Front Office	
+2649	2011	Wolverhampton	Front Office, Wolverhampton Central Ps	
+2650	2011		Front Offive Bilston Str Pol Stn	
+2651	2011		Furs Public House	
+2652	2011		Gafo	
+2653	2011		Garrick Str	
+2654	2011	Wolverhampton	Garrick Str, Wolverhampton	
+2655	2011		Great Hampton Str	
+2656	2011		Great Hampton Str	
+2657	2011		Greenpark Ave	
+2658	2011	Wolverhampton	Haden Hill, Chapel Ash, Wolverhampton	
+2659	2011		Hart Rd, Wednesfield,Wton	
+2660	2011		High St Bilston	
+2661	2011		Indi Bar, Lichfield Str	
+2662	2011		Jack Hayward Way	
+2663	2011		Junction 10 O/S Village Hotel	
+2664	2011	Dudley	Laurel Rd, Dudley	
+2665	2011		Leacroft Ave	
+2666	2011		Leacroft Ave	
+2667	2011		Lennox Gardens, Wton	
+2668	2011	Wolverhampton	Lewisham Rd Wolverhampton	
+2669	2011		Lichfiedl Str	
+2670	2011		Lichfield St	
+2671	2011		Lichfield St, City Centre, Wolves	
+2672	2011	Wolverhampton	Lichfield St, Wolverhampton	
+2673	2011		Lichfield St, Wton	
+2674	2011		Lichfield Str	
+2675	2011		Lichfield Str	
+2676	2011		Lichfield Str	
+2677	2011		Lichfield Str	
+2678	2011		Lichfield Str	
+2679	2011		Lichfield Str	
+2680	2011		Lichfield Str	
+2681	2011		Lichfield Str @Princess Str, WåäìýåTon	
+2682	2011		Lichfield Str, City Centre, WåäìýåTon	
+2683	2011		Lichfield Str, City Centre, WåäìýåTon	
+2684	2011	Wolverhampton	Lichfield Str, Wolverhampton	
+2685	2011	W'Ton	Lichfield Str, W'Ton	
+2686	2011		Lower Villiers Str	
+2687	2011		Lunt Rd	
+2688	2011	Wolverhampton	Market St Wolverhampton	
+2689	2011	Wolverhampton	Market St, Wolverhampton	
+2690	2011		Market St, Wolves	
+2691	2011		Market St, Wton	
+2692	2011		Market Str	
+2693	2011		Market Str	
+2694	2011		Market Str	
+2695	2011		Market Str	
+2696	2011		Market Str	
+2697	2011		Market Str	
+2698	2011		Market Str, City Centre, WåäìýåTon	
+2699	2011	Wolverhampton	Market Str, Wolverhampton	
+2700	2011	Wolverhampton	Market Str, Wolverhampton	
+2701	2011	Wolverhampton	Market Str, Wolverhampton	
+2702	2011	Wolverhampton	Market Str, Wolverhampton	
+2703	2011	Wolverhampton	Market Str, Wolverhampton	
+2704	2011	Wolverhampton	Market Str, Wolverhampton	
+2705	2011		Market Str, Wolves	
+2706	2011		Market Str, Wolves	
+2707	2011		Marsaton Rd	
+2708	2011	Wolverhampton	Marston Rd Wolverhampton	
+2709	2011		Millcroft, Wolves	
+2710	2011	Wolverhampton	Moseley Rd Wolverhampton	
+2711	2011	Moseley	Moseley Rd, Bilston	
+2712	2011		Mount Pleasant	
+2713	2011		Mount Plesant, Bilston	
+2714	2011		Near Yates Wine Bar, Wolves City Centre	
+2715	2011		New |Cross Hospital	
+2716	2011		New Cross Hospital	
+2717	2011		New Cross Hospital	
+2718	2011		New Cross Hospital	
+2719	2011		New Cross Hospital	
+2720	2011	Wolverhampton	New Cross Hospital, Wolverhampton	
+2721	2011	Wolverhampton	New Cross Hospital, Wolverhampton	
+2722	2011		New X Hospital	
+2723	2011		New X Hospital, WåäìýåTon	
+2724	2011		Newcross Hospital	
+2725	2011		Norfold Rd, Pewnnfields, WåäìýåTon	
+2726	2011		North Str	
+2727	2011		North Str	
+2728	2011		North Str	
+2729	2011		North Str	
+2730	2011		North Str	
+2731	2011	Wolverhampton	North Str Town Centre Wolverhampton	
+2732	2011		Northwood Park Rd, Wolves	
+2733	2011	Moseley	O/S Grapes Ph Moseley Rd	
+2734	2011		O/S Oceana Bilston Str	
+2735	2011	Wolverhampton	Oustide Yates, Wolverhampton	
+2736	2011	Wolverhampton	Outsdie Yates' Wine Bar Wolverhampton	
+2737	2011	Wolverhampton	Outside Subway Sandwich Shop, Queens Square, Wolverhampton	
+2738	2011		Outside The Avondale	
+2739	2011		Outside The Indie Bar	
+2740	2011	Wolverhampton	Outside Yates, North Str, Wolverhampton	
+2741	2011		Owen Rd	
+2742	2011		Parkfield Rd	
+2743	2011		Penn Rd	
+2744	2011		Penn Rd, Wolves	
+2745	2011	Wolverhampton	Pipers Row Wolverhampton	
+2746	2011	Wolverhampton	Pipers Row, Wolverhampton	
+2747	2011	W'Ton	Pipers Row, W'Ton	
+2748	2011		Powell St, Woolverhampton	
+2749	2011		Prestwood Rd	
+2750	2011		Pricess Str	
+2751	2011		Pricess Str	
+2752	2011		Prince Charles Pub,Bushbury	
+2753	2011		Princess St, Wton	
+2754	2011		Princess Str	
+2755	2011		Princess Str	
+2756	2011		Princess Str	
+2757	2011		Princess Str	
+2758	2011		Princess Str	
+2759	2011		Princess Street,Walsall	
+2760	2011		Prines St	
+2761	2011		Probert Rd, Wton	
+2762	2011		Prosser St, Wolves	
+2763	2011		Prosser Str	
+2764	2011		Prowell St	
+2765	2011		Queen Sq, Wton	
+2766	2011		Queen Square	
+2767	2011		Queen Square	
+2768	2011		Queen Square	
+2769	2011	Wolverhampton	Queen Square, Wolverhampton	
+2770	2011	Wolverhampton	Queen Square, Wolverhampton	
+2771	2011		Queen Square, Wton	
+2772	2011	Wolverhampton	Queen Squsre, City Centre, Wolverhampton	
+2773	2011		Queen St	
+2774	2011		Queen St	
+2775	2011	Wolverhampton	Queen St Wolverhampton	
+2776	2011	Wolverhampton	Queen St Wolverhampton	
+2777	2011	Wolverhampton	Queen St Wolverhampton	
+2778	2011	Wolverhampton	Queen St/Market St Wolverhampton	
+2779	2011		Queen St/Market Str Junction	
+2780	2011		Queen Str	
+2781	2011		Queen Str	
+2782	2011		Queen Str	
+2783	2011		Queen Str	
+2784	2011		Queen Str	
+2785	2011	Wolverhampton	Queen Str, Wolverhampton	
+2786	2011	Wolverhampton	Queen Str, Wolverhampton	
+2787	2011	Wolverhampton	Queen Str, Wolverhampton	
+2788	2011		Queen Str, WåäìýåTon	
+2789	2011	Wolverhampton	Queens Square, Wolverhampton	
+2790	2011	Wolverhampton	Queens Square, Wolverhampton	
+2791	2011		Queens Str	
+2792	2011	Wolverhampton	Rear Of Civic Centre Wolverhampton	
+2793	2011		Ring Rd	
+2794	2011		Ring Rd St Georges, Wolves	
+2795	2011		Royal London P/H,Wolves City Centre	
+2796	2011		Sainsburys St Georges	
+2797	2011	Wolverhampton	Salop St, Wolverhampton	
+2798	2011		Salop St, Wolves	
+2799	2011		School St, Wton	
+2800	2011		School Str	
+2801	2011		School Str	
+2802	2011		School Str, WåäìýåTon	
+2803	2011	W'Ton	School Str, W'Ton	
+2804	2011		Showell Circus	
+2805	2011	Wolverhampton	St Georges Parade, Wolverhampton	
+2806	2011	Wolverhampton	St Georges Parade, Wolverhampton	
+2807	2011	Wolverhampton	Stafford Rd, Wolverhampton	
+2808	2011		Stafford St	
+2809	2011		Stafford St, Wton	
+2810	2011		Stafford Str	
+2811	2011		Stafford Str	
+2812	2011	Wolverhampton	Stafford Str, Wolverhampton	
+2813	2011		Steel Park Ln, Wton	
+2814	2011		Subway Under Traffic Island At Junction Of Ring Rd And Bilston Str	
+2815	2011		Sweetman Str, Wton	
+2816	2011		Temple St	
+2817	2011		Tettenhall Rd	
+2818	2011		Tettenhall Rd	
+2819	2011		The Varsity, City Centre	
+2820	2011		Thornley Str	
+2821	2011		Tower Str	
+2822	2011	Wolverhampton	Train Stn, Wolverhampton	
+2823	2011		Trysull Rd	
+2824	2011		Vicarage Rd, Wton	
+2825	2011	Victoria	Victoria Rd	
+2826	2011	Victoria	Victoria Rd, Wfield, Wton	
+2827	2011	Victoria	Victoria Rd, Wfield,Wton	
+2828	2011	Victoria	Victoria St	
+2829	2011	Victoria	Victoria Str	
+2830	2011	Victoria	Victoria Str	
+2831	2011	Wolverhampton	Victoria Str, Wolverhampton	
+2832	2011	Wolverhampton	Victoria Str, Wolverhampton	
+2833	2011	Victoria	Victoria Str, WåäìýåTon	
+2834	2011	Wolverhampton	Villiers Ave, Wolverhampton	
+2835	2011		Wallace Rd	
+2836	2011		Wallace Rd, Bradley	
+2837	2011	Walsall	Walsall St, Bilston	
+2838	2011		Wanderers Ave, Blakenhall	
+2839	2011		Wanderers Ave, Wton	
+2840	2011		Warnford Walk, Merry Hill, WåäìýåTon	
+2841	2011		Warstones Drive	
+2842	2011		Waterloo Rd	
+2843	2011	Wolverhampton	Waterloo Rd Wolverhampton	
+2844	2011	Wednesfield	Wednesfield High Str, Wolves	
+2845	2011		Wellington Rd	
+2846	2011		White Oaks Str, Wton	
+2847	2011		Whitegates Drive Coseley	
+2848	2011	Wolverhampton	Willenhall Rd, East Park, Wolverhampton	
+2849	2011		Willenhall Rd, Jtn Deans Rd, Wton	
+2850	2011		William Hill Market Str	
+2851	2011		Wolverhamptn Train Stn	
+2852	2011	Wolverhampton	Wolverhampton Train Stn	
+2853	2011	Wolverhampton	Wolverhampton Railway Stn	
+2854	2011	Wolverhampton	Wolverhampton Railway Stn	
+2855	2011	Wolverhampton	Wolverhampton Railway Stn	
+2856	2011	Wolverhampton	Wolverhampton Rd Wednesfield	
+2857	2011	Wolverhampton	Wolverhampton Rd, Wednesfield, Wton	
+2858	2011	Wolverhampton	Wolverhampton Train Stn	
+2859	2011		Wolves Railway Stn	
+2860	2011	Wednesfield	Wood End Rd, Wednesfield	
+2861	2011		Woodland Ave, Tettenhall Wood	
+2862	2011		Woolpack Alley	
+2863	2011		Wordsworth Ave	
+2864	2011		Wton Train Stn	
+2865	2011		Wv Front Office	
+2866	2011		Wvfo	
+2867	2011		Wvfo	
+2868	2012		Clemence Rd	
+2869	2012		Clemence Rd	
+2870	2012		Clemence Rd	
+2871	2012		Clemence Rd	
+2872	2012		Clemence Rd	
+2873	2012		Acocks Green Police Stn	
+2874	2012		Albert Rd	
+2875	2012	Moseley	Alcester Rd Moseley	
+2876	2012		Alcester Rd	
+2877	2012		Alcester Rd	
+2878	2012	Moseley	Alcester Rd Moseley	
+2879	2012	Moseley	Alcester Rd Moseley	
+2880	2012		Alcester Rd Outside Cross Ph	
+2881	2012	Moseley	Alcester Rd, Moseley	
+2882	2012		Alecester Rd	
+2883	2012	Alum	Alum Rock Rd	
+2884	2012	Alum	Alum Rock Rd	
+2885	2012	Alum	Alum Rock Rd	
+2886	2012	Alum	Alum Rock Rd, Alum Rock	
+2887	2012		Banford Rd, Ward End	
+2888	2012	Belchers	Belchers Ln	
+2889	2012		Belgrave Middle Way	
+2890	2012		Belgravia Close	
+2891	2012		Bennetts Hill City Centre	
+2892	2012		Berkely Rd	
+2893	2012		Birchley Rise @ Wagon Ln, Olton	
+2894	2012		Birchtree Drive	
+2895	2012	Birmingham	Birmingham New Str	
+2896	2012	Birmingham	Birmingham Rd, Castle Bromwich	
+2897	2012	Birmingham	Birmingham Rd, Sutton Coldfield	
+2898	2012		Bistol Rd Selly Oak	
+2899	2012	Bordesley	Blake Place Bordesley Green	
+2900	2012	Bordesley	Bordesley Green	
+2901	2012	Bordesley	Bordesley Green East	
+2902	2012	Bordesley	Bordesley Green Rd, Bordesley Green	
+2903	2012	Bordesley	Bordesley Green	
+2904	2012	Bordesley	Bordesly Green, Bordesley Green	
+2905	2012		Boscombe Rd, Tyseley,	
+2906	2012		Bournville Ln	
+2907	2012	Bristol	Bristol Rd	
+2908	2012	Bristol	Bristol Rd South	
+2909	2012		Broad Str	
+2910	2012		Broad Str	
+2911	2012		Broad Str	
+2912	2012		Broad Str	
+2913	2012		Brookhill Rd	
+2914	2012		Brooklands Rd	
+2915	2012		Brunswick Rd	
+2916	2012		Bulls Head, Mosely	
+2917	2012		Caldwell Rd	
+2918	2012		Church Rd, Yardley	
+2919	2012		Church Rd, Yardley	
+2920	2012		Church Rd, Yew Tree	
+2921	2012		Clodeshall Rd	
+2922	2012		Coleshill Rd	
+2923	2012		Cotterills Ln	
+2924	2012	Coventry	Coventry Rd	
+2925	2012	Coventry	Coventry Rd, Sheldon, Nr British Legion Ivy Leaf	
+2926	2012	Coventry	Coventry Rd	
+2927	2012	Coventry	Coventry Rd	
+2928	2012	Coventry	Coventry Rd, Small Heath	
+2929	2012		Cranespark Rd	
+2930	2012		Dale End	
+2931	2012		Drews Ln, Ward End	
+2932	2012		Elizabeth Rd	
+2933	2012	Birmingham	Emily Rd, Acocks Green, Birmingham	
+2934	2012		Flaxton Grove, Kitts Green	
+2935	2012		Foxton Rd, Washwood Heath	
+2936	2012		Front Offcie Kings Heath Police Stn	
+2937	2012		Front Office, Stechford Police Stn	
+2938	2012		Gibbins Rd	
+2939	2012		Gilsan Way	
+2940	2012		Gospel Farm Rd	
+2941	2012		Gospel Ln, Acocks Green	
+2942	2012	Bordesley	Green Ln Bordesley Green	
+2943	2012		Greswold Rd	
+2944	2012		Harbourne Rd Harbourne	
+2945	2012		Hazelville Rd, Hall Green	
+2946	2012		Heartlands Hospital	
+2947	2012		Heartlands Hospital	
+2948	2012		Heartlands Hospital	
+2949	2012		Heartlands Hospital	
+2950	2012		Heathfield Rd	
+2951	2012		Herrick Rd	
+2952	2012		High Str	
+2953	2012		High Str Kings Heath	
+2954	2012	Solihull	High Str Solihull	
+2955	2012		Highfield Rd	
+2956	2012		Highfield Rd Spark Brook	
+2957	2012		Home Address	
+2958	2012		Homer Rd Near Holiday Inn	
+2959	2012		Horrell Rd Sheldon	
+2960	2012		Ivy House Rd West Heath	
+2961	2012		Jakeman Rd	
+2962	2012		Juniper Close	
+2963	2012		Kemberton Rd	
+2964	2012		Kings Heath High St	
+2965	2012		Kings Norton Green	
+2966	2012		Lady Pool Rd	
+2967	2012		Lady Pool Rd	
+2968	2012		Ladypool Rd	
+2969	2012		Lea Hall Rd	
+2970	2012		Lower Severn Str	
+2971	2012		Mary Str	
+2972	2012		Mary Str	
+2973	2012		Middle Park Rd	
+2974	2012		Milestone House	
+2975	2012		Milestone House	
+2976	2012		Milestone House	
+2977	2012		Monyhull Rd	
+2978	2012	Moseley	Moseley Rd	
+2979	2012		New Str Railway Stn	
+2980	2012		New Str Stn	
+2981	2012		Northliegh Rd Ward End	
+2982	2012	Solihull	O/S Assembly Rooms, Poplar Way, Solihull	
+2983	2012	Solihull	O/S Assembly Rooms, Solihull Town Centre	
+2984	2012	Coventry	O/S Chargrill Chicken, Coventry Rd	
+2985	2012		Olton Boulevard East	
+2986	2012		Out Side Fish Bar Hobmoore Rd	
+2987	2012		Outside Arden Oak Pub	
+2988	2012		Outside St Colombia Nursery,Alcester Rd	
+2989	2012		Outside The Bulls Head	
+2990	2012		Parker Str, Edgbaston	
+2991	2012		Parkland On The Heathway	
+2992	2012		Partridge Rd	
+2993	2012		Pershore Rd	
+2994	2012		Plymouth Rd, Stirchley	
+2995	2012	Solihull	Poplar Rd, Solihull	
+2996	2012		Rea Rd	
+2997	2012		Regency Hotel	
+2998	2012		Runcurn Rd, Balsall Heath	
+2999	2012		School Rd	
+3000	2012		Sheath Ln	
+3001	2012		Sheldon Heath Park	
+3002	2012		Shirley Rd, Acocks Green	
+3003	2012	Solihull	Solihull Town Centre	
+3004	2012		St Marys Rd	
+3005	2012		St Marys Row	
+3006	2012	Moseley	St Mary'S Row, Moseley	
+3007	2012		St Pauls Rd	
+3008	2012		St Pauls Rd	
+3009	2012		Stn Rd Stechford	
+3010	2012		Stn Rd Stechford	
+3011	2012		Stn Rd, Solihul	
+3012	2012		Stn Rd, Solihul	
+3013	2012		Stn Rd, Solihul	
+3014	2012		Stn Rd, Solihul	
+3015	2012		Stn Rd, Solihul	
+3016	2012		Stn Rd, Solihul	
+3017	2012		Stechford Police Stn	
+3018	2012		Stechford Swimming Baths	
+3019	2012		Stoney Ln	
+3020	2012		Stratford Rd	
+3021	2012		Stratford Rd, Sparkbrook	
+3022	2012		Stratford Rd, Sparkhill	
+3023	2012		Summerfield Rd, Weoley Castle	
+3024	2012		Sunbeam Way	
+3025	2012		Swanshurst Park	
+3026	2012	Coldfield	The Parade Sutton Coldfield	
+3027	2012		The Radleys	
+3028	2012		Tile Cross Rd	
+3029	2012	Alum	Tote Betting Shop, Alum Rock Rd	
+3030	2012		Turnburry Rd	
+3031	2012		Umberslade Rd, Selly Oak	
+3032	2012		Vicarage Rd, Kinghs Heath	
+3033	2012	Bordesley	Victoria Rd, Bordesley Green	
+3034	2012		Wake Green Rd	
+3035	2012		Ward End Park	
+3036	2012		Warwich Rd	
+3037	2012		Warwick Rd	
+3038	2012		Warwick Rd, Accocks Green	
+3039	2012		Wash Ln	
+3040	2012		Washwood Heath Rd	
+3041	2012		Washwood Heath Rd	
+3042	2012	Alum	Watson Rd, Alum Rock	
+3043	2012		Wheatcroft Rd, Chelmesley Wood	
+3044	2012	Coventry	Wheatsheaf Ph Coventry Rd, Sheldon	
+3045	2012	Coventry	Wheatsheaf, Coventry Rd	
+3046	2012		William Hill Bookmakers, Washwood Heath Rd	
+3047	2012		Woodbridge Rd	
+3048	2012		Woodbridge Rd	
+3049	2012		Acorn Public House	
+3050	2012		Atlantic Rd	
+3051	2012		Aylesbury Crescent, Kingstanding, B'Ham	
+3052	2012		Beggers Bush	
+3053	2012		Bendall Rd Kingstanding	
+3054	2012	Coldfield	Berryfields Rd, Walmley, Sutton Coldfield	
+3055	2012	Birmingham	Birmingham Rd	
+3056	2012	Birmingham	Birmingham Rd	
+3057	2012	Birmingham	Birmingham Rd	
+3058	2012	Birmingham	Birmingham Rd	
+3059	2012	Birmingham	Birmingham Rd, Wylde Green	
+3060	2012	Birmingham	Birmingham Rd, Wylde Green	
+3061	2012		Boldmere Rd	
+3062	2012		Bottle Of Sack	
+3063	2012		Boundary Rd, Erdington	
+3064	2012	Coldfield	Brassington Ave, Sutton Coldfield	
+3065	2012		Broad St]#	
+3066	2012		Capilano Rd, Erdington	
+3067	2012	Alum	Car Park Lidl Pelham Rd Alum Rock	
+3068	2012		Car Park Of Old Speckled Hen Public House Mere Green	
+3069	2012		Car Park Reddicap Tavern, Hollyfield Rd, Falcon Lodge	
+3070	2012		Car Park, Kenilworth Court, Wheelwright Rd	
+3071	2012		Chester Rd	
+3072	2012		Chesterfield Grove, Pype Hayes	
+3073	2012		Chipstead Rd	
+3074	2012		Church Rd, Erdington	
+3075	2012		Coton Ln, Erdington, B'Ham	
+3076	2012		Cottishall Walk	
+3077	2012		Court Ln	
+3078	2012		Court Ln	
+3079	2012		Duke Str	
+3080	2012	Coldfield	Ebrook Rd, Sutton Coldfield	
+3081	2012		Emscote Rd	
+3082	2012		Erdington High Str	
+3083	2012		Erdington High Str	
+3084	2012		Erdington High Str	
+3085	2012		Firbeck Grove	
+3086	2012		Frances Rd Erdington	
+3087	2012	Coldfield	Front Odffice Sutton Coldfield	
+3088	2012		Good Hope Hospital	
+3089	2012	Coldfield	Gracechuch Shopping Centre, Sutton Coldfield	
+3090	2012		Gravelly Hill	
+3091	2012		Hairy Lemon, Erdington High Str	
+3092	2012		Hairy Lemon Lower Parade	
+3093	2012		Hairy Lemon Lower Parade	
+3094	2012		Hampton Rd, Erdington, B'Ham	
+3095	2012		Hellbey Close	
+3096	2012	Coldfield	High St Sutton Coldfield	
+3097	2012		High St Erdington	
+3098	2012		High Str, Erdington	
+3099	2012		High Str, Erdington	
+3100	2012		High Str, Erdington	
+3101	2012		High Str, Erdington	
+3102	2012		High Str, Erdington	
+3103	2012		High Str, Erdington	
+3104	2012		High Str, Erdington	
+3105	2012		High Str, Erdington	
+3106	2012		High Str, Erdington	
+3107	2012		High Str, Erdington	
+3108	2012		High Str, Erdington	
+3109	2012		High Str, West Bromwich	
+3110	2012		High Str, West Bromwich	
+3111	2012		High Str, West Bromwich	
+3112	2012		Inland Rd, Erdington, B'Ham	
+3113	2012		Job Centre, Sutton New Rd, Erdington	
+3114	2012	Birmingham	Johnson Rd, Erdington, Birmingham	
+3115	2012	Birmingham	Johnson Rd, Erdington, Birmingham	
+3116	2012		Kings Rd	
+3117	2012		Kingsbury Rd, Castle Vale	
+3118	2012		Lichfield Rd	
+3119	2012		Lichfield Rd	
+3120	2012	Coldfield	Lichfield Rd, Sutton Coldfield	
+3121	2012	Coldfield	Lichfield Rd, Sutton Coldfield	
+3122	2012		Litten Tree Ph Sutton Town Centre	
+3123	2012		Lower Parade	
+3124	2012		Lower Parade	
+3125	2012		Lower Parade	
+3126	2012		Lower Parade	
+3127	2012		Lower Parade	
+3128	2012	Coldfield	Lower Parade, Sutton Coldfield	
+3129	2012	Coldfield	Lower Parade Sutton Coldfield	
+3130	2012	Coldfield	Lower Parade, Sutton Coldfield	
+3131	2012	Coldfield	Lower Parade, Sutton Coldfield	
+3132	2012	Coldfield	Lower Parade, Sutton Coldfield	
+3133	2012	Coldfield	Lower Parade, Sutton Coldfield	
+3134	2012	Coldfield	Lower Parade, Sutton Coldfield	
+3135	2012	Birmingham	Lower Parade, Sutton Coldfield, Birmingham	
+3136	2012	Coldfield	Lower Parade, Sutton Coldfield	
+3137	2012		Lower Parade, Sutton Town Centre	
+3138	2012		Madehurst Rd, Erdington	
+3139	2012		Marrowfat Raod, Handsworth	
+3140	2012		Marsh Hill, Erdington ( Bn )	
+3141	2012		Marsh Ln, Erdington, B'Ham	
+3142	2012		Mere Green Island Lichfield Rd	
+3143	2012		Mill Ave	
+3144	2012		Mill St @ High Str	
+3145	2012		New Str	
+3146	2012		New Str Stn	
+3147	2012		Newdigate Rd	
+3148	2012		Newhall Carpark	
+3149	2012	Coldfield	Newhall Walk, Sutton Coldfield	
+3150	2012	Birmingham	Normanton Tower, Beechmount Drive, Erdington, Birmingham	
+3151	2012		North Holt Rd	
+3152	2012		Northolt Drive	
+3153	2012		O/S H/A	
+3154	2012		O/S Hairy Lemon Ph	
+3155	2012		O/S Kings Arms Ph, Coleshill Rd	
+3156	2012		O/S Kings Arms Ph, Coleshill Rd	
+3157	2012		O/S Litten Tree	
+3158	2012		O/S Moo Moos South Parade	
+3159	2012		O/S Moomoo Club, Sutton Town Centre	
+3160	2012		O/S Moomoos Night Club, South Parade	
+3161	2012		O/S Moomoos, Lower Parade, Sutton Town Centre	
+3162	2012		O/S Stn Ph	
+3163	2012		O/S Temple Bar, S/C Town Centre	
+3164	2012		Orphanage Rd	
+3165	2012		Outside Bagot Arms, Chester Rd, Pype Hayes	
+3166	2012		Outside City View, Erdington	
+3167	2012		Outside Hiry Lemon, Sutton Town Crntr	
+3168	2012		Outside Home Address	
+3169	2012		Outside Home Address	
+3170	2012		Outside Home Address	
+3171	2012	Birmingham	Outside Litten Tree, Birmingham Rd	
+3172	2012	Coldfield	Outside Moomoo'S Bar, South Parade, Sutton Coldfield	
+3173	2012	Coldfield	Outside Moomoo'S Bar, South Parade, Sutton Coldfield	
+3174	2012	Birmingham	Outside New Str Stn, Birmingham City Centre	
+3175	2012	Coldfield	Outside Temple Bar, Lower Parade, Sutton Coldfield	
+3176	2012		Outside The Swan Public House, High Str, Erdington	
+3177	2012	Coldfield	Outside The Temple Bar, Sutton Coldfield Town Centre	
+3178	2012		Parade Sutton	
+3179	2012	Coldfield	Parade Sutton Coldfield	
+3180	2012	Coldfield	Parade Sutton Coldfield	
+3181	2012	Coldfield	Parade Sutton Coldfield Town Centre	
+3182	2012	Coldfield	Parade, Sutton Coldfield	
+3183	2012	Coldfield	Rectory Rd, Sutton Coldfield	
+3184	2012		Reddicap Hill	
+3185	2012		Redwing Grove, Erdington, B'Ham	
+3186	2012		Redwing Grove, Erdington, B'Ham	
+3187	2012		Redwing Grove, Erdington, B'Ham	
+3188	2012		Redwing Grove, Erdington, B'Ham	
+3189	2012		Redwing Grove, Erdington, B'Ham	
+3190	2012		Redwing Grove, Erdington, B'Ham	
+3191	2012		Redwing Grove, Erdington, B'Ham	
+3192	2012		Reservoir Rd Erdington	
+3193	2012		Reservoir Rd Erdington	
+3194	2012		Reservoir Rd Erdington	
+3195	2012		Reservoir Rd Erdington	
+3196	2012		Reservoir Rd Erdington	
+3197	2012		Reservoir Rd	
+3198	2012		Ridgeway, Erdington	
+3199	2012		Sc Town Centre	
+3200	2012		Short Heath Rd	
+3201	2012		Slade Rd	
+3202	2012		Slade Rd	
+3203	2012		Somerset Rd, Erdington	
+3204	2012		South Parade	
+3205	2012		South Parade	
+3206	2012		South Parade	
+3207	2012		South Parade	
+3208	2012		South Parade	
+3209	2012		South Parade	
+3210	2012	Coldfield	South Parade Åäìýå Sutton Coldfield Town Centre	
+3211	2012		South Parade O/S Moomoo	
+3212	2012		South Parade S/C Town Centre	
+3213	2012	Coldfield	South Parade, Sutton Coldfield	
+3214	2012	Coldfield	South Parade, Sutton Coldfield	
+3215	2012	Coldfield	South Parade, Sutton Coldfield	
+3216	2012	Coldfield	South Parade, Sutton Coldfield	
+3217	2012	Coldfield	South Parade, Sutton Coldfield	
+3218	2012	Coldfield	South Parade, Sutton Coldfield	
+3219	2012	Coldfield	South Parade, Sutton Coldfield	
+3220	2012	Coldfield	South Parade, Sutton Coldfield	
+3221	2012	Birmingham	South Parade, Sutton Coldfield, Birmingham	
+3222	2012	Coldfield	South Parades, Sutton Coldfield	
+3223	2012		St Mary & St John Social Club, Gravelly Hill North	
+3224	2012		Sutton New Rd	
+3225	2012		Sutton New Rd, Erdington	
+3226	2012		Sutton New Rd, Erdington	
+3227	2012		Sutton New Rd, Erdington	
+3228	2012		Sutton New Rd, Erdington	
+3229	2012		Sutton New Rd, Erdington	
+3230	2012		Sutton New Rd, Erdington	
+3231	2012		Sutton Town Centre	
+3232	2012		Sutton Town Centre	
+3233	2012		Sutton Town Centre	
+3234	2012		Sutton Town Centre	
+3235	2012		Sutton Town Centre	
+3236	2012		Sutton Town Centre	
+3237	2012		Sutton Town Centre	
+3238	2012		Sutton Town Centre	
+3239	2012		Sutton Town Centre	
+3240	2012		Sutton Town Centre	
+3241	2012		Sutton Town Centre	
+3242	2012		Sutton Town Centre	
+3243	2012		Sutton Town Centre Outside Moo Moo'S	
+3244	2012		Sycamore Rd, Erdingon	
+3245	2012	Coldfield	Tamworth Rd, Sutton Coldfield	
+3246	2012		Tangmere Drive, Castle Vale	
+3247	2012		The Gardens, Erdington	
+3248	2012	Birmingham	The Green House, Four Oaks, Birmingham	
+3249	2012	Coldfield	The Green House, Four Oaks, Sutton Coldfield	
+3250	2012		The Parade	
+3251	2012		The Parade	
+3252	2012		The Parade	
+3253	2012		The Parade S/C	
+3254	2012		The Parade Suttontown Centre	
+3255	2012	Coldfield	The Parade, Sutton Coldfield	
+3256	2012	Coldfield	The Parade, Sutton Coldfield	
+3257	2012	Coldfield	The Parade, Sutton Coldfield	
+3258	2012	Coldfield	The Parade, Sutton Coldfield	
+3259	2012	Coldfield	The Parade, Sutton Coldfield	
+3260	2012	Coldfield	The Parade, Sutton Coldfield	
+3261	2012	Coldfield	The Parade, Sutton Coldfield	
+3262	2012	Coldfield	The Parade, Sutton Coldfield	
+3263	2012	Coldfield	The Parade, Sutton Coldfield	
+3264	2012		The Wylde Green Public House	
+3265	2012		Turnhouse Rd, Castle Vale	
+3266	2012		Unknown	
+3267	2012	Coldfield	Victoria Rd, Sutton Coldfield	
+3268	2012		Walmley Ash Rd	
+3269	2012		Water Orton Ln	
+3270	2012		William Hill, Wylde Green	
+3271	2012		Witton Lodge Rd	
+3272	2012		Woodacre Rd, Erdington	
+3273	2012		Woodacre Rd, Erdington	
+3274	2012		Woodacre Rd, Erdington	
+3275	2012		Woodington Rd	
+3276	2012	Birmingham	Wootton Grove, Kingstanding, Birmingham	
+3277	2012		Yatesbury Ave, Castle Vale	
+3278	2012		A38 Northfield	
+3279	2012		Abdon Ave	
+3280	2012		Alcester Rd	
+3281	2012		Alcester Rd South	
+3282	2012		Aldersmead Rd	
+3283	2012		Alwold Rd	
+3284	2012		Belgrave Middleway	
+3285	2012		Black Horse Public House Carpark	
+3286	2012		Boleyn Rd	
+3287	2012		Bomerfield Rd	
+3288	2012		Bond St, City Centre	
+3289	2012		Bournville Ln	
+3290	2012		Bournville Ln	
+3291	2012		Bournville Ln Front Office	
+3292	2012		Bournville Ln Police Stn	
+3293	2012		Bournville Ps	
+3294	2012		Bournville Police Stn	
+3295	2012		Braceby Ave	
+3296	2012		Brandwood Park Rd	
+3297	2012	Bristol	Bristol Rd South, Northfield	
+3298	2012	Bristol	Bristol Rd	
+3299	2012	Bristol	Bristol Rd	
+3300	2012	Bristol	Bristol Rd	
+3301	2012	Bristol	Bristol Rd	
+3302	2012	Bristol	Bristol Rd	
+3303	2012	Bristol	Bristol Rd	
+3304	2012	Bristol	Bristol Rd	
+3305	2012	Bristol	Bristol Rd	
+3306	2012	Bristol	Bristol Rd	
+3307	2012	Bristol	Bristol Rd Northfield	
+3308	2012	Bristol	Bristol Rd Opposite Royal Orthopaedic	
+3309	2012	Bristol	Bristol Rd Selly Oak	
+3310	2012	Bristol	Bristol Rd Selly Oak	
+3311	2012	Bristol	Bristol Rd Selly Oak	
+3312	2012	Bristol	Bristol Rd Selly Oak	
+3313	2012	Bristol	Bristol Rd Selly Oak	
+3314	2012	Bristol	Bristol Rd Selly Oak Near Gun Barrels Ph	
+3315	2012	Bristol	Bristol Rd South	
+3316	2012	Bristol	Bristol Rd South	
+3317	2012	Bristol	Bristol Rd, Bournville	
+3318	2012	Bristol	Bristol Rd, Selly Oak	
+3319	2012		Brook Ln Billesley	
+3320	2012		Brookfield Rd	
+3321	2012		Bunbury Rd	
+3322	2012		Church Rd	
+3323	2012		Church Rd, Edgbaston	
+3324	2012	Moseley	Church Rd, Moseley	
+3325	2012		City Rd	
+3326	2012		Corn Mill Close Bartley Green	
+3327	2012		Cotteridge Island	
+3328	2012		Devon Rd	
+3329	2012		Dogpool Ln	
+3330	2012		Each Way Ln, Rubery	
+3331	2012		Edgewood Rd	
+3332	2012		Edgwood Rd	
+3333	2012		Edward Rd, Balsall Heath	
+3334	2012		Fordhouse Ln	
+3335	2012		Fredrick Rd	
+3336	2012		Gillot Rd, Edgbaston	
+3337	2012		Gillott Rd, Edgbaston	
+3338	2012		Gorsley Piece	
+3339	2012		Great Park Public House, Rubery	
+3340	2012		Great Park Rubery	
+3341	2012		Grovelly Ln	
+3342	2012		Hagley Rd	
+3343	2012		Hagley Rd	
+3344	2012		Hagley Rd	
+3345	2012		Hagley Rd	
+3346	2012		Hagley Rd	
+3347	2012	Birmingham	Hagley Rd, Birmingham	
+3348	2012		Hagley Rd, Edgbaston	
+3349	2012		Hagley Rd, Edgbaston	
+3350	2012	Harborne	Harborne Hall, Hotel, Harborne	
+3351	2012	Harborne	Harborne Park Rd	
+3352	2012		Harbourne High Str	
+3353	2012		Haunch Ln	
+3354	2012		Hawkshurst Rd	
+3355	2012		Healey Rd, Selly Oak	
+3356	2012		Heather House, Kings Norton	
+3357	2012		Heaton Drive	
+3358	2012		Hgaley Rd	
+3359	2012	Harborne	High St Harborne	
+3360	2012	Harborne	High St Harborne	
+3361	2012	Harborne	High Str Harborne	
+3362	2012	Harborne	High Str Harborne	
+3363	2012	Harborne	High Str Harborne	
+3364	2012	Harborne	High Str Harborne	
+3365	2012		High Str Harbourne	
+3366	2012		High Str Hraborn	
+3367	2012		High Str, Haborne	
+3368	2012		High Str, Harbourne	
+3369	2012		Hillwood Rd	
+3370	2012		Hindhead Rd	
+3371	2012		Hisgh Str Stourbridege	
+3372	2012		Hollybank Rd	
+3373	2012		Holybank Rd	
+3374	2012		Houldy Rd	
+3375	2012		Hubert Croft	
+3376	2012		Hurst Str	
+3377	2012		Jenners Ln	
+3378	2012		Jowetts Ln	
+3379	2012		Katie Rd	
+3380	2012		Kitwell Ln	
+3381	2012		Linden Rd	
+3382	2012		Linden Rd	
+3383	2012		Lofthouse Crescent	
+3384	2012		Longbridge Ln	
+3385	2012		Lottie Rd Selly Oak	
+3386	2012		Lynsey Ave, Northfield	
+3387	2012		Masshouse Ph	
+3388	2012		Maypole Grove	
+3389	2012		Merritts Brook Ln, Northfield	
+3390	2012	Harborne	Metchley Ln, Harborne	
+3391	2012		Metchley Park Rd	
+3392	2012		Miles Rd	
+3393	2012		Millbrook Drive Northfield	
+3394	2012		Milner Rd	
+3395	2012		Moor Str	
+3396	2012		Moor Str Railway Stn	
+3397	2012		Morrisons, Rubery	
+3398	2012		Navigation Pub, Kings Norton	
+3399	2012		Newbury Ln	
+3400	2012		Norhtfield High Str	
+3401	2012		Northfield Rd, Northfield	
+3402	2012	Bristol	Outside Goose Public House, Bristol Rd, Selly Oak	
+3403	2012		Park Way Rubery	
+3404	2012		Parkdale Drive	
+3405	2012		Payne Str	
+3406	2012		Pershore Rd	
+3407	2012		Pershore Rd	
+3408	2012		Pershore Rd	
+3409	2012		Pershore Rd	
+3410	2012		Pershore Rd Cotteridge	
+3411	2012		Pershore Rd South	
+3412	2012		Piddock Rd	
+3413	2012		Piddock Rd Smethwick	
+3414	2012		Piddock Rd Smethwick	
+3415	2012		Piddock Rd Smethwick	
+3416	2012		Pineapple Rd	
+3417	2012		Premier Inn, Great Park	
+3418	2012		Priory Rd	
+3419	2012		Q E A And E Metchley Park Rd	
+3420	2012		Qe Hospital	
+3421	2012		Queen Elizabeth Hospital	
+3422	2012		Queen Elizabeth Hospital	
+3423	2012	Quinton	Quinton Rd	
+3424	2012		Ridgeacre Rd	
+3425	2012		Ridgeacre Rd	
+3426	2012		Safernake Close	
+3427	2012		Sandon Rd	
+3428	2012		Sandon Rd, Edgbaston	
+3429	2012		Selly Oak Railway Stn	
+3430	2012		Selly Oak Railway Stn	
+3431	2012		Shannon Rd	
+3432	2012		Shenly Ln	
+3433	2012		Sir Herbert Austin Way	
+3434	2012		Smithy Hotel, Hagley Rd	
+3435	2012	Solihull	Solihull High Str	
+3436	2012		St Mary'S Hospice	
+3437	2012		Stonehouse Ln	
+3438	2012		Stonehouse Public House	
+3439	2012		Stratford Rd	
+3440	2012		The Fold	
+3441	2012		The Navigation Public House, Kings Norton	
+3442	2012		Tiverton Rd	
+3443	2012		Trittiford Rd	
+3444	2012	Birmingham	University Birmingham	
+3445	2012	Victoria	Victoria Steet Small Heath	
+3446	2012		Wareham Rd	
+3447	2012		Warwick Crest	
+3448	2012		Watford Rd Coteridge	
+3449	2012		Wellington Rd	
+3450	2012		Wellington Rd	
+3451	2012		Wellington Rd	
+3452	2012		West Boulevard	
+3453	2012		West Cliff Place	
+3454	2012		White Horse Public House	
+3455	2012		Willetts Rd, Turves Green	
+3456	2012		Woodthrop Rd	
+3457	2012	Quinton	Worlds End Ln, Quinton	
+3458	2012		Wychal Ln	
+3459	2012		Wychal Ln	
+3460	2012		Wychal Ln	
+3461	2012		Wychall Rd, Kings Norton	
+3462	2012		Ymca Stone Rd	
+3463	2012		York Ph York Rd	
+3464	2012	Birmingham	A38 Expressway, Birmingham	
+3465	2012		Aberdeen St Winson Green	
+3466	2012		Adcadian Centre Ladywell Walk	
+3467	2012		Alexander Ave	
+3468	2012		Alley Way Off Arcadian Palace, Hurst Str	
+3469	2012		Applewood Grove Cradley Heath	
+3470	2012		Arca Bar, City Centre	
+3471	2012		Arcadian	
+3472	2012		Arcadian	
+3473	2012		Arcadian	
+3474	2012		Arcadian	
+3475	2012		Arcadian	
+3476	2012		Arcadian	
+3477	2012		Arcadian	
+3478	2012		Arcadian Centre	
+3479	2012		Arcadian Centre	
+3480	2012		Arcadian Centre	
+3481	2012		Arcadian Centre	
+3482	2012		Arcadian Centre	
+3483	2012		Arcadian Centre	
+3484	2012		Arcadian Centre	
+3485	2012		Arcadian Centre	
+3486	2012		Arcadian Centre	
+3487	2012		Arcadian Centre	
+3488	2012		Arcadian Centre Ladywell Walk	
+3489	2012	Birmingham	Arcadian Centre, Birmingham	
+3490	2012		Arcadian Centre, City Centre	
+3491	2012	Birmingham	Arcadian Centre, City Centre, Birmingham	
+3492	2012		Arcadian Centre,City Centre	
+3493	2012		Arcadian City Centre	
+3494	2012		Arcadian,	
+3495	2012	Birmingham	Arcadian, Birmingham	
+3496	2012	Birmingham	Arcadian, Birmingham	
+3497	2012		Arcadian, City Centre	
+3498	2012		Arcadian, City Centre	
+3499	2012		Arcadian, City Centre	
+3500	2012		Arcadian	
+3501	2012		Arcadian	
+3502	2012		Arcadian	
+3503	2012		Arcadian	
+3504	2012		Arcadian	
+3505	2012		Arka Bar, Arcadian Bar	
+3506	2012		Aston Hotel, Witton Ln	
+3507	2012		Aston Police Stn	
+3508	2012		Aston Str, City Centre	
+3509	2012		Bacchus Rd, Winson Green	
+3510	2012	Birmingham	Bar Risa, Broad St, Birmingham	
+3511	2012		Bennetts Hill	
+3512	2012	Birmingham	Berkeley St, Birmingham	
+3513	2012	Birmingham	Berkeley St, Birmingham City Centre	
+3514	2012	Birmingham	Berkley Str, Birmingham	
+3515	2012		Bham Central Front Office	
+3516	2012		Bierton Rd, Yardley	
+3517	2012		Birchfield Ln Oldbury	
+3518	2012		Birkley Rd, City Centre	
+3519	2012		Birkley Str, City Centre	
+3520	2012	Birmingham	Birmingham Central Police Stn	
+3521	2012	Birmingham	Birmingham Central Ps	
+3522	2012	Birmingham	Birmingham Central Ps	
+3523	2012	Birmingham	Birmingham Hippodrome	
+3524	2012	Birmingham	Birmingham Magistrates Court	
+3525	2012	Birmingham	Birmingham New Str Stn	
+3526	2012	Birmingham	Birmingham New Str Stn	
+3527	2012	Birmingham	Birmingham New Str Stn	
+3528	2012		Bishopgate St	
+3529	2012		Bishopgate St	
+3530	2012		Bishopgate Str	
+3531	2012		Bliss, Broad St	
+3532	2012		Borad St	
+3533	2012		Borad Str	
+3534	2012	Bordesley	Bordesley Park Rd	
+3535	2012		Bp Waterlane Middleway	
+3536	2012		Bp Waterlane Middleway	
+3537	2012		Bp Waterlane Middleway	
+3538	2012	Birmingham	Braod Str, Birmingham	
+3539	2012		Braod Str, City Centre	
+3540	2012		Brass House, Broad Str	
+3541	2012		Bridge Str Junction Broad Str	
+3542	2012	Bristol	Bristol Rd	
+3543	2012	Bristol	Bristol St	
+3544	2012	Bristol	Bristol Str, City Centre	
+3545	2012		Broad Str	
+3546	2012	Birmingham	Broad City, Birmingham	
+3547	2012		Broad St	
+3548	2012		Broad St	
+3549	2012		Broad St	
+3550	2012		Broad St	
+3551	2012		Broad St	
+3552	2012		Broad St	
+3553	2012		Broad St	
+3554	2012		Broad St	
+3555	2012		Broad St	
+3556	2012		Broad St	
+3557	2012		Broad St	
+3558	2012		Broad St	
+3559	2012		Broad St	
+3560	2012		Broad St	
+3561	2012		Broad St	
+3562	2012		Broad St	
+3563	2012		Broad St	
+3564	2012		Broad St	
+3565	2012		Broad St	
+3566	2012		Broad St	
+3567	2012		Broad St	
+3568	2012		Broad St	
+3569	2012		Broad St	
+3570	2012		Broad St	
+3571	2012		Broad St	
+3572	2012		Broad St	
+3573	2012		Broad St	
+3574	2012		Broad St	
+3575	2012		Broad St	
+3576	2012		Broad St	
+3577	2012		Broad St	
+3578	2012		Broad St	
+3579	2012		Broad St	
+3580	2012		Broad St	
+3581	2012		Broad St Bham	
+3582	2012	Birmingham	Broad St Birmingham	
+3583	2012		Broad St City Centre	
+3584	2012		Broad St City Centre	
+3585	2012	Birmingham	Broad St, Birmingham	
+3586	2012	Birmingham	Broad St, Birmingham	
+3587	2012	Birmingham	Broad St, Birmingham	
+3588	2012	Birmingham	Broad St, Birmingham	
+3589	2012	Birmingham	Broad St, Birmingham	
+3590	2012	Birmingham	Broad St, Birmingham	
+3591	2012	Birmingham	Broad St, Birmingham	
+3592	2012	Birmingham	Broad St, Birmingham	
+3593	2012	Birmingham	Broad St, Birmingham	
+3594	2012	Birmingham	Broad St, Birmingham	
+3595	2012	Birmingham	Broad St, Birmingham	
+3596	2012	Birmingham	Broad St, Birmingham	
+3597	2012	Birmingham	Broad St, Birmingham	
+3598	2012	Birmingham	Broad St, Birmingham	
+3599	2012		Broad St, City Centre	
+3600	2012		Broad St, City Centre	
+3601	2012		Broad Str	
+3602	2012		Broad Str	
+3603	2012		Broad Str	
+3604	2012		Broad Str	
+3605	2012		Broad Str	
+3606	2012		Broad Str	
+3607	2012		Broad Str	
+3608	2012		Broad Str	
+3609	2012		Broad Str	
+3610	2012		Broad Str	
+3611	2012		Broad Str	
+3612	2012		Broad Str	
+3613	2012		Broad Str	
+3614	2012		Broad Str	
+3615	2012		Broad Str	
+3616	2012		Broad Str	
+3617	2012		Broad Str	
+3618	2012		Broad Str	
+3619	2012		Broad Str	
+3620	2012		Broad Str	
+3621	2012		Broad Str	
+3622	2012		Broad Str	
+3623	2012		Broad Str	
+3624	2012		Broad Str	
+3625	2012		Broad Str	
+3626	2012		Broad Str	
+3627	2012		Broad Str	
+3628	2012		Broad Str	
+3629	2012		Broad Str	
+3630	2012		Broad Str	
+3631	2012		Broad Str	
+3632	2012		Broad Str	
+3633	2012		Broad Str	
+3634	2012		Broad Str	
+3635	2012		Broad Str	
+3636	2012		Broad Str	
+3637	2012		Broad Str	
+3638	2012		Broad Str	
+3639	2012		Broad Str	
+3640	2012		Broad Str	
+3641	2012		Broad Str	
+3642	2012		Broad Str	
+3643	2012		Broad Str	
+3644	2012		Broad Str	
+3645	2012		Broad Str	
+3646	2012		Broad Str	
+3647	2012		Broad Str	
+3648	2012		Broad Str	
+3649	2012		Broad Str	
+3650	2012		Broad Str	
+3651	2012		Broad Str	
+3652	2012		Broad Str	
+3653	2012		Broad Str	
+3654	2012		Broad Str	
+3655	2012		Broad Str	
+3656	2012		Broad Str	
+3657	2012		Broad Str	
+3658	2012		Broad Str	
+3659	2012		Broad Str	
+3660	2012		Broad Str	
+3661	2012		Broad Str	
+3662	2012		Broad Str	
+3663	2012		Broad Str	
+3664	2012		Broad Str (O/S Obar)	
+3665	2012	Birmingham	Broad Str Birmingham	
+3666	2012		Broad Str City Centre	
+3667	2012		Broad Str Near Gatecrashers	
+3668	2012		Broad Str O/S Flares	
+3669	2012		Broad Str,	
+3670	2012		Broad Str,	
+3671	2012		Broad Str,	
+3672	2012	Birmingham	Broad Str, Birmingham	
+3673	2012	Birmingham	Broad Str, Birmingham	
+3674	2012	Birmingham	Broad Str, Birmingham	
+3675	2012	Birmingham	Broad Str, Birmingham	
+3676	2012	Birmingham	Broad Str, Birmingham	
+3677	2012	Birmingham	Broad Str, Birmingham	
+3678	2012	Birmingham	Broad Str, Birmingham	
+3679	2012	Birmingham	Broad Str, Birmingham	
+3680	2012	Birmingham	Broad Str, Birmingham	
+3681	2012	Birmingham	Broad Str, Birmingham	
+3682	2012	Birmingham	Broad Str, Birmingham	
+3683	2012	Birmingham	Broad Str, Birmingham	
+3684	2012	Birmingham	Broad Str, Birmingham	
+3685	2012		Broad Str, City Centre	
+3686	2012		Broad Str, City Centre	
+3687	2012		Broad Str, City Centre	
+3688	2012		Broad Str, City Centre	
+3689	2012		Broad Str, City Centre	
+3690	2012		Broad Str, City Centre	
+3691	2012		Broad Str, City Centre	
+3692	2012		Broad Str, City Centre	
+3693	2012		Broad Str, City Centre	
+3694	2012		Broad Str, City Centre	
+3695	2012		Broad Str, City Centre	
+3696	2012		Broad Str, City Centre	
+3697	2012		Broad Str, City Centre	
+3698	2012		Broad Str, City Centre	
+3699	2012		Broad Str, City Centre	
+3700	2012		Broad Str, City Centre	
+3701	2012		Broad Str, City Centre	
+3702	2012		Broad Str, City Centre	
+3703	2012		Broad Str, City Centre	
+3704	2012		Broad Str, City Centre	
+3705	2012		Broad Str, City Centre	
+3706	2012		Broad Str, City Centre	
+3707	2012	Birmingham	Broad Str, City Centre, Birmingham	
+3708	2012		Broad Str, City Centre	
+3709	2012		Broad Str, O/S Big Bites	
+3710	2012		Broad Street,City Centre	
+3711	2012		Bromsgrove Str	
+3712	2012	Birmingham	Bromsgrove Str, Birmingham	
+3713	2012		Bromsgrove Str, City Centre	
+3714	2012		Bull Ring	
+3715	2012		Canalside, Ramada Mailbox	
+3716	2012		Carrs Ln City Centre	
+3717	2012	Birmingham	Carrs Ln, Birmingham	
+3718	2012		Carrs Ln, City Centre	
+3719	2012		Carrs Ln, City Centre	
+3720	2012		Carrs Ln, City Centre	
+3721	2012		Carrs Ln, City Centre	
+3722	2012		Carrs Ln, City Centre	
+3723	2012		Carrs Ln, City Centre	
+3724	2012		Carrs Ln, City Centre	
+3725	2012		Carrs Ln, City Centre	
+3726	2012	Birmingham	Chamberlain Square, Birmingham	
+3727	2012	Birmingham	Chamberlain Square, Birmingham	
+3728	2012	Birmingham	Chamberlain Square, Birmingham	
+3729	2012		Chamberlain Square, City Centre	
+3730	2012		Churchill Rd	
+3731	2012		City Hospital	
+3732	2012		City Hospital	
+3733	2012	Birmingham	City Hospital, Birmingham	
+3734	2012	Birmingham	City Hospital, Birmingham	
+3735	2012	Birmingham	City Hospital, Birmingham	
+3736	2012	Dudley	City Hospital, Dudley Rd	
+3737	2012		City Hospital,Dudley Rd	
+3738	2012		Colmore Row	
+3739	2012		Colmore Row, City Centre	
+3740	2012		Constitution Hill	
+3741	2012		Coopers Rd, Handsworth	
+3742	2012		Corporation St	
+3743	2012		Corporation Str	
+3744	2012		Coxwell Rd, Ladywood	
+3745	2012		Dale End	
+3746	2012		Dale End	
+3747	2012		Dale End, City Centre	
+3748	2012		Digbeth Coach Stn	
+3749	2012		Digbeth Coach Stn	
+3750	2012		Digbeth Coach Stn, City Centre	
+3751	2012		Digbeth Coach Stn, City Centre	
+3752	2012		Digbeth High St	
+3753	2012		Digbeth High St	
+3754	2012		Digbeth High St	
+3755	2012		Digbeth High St	
+3756	2012		Digbeth High St	
+3757	2012		Digbeth High St	
+3758	2012		Digbeth High Str	
+3759	2012		Digbeth High Str	
+3760	2012		Digbeth High Str	
+3761	2012		Digbeth High Str	
+3762	2012		Digbeth High Str	
+3763	2012		Digbeth High Str	
+3764	2012		Digbeth High Str	
+3765	2012	Dudley	Dudley Rd	
+3766	2012		Dyas Ave, Great Barr	
+3767	2012	Birmingham	Edgbaston St, Birmingham	
+3768	2012		Essex Str, City Centre	
+3769	2012		Felstone Road,Great Barr	
+3770	2012		Fiveways, Broad Str	
+3771	2012		Flare, Broad Str	
+3772	2012		Fletchers Walk	
+3773	2012		Garrison Ln	
+3774	2012		Gas St	
+3775	2012		Gas St City Centre	
+3776	2012	Birmingham	Gas St, Birmingham	
+3777	2012		Gas Str	
+3778	2012		Gas Str	
+3779	2012		Gas Str, City Centre	
+3780	2012		Gas Str, City Centre	
+3781	2012		Gatecrashers	
+3782	2012		Grange Rd	
+3783	2012		Granville Str, City Centre	
+3784	2012	Birmingham	Granville Str, Off Broad Str, Birmingham	
+3785	2012		Great Colmore Str	
+3786	2012	Birmingham	Great Hampton St, Birmingham	
+3787	2012	Birmingham	Great Hampton St, Birmingham	
+3788	2012		Guild Close	
+3789	2012		Guild Close	
+3790	2012		Guild Close	
+3791	2012		Hagley Rd	
+3792	2012	Birmingham	Handsworth New Rd, Birmingham	
+3793	2012		Handsworth Wood Rd	
+3794	2012		Hawthorns Football Ground	
+3795	2012		Heathfield Ave, Handsworth	
+3796	2012		Heathfield Rd, Lozells	
+3797	2012		High Str	
+3798	2012		High Str, Digbeth	
+3799	2012		High Str, Digbeth	
+3800	2012		Highgate Str	
+3801	2012		Hill St	
+3802	2012		Hill Str, City Centre	
+3803	2012		Holiday Str, Handsworth	
+3804	2012		Holiday Str, Handsworth	
+3805	2012		Holloway Head	
+3806	2012	Birmingham	Hollyhead Rd, Handsworth, Birmingham	
+3807	2012		Holte End, Villa Park	
+3808	2012		Home Address	
+3809	2012		Home Address	
+3810	2012		Home Address	
+3811	2012		Horsefair Str	
+3812	2012	Birmingham	Horsefair, Birmingham	
+3813	2012		Horsefair, City Centre	
+3814	2012		Horsefair, City Centre	
+3815	2012		Horsefairs	
+3816	2012		Hurst St	
+3817	2012	Birmingham	Hurst St, Birmingham	
+3818	2012	Birmingham	Hurst St, Birmingham	
+3819	2012	Birmingham	Hurst St, Birmingham	
+3820	2012	Birmingham	Hurst Steet, Birmingham	
+3821	2012		Hurst Str	
+3822	2012		Hurst Str	
+3823	2012		Hurst Str	
+3824	2012		Hurst Str	
+3825	2012		Hurst Str	
+3826	2012		Hurst Str	
+3827	2012		Hurst Str	
+3828	2012		Hurst Str	
+3829	2012		Hurst Str	
+3830	2012		Hurst Str	
+3831	2012		Hurst Str	
+3832	2012	Birmingham	Hurst Str, Birmingham City Centre	
+3833	2012		Hurst Str, City Centre	
+3834	2012		Hursyt Str	
+3835	2012		Husrt Str	
+3836	2012		Icknield Port Rd	
+3837	2012		Icknield St	
+3838	2012		Island Apartments	
+3839	2012		Islington Row City Centre	
+3840	2012		Ivy Rd	
+3841	2012		Ivy Rd, Handsworth	
+3842	2012		John Bright St	
+3843	2012		Kerryman Public House, Digbeth	
+3844	2012		Kings Rd	
+3845	2012		Kings Standing Rd	
+3846	2012		Kingstanding Road,Kingstanding	
+3847	2012		Ladywell Walk	
+3848	2012		Ladywell Walk	
+3849	2012		Ladywell Walk	
+3850	2012		Ladywell Walk	
+3851	2012		Ladywell Walk	
+3852	2012		Ladywell Walk	
+3853	2012		Ladywell Walk	
+3854	2012		Ladywell Walk Arcadian	
+3855	2012		Ladywell Walk,	
+3856	2012		Ladywell Walk, City Centre	
+3857	2012		Ladywell Walk, City Centre	
+3858	2012		Ladywell Walk, City Centre	
+3859	2012		Ladywell Walk, O/S Ibis Hotel, City Centre	
+3860	2012		Ladywell Walk, O/S Ibis Hotel, City Centre	
+3861	2012		Ladywell Walk, O/S Ibis Hotel, City Centre	
+3862	2012		Ladywell Walk, O/S Sense Nightclub	
+3863	2012		Ladywell Walk,City Centre	
+3864	2012		Ladywood ( Rd Name U/K )	
+3865	2012		Landon Str, Highgate	
+3866	2012		Livery Str, City Centre	
+3867	2012		Lodge Rd	
+3868	2012		Lodge Rd	
+3869	2012	Birmingham	Lozells Rd, Birmingham	
+3870	2012	Birmingham	Ludgate Hill, Birmingham	
+3871	2012		Main Concourse, Bham New Str	
+3872	2012		Main Concourse, New Str Stn	
+3873	2012		Mcdonald St, Highgate	
+3874	2012		Mcdonalds Åäìýå Small Heath	
+3875	2012		Mcdonalds Åäìýå Small Heath	
+3876	2012	Birmingham	Mcdonalds, Cherry Str, Birmingham	
+3877	2012	Birmingham	Mcdonalds, Cherry Str, Birmingham	
+3878	2012	Birmingham	Mcdonalds, Cherry Str, Birmingham	
+3879	2012	Birmingham	Mcdonalds, Cherry Str, Birmingham	
+3880	2012		Middleway View	
+3881	2012		Mono Bar, Arcadian	
+3882	2012		N/K	
+3883	2012		Navigation St	
+3884	2012		Nechells Park Rd	
+3885	2012		Nechells Park Rd	
+3886	2012		Nechells Park Rd	
+3887	2012		Nechells Park Rd	
+3888	2012		Nechells Park Rd	
+3889	2012		New St	
+3890	2012		New St	
+3891	2012		New St	
+3892	2012		New St	
+3893	2012		New St Stn	
+3894	2012		New St Stn	
+3895	2012		New St Stn	
+3896	2012		New St Stn	
+3897	2012		New St Stn	
+3898	2012		New St Stn	
+3899	2012		New St Stn	
+3900	2012		New Str	
+3901	2012		New Str	
+3902	2012		New Str	
+3903	2012		New Str	
+3904	2012		New Str	
+3905	2012		New Str	
+3906	2012		New Str Railway Stn	
+3907	2012		New Str Railway Stn	
+3908	2012		New Str Stn	
+3909	2012		New Str Stn	
+3910	2012		New Str Stn	
+3911	2012		New Str Stn	
+3912	2012		New Str Stn	
+3913	2012		New Str Stn	
+3914	2012		New Str Stn	
+3915	2012		New Str Stn	
+3916	2012		New Str Stn	
+3917	2012		New Str Stn	
+3918	2012		New Str Stn	
+3919	2012	Birmingham	New Str Stn, Birmingham	
+3920	2012	Birmingham	New Str Stn, Birmingham	
+3921	2012		New Str Stn	
+3922	2012	Birmingham	New Str, Birmingham	
+3923	2012		New Str, City Centre	
+3924	2012		New Str, City Centre	
+3925	2012		New Str, City Centre	
+3926	2012		New Str, City Centre	
+3927	2012		New Str, City Centre	
+3928	2012		New Str, City Centre	
+3929	2012		Newtown Drive, Newtown	
+3930	2012		Ninehva Rd	
+3931	2012		Nineva Rd, Handlworth	
+3932	2012	Birmingham	Ninevah Rd, Birmingham	
+3933	2012		Niniva Rd, Handsworth	
+3934	2012		O/S Bliss Nightclub	
+3935	2012		O/S Bliss, Broad Str	
+3936	2012		O/S Gatecrasher, Broad Str	
+3937	2012		O/S Gatecrasher, Broad Str	
+3938	2012		O/S Gatecrasher, Broad Str	
+3939	2012		O/S Gatecrasher, Broad Str	
+3940	2012		O/S Gatecrasher, Broad Str	
+3941	2012		O/S New Str Train Stn	
+3942	2012		O/S Ricco, Broad Str	
+3943	2012		O/S St Martins Hospital, Bull Ring Area	
+3944	2012		O/S St Martins Hospital, Bull Ring Area	
+3945	2012		O/S Thornhill Rd Police Stn	
+3946	2012		O/S Walkabout Broad Str	
+3947	2012		O/S Walkabout, Broad Str	
+3948	2012	Birmingham	O/S Walkabout, Broad Str, Birmingham	
+3949	2012		O2 Acadamy,Bristol Str	
+3950	2012	Birmingham	O2 Academy, Birmingham	
+3951	2012		Old Snow Hill	
+3952	2012		Outside Arcadia Centre, City Centre	
+3953	2012		Outside Bliss,Broad Str	
+3954	2012		Outside The Village Ph Digbeth	
+3955	2012		Oxford Str, Digbeth	
+3956	2012	Birmingham	Oxhill Rd, Handsworth, Birmingham	
+3957	2012	Birmingham	Paradise Circus, Birmingham	
+3958	2012		Paradise Circus, City Centre	
+3959	2012		Paradise Forum	
+3960	2012		Paradise Forum	
+3961	2012		Park Rd	
+3962	2012		Park Str	
+3963	2012		Park Str	
+3964	2012		Peel Str	
+3965	2012		Pershore Str, City Centre	
+3966	2012		Pershore Str, City Centre	
+3967	2012		Pic'S H/A	
+3968	2012	Birmingham	Platform 7, Birmingham New Str	
+3969	2012		Princip St	
+3970	2012		Prior Queens Way	
+3971	2012		Priory Queensway	
+3972	2012		Priory Square	
+3973	2012		Putney Rd, Handsworth	
+3974	2012		Queens Way	
+3975	2012	Birmingham	Queens Way, Birmingham City Centre	
+3976	2012		Queslett Rd, Great Barr	
+3977	2012	Birmingham	Rainbow Bar, Digbeth, Birmingham	
+3978	2012		Rainbow Warehouse Club	
+3979	2012		Rainbow Warehouse Club	
+3980	2012		Rea Str, Digbeth	
+3981	2012		Rea Str, City Centre	
+3982	2012		Reception Area Of Ibis Hotel, Ladywell Walk	
+3983	2012		Richmond Rd, Stechford	
+3984	2012	Birmingham	Rococco, Broad St, Birmingham	
+3985	2012		Rookery Rd	
+3986	2012		Rushden Str, Ladywood	
+3987	2012		Sainsbury Oldbury	
+3988	2012		Sandon Rd	
+3989	2012		Sheepcote Str Back Of Brindley Place	
+3990	2012		Sherlock St	
+3991	2012	Birmingham	Sherlock St, Birmingham	
+3992	2012		Small Brook, Queensway	
+3993	2012		Smallbrook Queensway	
+3994	2012		Smallbrook Queensway	
+3995	2012		Smallbrook Queensway	
+3996	2012		Smallbrook Queensway	
+3997	2012		Smallbrook Queensway	
+3998	2012		Smallbrook Queensway	
+3999	2012	Birmingham	Smallbrook Queensway, Birmingham	
+4000	2012		Soho Rd	
+4001	2012		Soho Rd	
+4002	2012		Soho Rd	
+4003	2012		Soho Rd	
+4004	2012		Soho Rd, Handsworth	
+4005	2012		Spical Str	
+4006	2012		Spiceal Str, Bullring	
+4007	2012		Springhill Winson Green	
+4008	2012		St Johns Walk	
+4009	2012		St Martins Church, Bullring	
+4010	2012		St Martins Church, Bullring	
+4011	2012		St Martins Queensway	
+4012	2012		St Martins Square, City Centre	
+4013	2012		St Phillips Cathedral	
+4014	2012		St Phillips Churchyard, Temple Row	
+4015	2012		Star City	
+4016	2012	Birmingham	Star City, Birmingham	
+4017	2012		Stealhouse Ln	
+4018	2012		Steelhouse Ln	
+4019	2012		Steelhouse Ln	
+4020	2012		Steelhouse Ln City Centre	
+4021	2012		Steelhouse Ln Police Stn	
+4022	2012		Suffolk Str Queensway, City Centre	
+4023	2012	Birmingham	Summer Row, Birmingham	
+4024	2012	Birmingham	Summer Row, Birmingham	
+4025	2012		Summer Row,City Centre	
+4026	2012		Tanhouse Fish Bar	
+4027	2012		Tescos, Aston	
+4028	2012		Tescos, New Str	
+4029	2012		Tew Park Rd Handsworth	
+4030	2012		The Arcadian Centre	
+4031	2012		The Bullring,	
+4032	2012	Birmingham	The Review Bar, Arcadian, Birmingham	
+4033	2012		Thimblemill Rd, Smethwick	
+4034	2012		Three Shires Oak Rd, Bearwood	
+4035	2012		Union Passage	
+4036	2012		Union Str, City Centre	
+4037	2012		Upper Bull St O/S Priory Court	
+4038	2012		Upper Dean St	
+4039	2012	Birmingham	Upper Dean Str, Birmingham	
+4040	2012		Vauxhall Rd, Neachells	
+4041	2012		Vauxhall Rd, Neachells	
+4042	2012		Vicarage Road,Handsworth	
+4043	2012		Vicarge Rd, Edgbaston	
+4044	2012	Victoria	Victoria Square	
+4045	2012	Victoria	Victoria Square	
+4046	2012	Victoria	Victoria Square	
+4047	2012	Birmingham	Victoria Square Step, Birmingham	
+4048	2012	Victoria	Victoria Square City Centre	
+4049	2012		Villa Road,Lozells	
+4050	2012		Wallface, West Bromwich	
+4051	2012		Waters Str	
+4052	2012		Waverhill Park, Handsworth	
+4053	2012		Waverly Hill Park	
+4054	2012	Birmingham	Wellington Crescent, Handsworth, Birmingham	
+4055	2012		West Ave, Handsworth Wood	
+4056	2012		Whitmore St	
+4057	2012	Bordesley	Whitmore Str, Bordesley Green	
+4058	2012		Whitomore St	
+4059	2012		Willes Rd	
+4060	2012		Winson St	
+4061	2012		Winson St	
+4062	2012		Witton Lodge Rd, Erdington	
+4063	2012		Wright Street,Small Heath	
+4064	2012		Wrottesley St	
+4065	2012		Gosford St	
+4066	2012		Albany Ph	
+4067	2012	Coventry	Allard Way, Coventry	
+4068	2012		Allesley Old Rd,Coventry	
+4069	2012		Allton Rd	
+4070	2012		Ansty Rd	
+4071	2012	Coventry	Arena Park, Coventry	
+4072	2012		Beake Avneue	
+4073	2012		Beake Avneue	
+4074	2012		Beake Avneue	
+4075	2012		Bedlam Ln	
+4076	2012		Bedlam Rd	
+4077	2012	Birmingham	Birmingham International	
+4078	2012	Birmingham	Birmingham International Railway Stn	
+4079	2012		Blackberry Ln	
+4080	2012		Bowers Close	
+4081	2012		Britannia Hotel	
+4082	2012		Broad Park Rd	
+4083	2012		Broadgate	
+4084	2012	Coventry	Calcott House, Chace Ave, Coventry	
+4085	2012		Car Park Arena Park	
+4086	2012		Carmelite Rd	
+4087	2012		Chace Ave Police Staion, Front Office	
+4088	2012		Clay Ln	
+4089	2012		Concourse Sky Dome	
+4090	2012		Corporation Str	
+4091	2012		Corporation Str	
+4092	2012		Corporation Str	
+4093	2012		Corporation Str	
+4094	2012	Coventry	Coundon Wedge Drive Coventry	
+4095	2012	Coventry	Coventry Central Police Stn	
+4096	2012	Coventry	Coventry Central Police Stn	
+4097	2012	Coventry	Coventry Oak Ph	
+4098	2012	Coventry	Cox St Coventry	
+4099	2012		Croft Rd	
+4100	2012		Croft Rd	
+4101	2012	Coventry	Croft Rd Coventry	
+4102	2012		Cross Cheaping	
+4103	2012		Cvfo	
+4104	2012		Cvfo	
+4105	2012		Cvfo	
+4106	2012		Cvfo	
+4107	2012		Denham Ave	
+4108	2012		Earlsdon Str	
+4109	2012		Elliman Gardens	
+4110	2012		Ellys Road,Radford	
+4111	2012		Far Gosford Str	
+4112	2012		Far Gosford Str	
+4113	2012		Flying Standard	
+4114	2012	Coventry	Flying Standard, Trinity Str, Coventry	
+4115	2012		Foleshill Rd	
+4116	2012		Foleshill Rd	
+4117	2012		Foleshill Rd	
+4118	2012	Coventry	Foleshill Rd, Coventry	
+4119	2012		Front Office	
+4120	2012		Front Office	
+4121	2012		Front Office Car Park,Little Park St,Coventry	
+4122	2012	Coventry	Front Office, Little Park St, Coventry	
+4123	2012		Gosford Str	
+4124	2012		Gosford Str	
+4125	2012	Coventry	Gosford Str, Coventry	
+4126	2012		Grangemouth Rd	
+4127	2012		Hale Str	
+4128	2012		Hale Str	
+4129	2012		Hales Str	
+4130	2012		Hales Str	
+4131	2012	Coventry	Hampton Rd Coventry	
+4132	2012	Coventry	Harnall Ln West, Coventry	
+4133	2012		Harnell Ln East	
+4134	2012		Harnell Ln East	
+4135	2012	Coventry	Harper Rd, Coventry	
+4136	2012	Coventry	Harper Rd, Coventry	
+4137	2012		Heath Rd	
+4138	2012		Hersal Common	
+4139	2012		Hertford Str	
+4140	2012		Hollybush Ph	
+4141	2012		Hollybush Ph	
+4142	2012	Coventry	Holyhead Rd, Coventry	
+4143	2012		Homer Rd	
+4144	2012		Jardine Crescent	
+4145	2012		Jordan Well	
+4146	2012	Coventry	Jtn 5 Coventry Ring Rd	
+4147	2012		Jubilee Crescent	
+4148	2012		Kasbah	
+4149	2012	Coventry	Kasbah Night Club, Coventry	
+4150	2012		Kenilworth Rd,Coventry	
+4151	2012	Coventry	King William Str, Coventry	
+4152	2012		Little Park St	
+4153	2012		Little Park St,Coventry	
+4154	2012		Little Park Str	
+4155	2012		Little Park Str	
+4156	2012		Little Park Str	
+4157	2012		Little Park Str	
+4158	2012		Little Park Str, City Centre	
+4159	2012		Longford	
+4160	2012		Longford Rd	
+4161	2012		Lower Ford Str	
+4162	2012		Lower Ford Str	
+4163	2012	Coventry	Lower Holyhead Rd, Coventry	
+4164	2012		Lyndale Rd	
+4165	2012		Ma Front Office	
+4166	2012		Mafo	
+4167	2012		Mafo	
+4168	2012	Coventry	Market Way, Coventry	
+4169	2012		Marlcroft	
+4170	2012		Masser Rd	
+4171	2012		Masser Rd	
+4172	2012		Masser Rd	
+4173	2012		Masser Rd	
+4174	2012		Masser Rd	
+4175	2012		Mb Front Office	
+4176	2012		Mcfo	
+4177	2012		Meadow St	
+4178	2012		Middlemarch Rd	
+4179	2012		Middlemarch Road,Radford,Coventry	
+4180	2012		Mile Ln	
+4181	2012		Mile Ln	
+4182	2012		Millennium Place	
+4183	2012		Moore Str	
+4184	2012		Murray Rd	
+4185	2012		New Union Str	
+4186	2012		New Union Str	
+4187	2012		New Union Str	
+4188	2012		Outside Cvfo	
+4189	2012	Coventry	Oxford Str, Coventry	
+4190	2012		Penny Park Ln	
+4191	2012		Pensilva Close, Hillfields	
+4192	2012		Pool Meadow Bus Stn	
+4193	2012		Pool Meadow Bus Stn	
+4194	2012		Pool Meadow Bus Stn	
+4195	2012	Coventry	Pool Meadow Bus Stn, Coventry	
+4196	2012		Pool Meadow Bus Stn	
+4197	2012	Coventry	Pool Meadow Police Stn, Coventry	
+4198	2012	Coventry	Primrose Hill St Coventry	
+4199	2012		Primrose Hill Str	
+4200	2012		Primrose Hill Str	
+4201	2012		Primrose Hill Str	
+4202	2012		Priory Hall	
+4203	2012		Quarry Wood Grove	
+4204	2012	Quinton	Quinton Rd	
+4205	2012		Raglan Str	
+4206	2012		Ramada Hotel	
+4207	2012		Rear Of Clique, Hale Str	
+4208	2012	Coventry	Rear Yard, Coventry Central Police Stn	
+4209	2012		Ricoh Arena	
+4210	2012		Ricoh Arena	
+4211	2012		Riley Square	
+4212	2012		Ringway Queens	
+4213	2012	Coventry	Roseberry Ave, Coventry	
+4214	2012		Samuel Vale House, St Nicholas Str	
+4215	2012		Samuel Vale House, St Nicholas Str	
+4216	2012		Sewall Highway	
+4217	2012		Sewell Highway	
+4218	2012		Sky Dome	
+4219	2012		Sky Dome	
+4220	2012		Sky Dome	
+4221	2012		Sky Dome	
+4222	2012		Sky Dome	
+4223	2012		Sky Dome	
+4224	2012	Coventry	Sky Dome, Coventry	
+4225	2012		Skydome	
+4226	2012		Skydome	
+4227	2012		Skydome	
+4228	2012		Skydome Carpark	
+4229	2012		Skydome Carpark	
+4230	2012		Skydome Carpark	
+4231	2012		Skydome Complex	
+4232	2012		Skydome Complex	
+4233	2012		Skydome Complex	
+4234	2012		Skydome Complex	
+4235	2012		Skydome Concourse	
+4236	2012		Skydome Concourse	
+4237	2012		Skydome Concourse	
+4238	2012		Skydome Concourse	
+4239	2012		Skydome Concourse	
+4240	2012		Skydome Concourse	
+4241	2012		Skydome Concourse	
+4242	2012		Skydome Concourse,Coventry	
+4243	2012		Skydome Concourse,Coventry	
+4244	2012	Coventry	Skydome Concourse, Coventry City Centre	
+4245	2012	Coventry	Skydome Concourse, Coventry	
+4246	2012		Skydome Concourse	
+4247	2012	Coventry	Skydome Coventry	
+4248	2012		Somerset Rd	
+4249	2012	Coventry	Spon St Coventry	
+4250	2012		Spon Str	
+4251	2012		Spon Str	
+4252	2012		Spon Str	
+4253	2012		Spon Str	
+4254	2012		Spon Str	
+4255	2012	Coventry	Spon Str, Coventry	
+4256	2012	Coventry	Spon Str, Coventry	
+4257	2012	Coventry	Spon Str, Coventry	
+4258	2012	Coventry	Spon Str, Coventry	
+4259	2012		St Patricks Rd	
+4260	2012	Coventry	St Thomas Rd, Longford, Coventry	
+4261	2012	Coventry	Stn Square, Coventry	
+4262	2012	Coventry	Stn Square, Coventry	
+4263	2012	Coventry	Stn Square, Coventry	
+4264	2012		Stoney Stanton Rd	
+4265	2012		Stoney Stanton Rd	
+4266	2012		Stoney Stanton Rd	
+4267	2012		Stoney Stanton Rd	
+4268	2012		Stoney Stanton Rd	
+4269	2012		Stoney Stanton Rd	
+4270	2012		Tamworth Rd	
+4271	2012		Tanyard Close,Tanyard Farm,Coventry	
+4272	2012		Tarquin Close	
+4273	2012	Coventry	Taxi Rank Train Stn Coventry	
+4274	2012		The Burges	
+4275	2012		The Burgess	
+4276	2012		The Burgess	
+4277	2012		The Butts	
+4278	2012		The Castle Pub, Little Park St,Coventry	
+4279	2012		The Chesils	
+4280	2012		The Flying Standard Public House	
+4281	2012		The Grapes Ph O/S	
+4282	2012		Trafalgar House	
+4283	2012		Trinity St	
+4284	2012		Trinity Str	
+4285	2012		Trinity Str	
+4286	2012		Trinity Str	
+4287	2012		Uhcw	
+4288	2012		University Hospital	
+4289	2012	Coventry	University Hospital Coventry	
+4290	2012	Coventry	Unniversity Hospital, Coventry	
+4291	2012		Upper Spon Str	
+4292	2012	Victoria	Victoria Str	
+4293	2012		Wallace Rd	
+4294	2012		Walsgrave Hospital	
+4295	2012		Walsgrave Rd	
+4296	2012		Walsgrave Rd	
+4297	2012		Warwick Rd	
+4298	2012	Coventry	Warwick Row Coventry	
+4299	2012		West Ave	
+4300	2012		Willenhall Ln	
+4301	2012		Willenhall Ln	
+4302	2012		Windsor St	
+4303	2012		Windsor St	
+4304	2012		Winsor Str	
+4305	2012		Woodway Lane,Coventry	
+4306	2012		Wyken Croft	
+4307	2012		Yardley Str	
+4308	2012		Hagley Rd Halesowen	
+4309	2012		Bachelor Close	
+4310	2012		Bearwood Rd, Bearwood	
+4311	2012		Bell St, Stourbridge	
+4312	2012		Bhan Rd,	
+4313	2012		Bhps Front Office	
+4314	2012	Birmingham	Birmingham New Rd	
+4315	2012	Birmingham	Birmingham Str, Stourbridge	
+4316	2012	Birmingham	Birmingham Str, Stourbridge	
+4317	2012		Bridfgnorth Rd, Stourbridge	
+4318	2012		Brierley Hill High Str	
+4319	2012	Dudley	Bus Stn Dudley	
+4320	2012		Bus Stn, Merry Hill Centre	
+4321	2012	Dudley	Castle Hill, Dudley	
+4322	2012	Dudley	Castle Hill, Dudley	
+4323	2012		Charles Ave	
+4324	2012		Church St, B Hill	
+4325	2012		Church St, Stourbridge	
+4326	2012	Dudley	Cinder Bank Dudley	
+4327	2012		Clifton Ph Sedgley	
+4328	2012		Clydesdale Tower	
+4329	2012		Cobden Str	
+4330	2012		Corbett Crescent Stourbridge	
+4331	2012	Coventry	Coventry Str	
+4332	2012		Delph Rd, B Hill	
+4333	2012	Dudley	Dingle Rd Dudley	
+4334	2012	Dudley	Dudley Bus Stn	
+4335	2012	Dudley	Dudley High Str	
+4336	2012	Dudley	Dudley Police Stn	
+4337	2012		Envill Str, Stourbridge	
+4338	2012		Enville Str Stourbridge	
+4339	2012		Front Office Brierley Hill Police Stn	
+4340	2012		Gaimage Str	
+4341	2012		Hagley Rd	
+4342	2012		Hagley Rd Stourbridge	
+4343	2012		Halesowen Bus Stn	
+4344	2012		Halesowen Bus Stn	
+4345	2012		Halesowen Police Stn	
+4346	2012	Dudley	Hall Str Dudley	
+4347	2012		Harvester, Hagley Rd	
+4348	2012		High Str, Brierley Hill	
+4349	2012		High St Bhill	
+4350	2012	Dudley	High St Dudley	
+4351	2012		High St Stourbridge	
+4352	2012		High St Stourbridge	
+4353	2012		High St, B Hill	
+4354	2012		High St, Lye	
+4355	2012		High St, Stourbridge	
+4356	2012		High St, Stourbridge	
+4357	2012		High St, Stourbridge	
+4358	2012		High St, Stourbridge	
+4359	2012		High St, Stourbridge	
+4360	2012		High St, Stourbridge	
+4361	2012		High St, Stourbridge	
+4362	2012		High St, Stourbridge	
+4363	2012		High Str	
+4364	2012		High Str	
+4365	2012		High Str	
+4366	2012		High Str	
+4367	2012		High Str	
+4368	2012		High Str, Stourbridge	
+4369	2012		High Str, Stourbridge	
+4370	2012		High Str, Stourbridge	
+4371	2012		High Str Brierley Hill	
+4372	2012		High Str Brierley Hill	
+4373	2012		High Str Brierley Hill	
+4374	2012		High Str Stourbridge	
+4375	2012		High Str Stourbridge	
+4376	2012		High Str Stourbridge	
+4377	2012		High Str Stourbridge	
+4378	2012		High Str Stourbridge	
+4379	2012	Dudley	High Str, Dudley	
+4380	2012		High Str, Lye	
+4381	2012		High Str, Lye	
+4382	2012		High Str, Stourbridge	
+4383	2012		High Str, Stourbridge	
+4384	2012		High Str, Stourbridge	
+4385	2012		High Str, Stourbridge	
+4386	2012	Dudley	Highland Rd, Dudley	
+4387	2012		Hill Str, Brierley Hill	
+4388	2012		Hillside Rd	
+4389	2012		Home Address	
+4390	2012		Level Str, Brierley Hill	
+4391	2012		Lye High Str	
+4392	2012		Malvern Crescent	
+4393	2012		Market St, Kford	
+4394	2012		Merry Hill	
+4395	2012		New St	
+4396	2012	Dudley	New St Dudley	
+4397	2012	Dudley	New St Dudley	
+4398	2012	Dudley	New Str, Dudley	
+4399	2012	Dudley	North Str, Dudley	
+4400	2012		Norton Rd	
+4401	2012		Oakfield Rd Wollescote	
+4402	2012		Os Bhps	
+4403	2012		Overend Rd	
+4404	2012		Park Rd Netherton	
+4405	2012		Pedmore Road,Lye	
+4406	2012		Quarry Bank High Str	
+4407	2012		Queens Way Halesowen	
+4408	2012		Springfield Rd, Blackheath	
+4409	2012		St Michaels Str West Bromwich	
+4410	2012		Stourbridge High St	
+4411	2012		Stourbridge High Str	
+4412	2012		Stourbridge High Str	
+4413	2012		Stourbridge High Str	
+4414	2012		Stourbridge High Str	
+4415	2012		Stourbridge High Str	
+4416	2012		Stourbridge Town Centre	
+4417	2012		Sunderland Drive Amblecote	
+4418	2012		Sunderland Drive Amblecote	
+4419	2012		Sunderland Drive Amblecote	
+4420	2012		Sunderland Drive Amblecote	
+4421	2012		The Forge, Cradley Heath	
+4422	2012	Dudley	Tower St, Dudley	
+4423	2012	Dudley	Tower Str, Dudley	
+4424	2012	Dudley	Trident Centre, Dudley	
+4425	2012	Dudley	Wolverhampton Str Dudley	
+4426	2012		Worcester St, Stourbridge	
+4427	2012		Worcester St, Stourbridge	
+4428	2012		Worcester St, Stourbridge	
+4429	2012		Worcester St, Stourbridge	
+4430	2012		Worcester St, Stourbridge	
+4431	2012		Anchor Ln	
+4432	2012	Solihull	Apres Solihull Town Centre	
+4433	2012		Aspen Dr Cwtc	
+4434	2012		Bham International	
+4435	2012		Bham International	
+4436	2012		Bhx	
+4437	2012		Bhx	
+4438	2012		Bhx	
+4439	2012		Bhx Åäìýå Terminal 1	
+4440	2012		Birch Croft	
+4441	2012	Birmingham	Birmingham Airport	
+4442	2012	Birmingham	Birmingham International Airport	
+4443	2012	Solihull	Blossomfield Rd, Solihull	
+4444	2012		Boldmere Gate	
+4445	2012		Bosworth Drive	
+4446	2012		Bp Warwick Rd Olton	
+4447	2012		Bradford Rd, Castle Brom	
+4448	2012		Burges	
+4449	2012		Burges	
+4450	2012		Campden Green	
+4451	2012		Chapelhouse Rd	
+4452	2012		Chester Rd	
+4453	2012		Chester Rd	
+4454	2012		Chester Rd	
+4455	2012		Chester Rd, Castlebromwich	
+4456	2012		Chester Rd, Kingshurst	
+4457	2012	Solihull	Churchill Rd, Solihull	
+4458	2012		Clopton Crescent	
+4459	2012		Clopton Crescent	
+4460	2012		Cooks Ln, Chelmsley Wood	
+4461	2012		Drury Ln	
+4462	2012		Drury Lane,Solihull	
+4463	2012		Farthings Ph Green Ln	
+4464	2012		Forth Drive, Chelmsley Wood	
+4465	2012	Solihull	Glebe Rd, Solihull	
+4466	2012		Green Ln, Shirley	
+4467	2012	Birmingham	Greville Pub, Solihull, Birmingham	
+4468	2012	Solihull	Harvester Pub Solihull	
+4469	2012	Solihull	Heaton Rd Solihull	
+4470	2012		Helmsford Drive	
+4471	2012		Helmswood Drive	
+4472	2012		High St Knowle	
+4473	2012	Solihull	High St Solihull	
+4474	2012	Solihull	High St Solihull	
+4475	2012	Solihull	High St Solihull	
+4476	2012	Solihull	High St Solihull	
+4477	2012	Solihull	High St, Solihull	
+4478	2012	Solihull	High St, Solihull	
+4479	2012	Solihull	High St, Solihull	
+4480	2012		High Str	
+4481	2012		High Str	
+4482	2012		High Str	
+4483	2012		High Str	
+4484	2012		High Str	
+4485	2012		High Str Os Hogs Head	
+4486	2012	Solihull	High Str, Solihull	
+4487	2012	Solihull	High Str Solihull	
+4488	2012	Solihull	High Str Solihull	
+4489	2012	Solihull	High Str Solihull	
+4490	2012	Solihull	High Str, Solihull	
+4491	2012		Homer Rd	
+4492	2012		Homer Rd	
+4493	2012	Solihull	Homer Rd Solihull	
+4494	2012		Hurst Ln North J/W Green Ln	
+4495	2012		Kilcote Rd, Shirley	
+4496	2012		Knowle Park	
+4497	2012	Birmingham	Lode Ln, Solihull, Birmingham	
+4498	2012		London Rd	
+4499	2012		M42	
+4500	2012	Solihull	Mc Donalds High St Solihull	
+4501	2012		Mell Square	
+4502	2012	Solihull	Mortons, Dickens Heath, Solihull	
+4503	2012		Nec	
+4504	2012		O/S Bangor House, Forth Drive, Chelmsley Wood	
+4505	2012	Solihull	O/S Hoggs Head Ph, Poplar Rd, Solihull	
+4506	2012	Solihull	O/S Hoggs Head Poplar Way Solihull	
+4507	2012	Solihull	O/S Kings High St, Solihull	
+4508	2012	Solihull	O/S Kings, Solihull	
+4509	2012		O/S Langley Hall Social Club, Langley Hall Rd, Olton	
+4510	2012	Solihull	O/S Touchwood Centre Poplar Rd Solihull	
+4511	2012		Olton Railway Stn	
+4512	2012		Olton Tavern	
+4513	2012	Solihull	Os Assembly Rooms, Poplar Rd, Solihull	
+4514	2012	Solihull	Os Masons Ph, High Str Solihull	
+4515	2012	Solihull	Os Solihull Hospital	
+4516	2012	Solihull	Os Solihull Hospital	
+4517	2012	Solihull	Os Solihull Hospital	
+4518	2012		Outside The Waterside Bar	
+4519	2012		Pine Square Chelsmley Wood	
+4520	2012		Plume Of Feathers Public House, Stratford Rd, Shirley	
+4521	2012		Poplar Avenue,Solihull	
+4522	2012		Poplar Rd	
+4523	2012	Solihull	Poplar Rd Solihull	
+4524	2012	Solihull	Poplar Rd Solihull Town Cebtre	
+4525	2012	Solihull	Poplar Rd Solihull Town Centre	
+4526	2012	Solihull	Poplar Rd Town Centre Solihull	
+4527	2012	Solihull	Poplar Rd, Solihull	
+4528	2012		Poplar Rd	
+4529	2012		Poplar Rd	
+4530	2012		Poplar Rd	
+4531	2012		Poplar Rd	
+4532	2012		Poplar Rd	
+4533	2012		Poplar Rd	
+4534	2012	Solihull	Poplar Rd Solihull	
+4535	2012	Solihull	Poplar Rd Solihull	
+4536	2012	Solihull	Poplar Rd Solihull	
+4537	2012	Solihull	Poplar Rd, Solihull	
+4538	2012	Solihull	Poplar Rd, Solihull	
+4539	2012	Solihull	Poplar Rd, Solihull	
+4540	2012	Solihull	Poplar Rd, Solihull	
+4541	2012		Poplar Way	
+4542	2012		Ppoplar Rd	
+4543	2012		Premier Inn, Stratford Rd	
+4544	2012		Radlow Crescent, Marston Green	
+4545	2012		Ramada Hotel	
+4546	2012		Rover Drive	
+4547	2012		Rover Drive	
+4548	2012		Saddlers Arms	
+4549	2012		Shirral Grove	
+4550	2012	Solihull	Solihull High Str	
+4551	2012	Solihull	Solihull High Str	
+4552	2012	Solihull	Solihull Town Centre	
+4553	2012	Solihull	Solihull Town Centre	
+4554	2012	Solihull	Solihull Town Centre	
+4555	2012	Solihull	Solihull Town Centre	
+4556	2012	Solihull	Stn Rd Solihull	
+4557	2012		Stn Rd	
+4558	2012		Stn Rd	
+4559	2012	Solihull	Stn Rd Solihull	
+4560	2012	Solihull	Stn Rd, Solihull	
+4561	2012		Stratford Rd	
+4562	2012		Stratford Rd Shirley	
+4563	2012		The Bear At Berkswell	
+4564	2012	Solihull	The Cresent Solihull	
+4565	2012		The Radleys	
+4566	2012		Three Horseshoes, Sheldon	
+4567	2012		Touchwood Centre	
+4568	2012		Warwick Rd	
+4569	2012		Warwick Rd Olton	
+4570	2012	Solihull	Warwick Rd Solihull	
+4571	2012		Widney Lane/ Blossomfield Tennis Club	
+4572	2012		Abraham Darby Public House	
+4573	2012		All Saints Way, West Bromwich	
+4574	2012	Birmingham	Arcadian Åäìýå Birmingham	
+4575	2012	Birmingham	Arcadian Åäìýå Birmingham	
+4576	2012		Asda Great Bridge	
+4577	2012		Bearwood High Str	
+4578	2012		Bearwood High Str	
+4579	2012		Bearwood High Str	
+4580	2012		Bearwood Rd	
+4581	2012		Bearwood Rd	
+4582	2012		Bearwood Rd	
+4583	2012		Bet Fred, Duchess Park, West Bromwich	
+4584	2012		Betfred, West Bromwich	
+4585	2012		Bham Str Stourbridge	
+4586	2012		Birch Rd, Oldbury	
+4587	2012		Blackheath Housing Office	
+4588	2012		Bourne Ave, Tipton	
+4589	2012		Bridge St	
+4590	2012		Bridgnorth Rd	
+4591	2012		Brook St	
+4592	2012		Burntree	
+4593	2012		Cape Hill	
+4594	2012		Carters Green, West Bromwich	
+4595	2012		Carters Green, West Bromwich	
+4596	2012		Carters Green, West Bromwich	
+4597	2012		Causeway Rowley	
+4598	2012		Chapel Str, Oldbury	
+4599	2012		Chip Shop, Great Bridge Tipton	
+4600	2012		Church Str Old Hill	
+4601	2012		Church Str Oldbury	
+4602	2012		Church Str, Oldbury	
+4603	2012		Clairmint Rd Smethwick	
+4604	2012		Claremont Rd Smethwick	
+4605	2012		Clifford Rd	
+4606	2012		Collins Str, West Bromwich	
+4607	2012		Collins Str, West Bromwich	
+4608	2012		Cumberland Rd Wednesbury	
+4609	2012		Delville Terrace	
+4610	2012		Desi Marsla West Bromwich	
+4611	2012		Dilshad Restaurant Oldbury Rd Blackheath	
+4612	2012	Dudley	Dudley Rd	
+4613	2012	Dudley	Dudley Rd East	
+4614	2012	Dudley	Dudley Rd East Tividale	
+4615	2012		Edward Str, West Bromwich	
+4616	2012		Elm Tree Way, Cradley Heath	
+4617	2012		Forge Ln	
+4618	2012		Front Office Smethwick	
+4619	2012		Grange Rd Cradley	
+4620	2012		Gregory Ave, Weoley Castle	
+4621	2012		H/A	
+4622	2012		Habberly Rd	
+4623	2012		Hagley Rd West	
+4624	2012		Haig Str	
+4625	2012		Halesowen Rd, Cradley	
+4626	2012		Hannover Rd	
+4627	2012		Hanover Rd, Rowley Regis	
+4628	2012	Harborne	Harborne Stores Harborne	
+4629	2012	Harborne	Harborne Stores Harborne	
+4630	2012		Hargate Arms Public House	
+4631	2012		Hasbury Ph, Halesowen	
+4632	2012		Hasbury Ph, Halesowen	
+4633	2012		Hasbury Ph, Halesowen	
+4634	2012		Henderson Way	
+4635	2012		Hermit Str	
+4636	2012		High St Smethwick	
+4637	2012		High St Wb	
+4638	2012		High St West Brom	
+4639	2012		High St West Bromwich	
+4640	2012		High Str Smethwick	
+4641	2012		High Str Wednesbury	
+4642	2012		High Str West Bromwich	
+4643	2012		High Str Wollaston	
+4644	2012		High Str, Smethwick	
+4645	2012		High Str, Smethwick	
+4646	2012		High Str, Wednesbury	
+4647	2012		High Str, West Bromwich	
+4648	2012		High Str, West Bromwich	
+4649	2012		High Str, West Bromwich	
+4650	2012		High Str, West Bromwich	
+4651	2012		High Str, West Bromwich	
+4652	2012		High Streetm West Brom	
+4653	2012		Hill Top, West Bromwich	
+4654	2012		Holiday Inn Oldbury	
+4655	2012		Holiday Inn Oldbury	
+4656	2012		Holly Ln	
+4657	2012		Horseley Heath	
+4658	2012		Horsley Heath Rd	
+4659	2012		Johnson Rd	
+4660	2012	Dudley	King Str Dudley	
+4661	2012		Knights Quest Blackheath	
+4662	2012		Lakeside Ph Car Park	
+4663	2012		Littleton Str West Bromwich	
+4664	2012		Londonderry Ln	
+4665	2012		Londonderry Rd	
+4666	2012		Long Ln	
+4667	2012		Mallen St, Oldbury	
+4668	2012	Dudley	Market Place, Dudley	
+4669	2012		Mcdonalds Great Bridge	
+4670	2012		Mill Hill Smethwick	
+4671	2012		Millfields Rd	
+4672	2012		Moor Str	
+4673	2012		Moore Str	
+4674	2012		Newton Rd, Great Barr	
+4675	2012	Dudley	Nimth Rd, Dudley	
+4676	2012	Dudley	Nimth Rd, Dudley	
+4677	2012	Dudley	Nimth Rd, Dudley	
+4678	2012	Dudley	Nimth Rd, Dudley	
+4679	2012	Dudley	Nimth Rd, Dudley	
+4680	2012	Dudley	Nimth Rd, Dudley	
+4681	2012	Dudley	Nimth Rd, Dudley	
+4682	2012	Dudley	Nimth Rd, Dudley	
+4683	2012	Dudley	Nimth Rd, Dudley	
+4684	2012	Dudley	Nimth Rd, Dudley	
+4685	2012	Dudley	Nimth Rd, Dudley	
+4686	2012		O/S Hotel Denara, Bearwood	
+4687	2012		Old Chapel Rd	
+4688	2012		Oldbury Rd	
+4689	2012		Oldbury Rd Oldbury	
+4690	2012		Peaks Rd	
+4691	2012		Pound Rd, Oldbury	
+4692	2012		Pound Rd, Oldbury	
+4693	2012		Powke Ln, Oldbury	
+4694	2012		Powys Ave	
+4695	2012		Pritchard Close	
+4696	2012		Queens Rd, Smethwick	
+4697	2012		Ragland Rd, Smethwick	
+4698	2012		Reform Way	
+4699	2012		Regent Court Smethwick	
+4700	2012		Regent Rd, Tividale	
+4701	2012		Rolf Str Stn	
+4702	2012		Royal Chicken, Horsley Heath	
+4703	2012		Samson And Lion Pub	
+4704	2012	Sandwell	Sandwell Hospital	
+4705	2012		School St	
+4706	2012		School Str	
+4707	2012		Sedgley Rd West	
+4708	2012		Sedgley Rd West	
+4709	2012		Shaftsbury Str	
+4710	2012		Slater Str Great Bridge	
+4711	2012		South Bank Rd	
+4712	2012		Spon Ln, West Bromwich	
+4713	2012		St Micheals Str West Brom	
+4714	2012		Stone Str	
+4715	2012		Stourbridge High Str	
+4716	2012		Stourbridge Rd	
+4717	2012		Stuart Rd Åäìýå Rowley Regis	
+4718	2012		Tame Rd	
+4719	2012		Tesco Express, Selly Oak	
+4720	2012		Tescos Burntree	
+4721	2012		The Legends	
+4722	2012		Upper High Str	
+4723	2012		Vicarage Rd Smethwick	
+4724	2012	Victoria	Victoria Park, Tipton	
+4725	2012	Victoria	Victoria Suite Wimdmill Ln	
+4726	2012	Walsall	Walsall Rd	
+4727	2012		Walter St West Bromwich	
+4728	2012		Walter Str West Bromwich	
+4729	2012		Waterloo Rd	
+4730	2012		West Brom High Str	
+4731	2012		West Brom High Str	
+4732	2012		West Brom High Str	
+4733	2012		West Bromwich Police Stn	
+4734	2012		West Bromwich Police Statiopn	
+4735	2012	Wolverhampton	West Park Wolverhampton	
+4736	2012		Windmill Ln	
+4737	2012		Windmill Ln	
+4738	2012		Windmill Ln	
+4739	2012	Walsall	Abelwell St Walsall	
+4740	2012	Walsall	Abelwell Str Walsall	
+4741	2012		Ablewell Str	
+4742	2012	Walsall	Ablewell Str, Walsall	
+4743	2012	Walsall	Ablewell Str, Walsall	
+4744	2012	Walsall	Ablewell Str, Walsall	
+4745	2012		Abu Baka Car Park Wednesbury Rd	
+4746	2012		Bar Sport Bridge St	
+4747	2012		Barons Court Hotel	
+4748	2012		Beaton Close,Willenhall	
+4749	2012		Bentley Ln	
+4750	2012		Bentley Ln	
+4751	2012		Bentley Ln	
+4752	2012		Bilston Str	
+4753	2012		Bilston Str	
+4754	2012		Bilston Str	
+4755	2012	Birmingham	Birmingham Rd Walsall	
+4756	2012		Blowwich Rd	
+4757	2012		Bloxwich Ln North	
+4758	2012		Bloxwich Rd	
+4759	2012		Bloxwich Rd	
+4760	2012		Bloxwich Rd	
+4761	2012	Walsall	Blue Ln, Walsall	
+4762	2012		Bradford Place	
+4763	2012		Bradford Place	
+4764	2012		Bradford Place	
+4765	2012		Bradford Place	
+4766	2012	Walsall	Bradford Place Walsall	
+4767	2012	Walsall	Bradford Place Walsall	
+4768	2012	Walsall	Bradford Place Walsall	
+4769	2012	Walsall	Bradford Place, Walsall	
+4770	2012	Walsall	Bradford Place, Walsall	
+4771	2012	Walsall	Bradford Place, Walsall	
+4772	2012	Walsall	Bradford Place, Walsall	
+4773	2012	Walsall	Bradford Place, Walsall	
+4774	2012	Walsall	Bradford Place, Walsall Town Centre	
+4775	2012		Bradford Str	
+4776	2012		Bradford Str	
+4777	2012	Walsall	Bradford Str Walsall	
+4778	2012	Walsall	Bradford Str, Walsall	
+4779	2012	Walsall	Bradford Str, Walsall	
+4780	2012		Bradford Street,Walsall	
+4781	2012		Bridge St	
+4782	2012	Walsall	Bridge St Walsall	
+4783	2012	Walsall	Bridge St Walsall	
+4784	2012	Walsall	Bridge St, Walsall	
+4785	2012	Walsall	Bridge St, Walsall	
+4786	2012		Bridge Str	
+4787	2012		Bridge Str	
+4788	2012		Bridge Str	
+4789	2012		Bridge Str	
+4790	2012		Bridge Str	
+4791	2012		Bridge Str	
+4792	2012		Bridge Str	
+4793	2012		Bridge Str	
+4794	2012		Bridge Str	
+4795	2012		Bridge Str	
+4796	2012		Bridge Str	
+4797	2012	Walsall	Bridge Str Walsall	
+4798	2012	Walsall	Bridge Str Walsall	
+4799	2012	Walsall	Bridge Str Walsall	
+4800	2012	Walsall	Bridge Str Walsall	
+4801	2012	Walsall	Bridge Str Walsall	
+4802	2012	Walsall	Bridge Str Walsall	
+4803	2012	Walsall	Bridge Str Walsall Town Centre	
+4804	2012	Walsall	Bridge Str, Walsall	
+4805	2012	Walsall	Bridge Str, Walsall	
+4806	2012	Walsall	Bridge Str, Walsall	
+4807	2012	Walsall	Bridge Str, Walsall	
+4808	2012	Walsall	Bridge Str, Walsall	
+4809	2012	Walsall	Bridge Str, Walsall	
+4810	2012	Walsall	Bridge Str, Walsall	
+4811	2012	Walsall	Bridge Str, Walsall	
+4812	2012	Walsall	Bridge Str, Walsall	
+4813	2012	Walsall	Bridge Str, Walsall	
+4814	2012	Walsall	Bridge Str, Walsall	
+4815	2012	Walsall	Bridge Str, Walsall	
+4816	2012	Walsall	Bridge Str, Walsall	
+4817	2012	Walsall	Bridge Str, Walsall	
+4818	2012	Walsall	Bridge Str, Walsall	
+4819	2012	Walsall	Bridge Str, Walsall	
+4820	2012	Walsall	Bridge Str, Walsall	
+4821	2012	Walsall	Bridge Str, Walsall	
+4822	2012		Bridge Street,Walsall	
+4823	2012		Bridge Street,Walsall	
+4824	2012		Bridge Street,Walsall	
+4825	2012		Bridge Street,Walsall Town Centre	
+4826	2012		Broad Meddows Rd	
+4827	2012	Walsall	Broadway North, Walsall	
+4828	2012	Walsall	Bus Stn, St Paul'S, Walsall	
+4829	2012	Walsall	Bus Stn, St Pauls, Walsall	
+4830	2012		Calderfields Golf Club	
+4831	2012		Cambridge Ph	
+4832	2012		Cambridge Ph, Arundel St	
+4833	2012		Cannock Rd	
+4834	2012		Cannock Rd Willenhall	
+4835	2012		Car Park Shire Oak Public House, Chester Rd, Brownhills	
+4836	2012		Car Park, Shire Oak Ph, Lichfield Rd	
+4837	2012		Castle St	
+4838	2012		Cemetary Rd, Willenhall	
+4839	2012		Church Rd, Pelsall	
+4840	2012		Churchfield Ave Tipton	
+4841	2012		Collinwood Drive	
+4842	2012		Colthom Rd, Willenhall	
+4843	2012		Coral Bookmakers, High Str, Smethwick	
+4844	2012		Coral Bookmakers, Smethwick High Str	
+4845	2012		Coral Bookmakers, Smethwick High Str	
+4846	2012		Coral Bookmakers, Smethwick High Str	
+4847	2012		Coral Bookmakers, Smethwick High Str	
+4848	2012		Coral Bookmakers, Smethwick High Str	
+4849	2012		Coral Bookmakers, Smethwick High Str	
+4850	2012		Countess Str	
+4851	2012	Walsall	County Hotel, Walsall	
+4852	2012		Crown Wharf	
+4853	2012	Walsall	Crown Wharf, Walsall	
+4854	2012	Walsall	Crown Wharf, Walsall	
+4855	2012	Walsall	Crown Wharf, Walsall	
+4856	2012	Walsall	Crown Wharf, Walsall	
+4857	2012	Walsall	Crown Wharf, Walsall	
+4858	2012	Walsall	Crown Wharf, Walsall	
+4859	2012	Walsall	Crown Wharf, Walsall	
+4860	2012		Dalkeith St	
+4861	2012	Walsall	Darwall Str, Walsall	
+4862	2012	Walsall	Darwell St Walsall	
+4863	2012		Darwell Str	
+4864	2012		Darwell Str	
+4865	2012		Darwell Str	
+4866	2012		Darwell Str	
+4867	2012		Deans Rd	
+4868	2012		Dorest Drive, Aldridge	
+4869	2012	Dudley	Dudley Port	
+4870	2012		Ernest Clark Close, Willenhall	
+4871	2012		Fisher St Whall	
+4872	2012	Walsall	Florence Str, Walsall	
+4873	2012		Foley Arms	
+4874	2012		Foley Rd West	
+4875	2012		Four Crosses,Shelfield,Walsall	
+4876	2012		Grange Crescent	
+4877	2012		Grange Crescent	
+4878	2012		Great Arthur Str, Smethwick	
+4879	2012		Great Bridge Rd	
+4880	2012		Great Bridge Rd Moxley	
+4881	2012	Walsall	Green Ln Walsall	
+4882	2012	Walsall	Hatherton St Walsall	
+4883	2012	Walsall	Hatherton Str, Walsall	
+4884	2012		Heathfield Ln West	
+4885	2012		High Rd Willenhall	
+4886	2012		High St Pelsall	
+4887	2012		High St Pelsall	
+4888	2012		High Str Pelsall	
+4889	2012		High Str West Bromwich	
+4890	2012		High Str West Bromwich	
+4891	2012		High Str, Pelsall	
+4892	2012		Highs And Lows, St Paul'S Crossing	
+4893	2012		Jessie Rd	
+4894	2012		John Str, Willenhall	
+4895	2012		Kendrick Way, Westbrom	
+4896	2012		Leamore Precinct	
+4897	2012		Leicester Street,Walsall	
+4898	2012	Walsall	Leiester Str Walsall	
+4899	2012	Walsall	Lewis Str, Walsall	
+4900	2012		Lichfield Rd	
+4901	2012		Lichfield Road,Walsall	
+4902	2012	Walsall	Lichfield St Walsall	
+4903	2012	Walsall	Lichfield St, Walsall	
+4904	2012	Walsall	Lichfield St, Walsall	
+4905	2012		Lichfield Str	
+4906	2012		Lichfield Str	
+4907	2012		Lichfield Str	
+4908	2012		Lichfield Str	
+4909	2012		Lichfield Str	
+4910	2012		Lichfield Str	
+4911	2012		Lichfield Str	
+4912	2012		Lichfield Str	
+4913	2012	Walsall	Lichfield Str Walsall	
+4914	2012	Walsall	Lichfield Str Walsall	
+4915	2012	Walsall	Lichfield Str Walsall	
+4916	2012	Walsall	Lichfield Str, Walsall	
+4917	2012	Walsall	Lichfield Str, Walsall	
+4918	2012		Lichfield Street,Walsall	
+4919	2012	Walsall	Lichfild St Walsall	
+4920	2012	Walsall	Lichfiled St Walsall	
+4921	2012	Walsall	Lichfiled St Walsall	
+4922	2012		Liecester Str	
+4923	2012		Linton Avenue,Tividale	
+4924	2012	Walsall	Lisgard Rd Walsall	
+4925	2012		Lower Rushall Str	
+4926	2012		Malabar Anchor Rd Aldridge	
+4927	2012		Market Place, Willenhall	
+4928	2012		Memorial Park, Willenahll	
+4929	2012	Walsall	Milton Str, Walsall	
+4930	2012		Morrisons	
+4931	2012		Morrison'S, Lichfield Str	
+4932	2012		Myatt Avenue,Aldridge	
+4933	2012	Wolverhampton	New Cross Hospital, Wolverhampton	
+4934	2012		New Rd Willenhall	
+4935	2012		New Rd Willenhall	
+4936	2012		New Rd Willenhall	
+4937	2012		New Str Stn	
+4938	2012		New Str, Bloxwich	
+4939	2012		Norton Rd	
+4940	2012	Walsall	Old Birchills Walsall	
+4941	2012		Oldbury Rd Rowley Regis	
+4942	2012		Oswin Rd	
+4943	2012		Outside Beswick House	
+4944	2012		Outside Home Address	
+4945	2012		Outside Home Address	
+4946	2012		Outside Retro Bar, Lichfield Rd	
+4947	2012		Outside Vogue	
+4948	2012		Outside Vogue Nightclub,Walsall	
+4949	2012		Outside Ws1	
+4950	2012		Outside Ws1	
+4951	2012		Outside Ws1, Bridge Str	
+4952	2012		Park Str	
+4953	2012		Park Str	
+4954	2012	Walsall	Park, Union Str, Walsall	
+4955	2012		Pedmore Rd B/Hill	
+4956	2012		Pedmore Rd B/Hill	
+4957	2012		Pelsall Labour Club, Church Rd	
+4958	2012		Penn Cricket Ln	
+4959	2012		Pheasant Ph Car Park	
+4960	2012	Wednesfield	Pheasant Pub, Wednesfield	
+4961	2012	Wolverhampton	Princess Str Wolverhampton	
+4962	2012		Queen Public House,Walsall	
+4963	2012	Wolverhampton	Queen Square Wolverhampton	
+4964	2012		Queen Str, Darlaston	
+4965	2012		Queslette Rd	
+4966	2012	Walsall	Retro Bar, Lichfield St Walsall	
+4967	2012	Walsall	Rutherford Rd, Reedswood, Walsall	
+4968	2012		Salters Rd	
+4969	2012	Sandwell	Sandwell Hospital All Saints Way,	
+4970	2012	Wolverhampton	School Str, Wolverhampton	
+4971	2012		Serve And Save Aldridge	
+4972	2012	Coldfield	South Parade, Sutton Coldfield	
+4973	2012	Walsall	Spring Rd, Shelfield, Walsall	
+4974	2012		St Giles Whall	
+4975	2012		St Michaels Str West Brom	
+4976	2012	Walsall	St Pauls Bus Stn Walsall	
+4977	2012	Walsall	St Pauls Bus Stn Walsall	
+4978	2012		St Pauls Rd, Smethwick	
+4979	2012	Walsall	Stafford St Walsall	
+4980	2012		Stafford Str	
+4981	2012		Stephenson Ave, Beechdale	
+4982	2012		Tamworth Close, Brownhills	
+4983	2012		Tantarra Str	
+4984	2012	Walsall	Tantarra Str, Walsall	
+4985	2012	Walsall	Tasker St Walsall	
+4986	2012		Tesco Store, Wisemore	
+4987	2012		Thimble Mill Pub	
+4988	2012	Walsall	Three Tuns Ph Walsall Rd Willenhall	
+4989	2012		Tower Rd, Tividale	
+4990	2012	Birmingham	Travelodge Birmingham Road,Walsall	
+4991	2012	Birmingham	Travelodge, Birmingham Rd	
+4992	2012		Treetops Drive, Willenhall	
+4993	2012		Union Str, Walsall, Rear Of Croft House	
+4994	2012		Upper Bridge St	
+4995	2012		Upper Bridge St	
+4996	2012		Upper Rushal Str	
+4997	2012		Valley Rd Bloxwich	
+4998	2012		Vernon Way,Bloxwich,Carpark Of Sneyd Public House	
+4999	2012	Victoria	Victoria Str	
+5000	2012		Vogue Nightclub	
+5001	2012	Wolverhampton	Wallace Rd, Wolverhampton	
+5002	2012	Walsall	Walsall Manor Hospital	
+5003	2012	Walsall	Walsall Manor Hospital	
+5004	2012	Walsall	Walsall Manor Hospital	
+5005	2012	Walsall	Walsall Manor Hospital	
+5006	2012	Walsall	Walsall Police Stn	
+5007	2012	Walsall	Walsall Police Stn Car Park, Green Ln	
+5008	2012		Wednesbury Rd	
+5009	2012	Walsall	Wednesbury Rd, Walsall	
+5010	2012	Walsall	West Brom Rd Walsall	
+5011	2012		Willenhall Library	
+5012	2012	Walsall	Wisemoor St, Walsall	
+5013	2012	Walsall	Wisemore, Walsall Town Centre	
+5014	2012		Wolaston Crt	
+5015	2012		Wolevrhampton Train Stn	
+5016	2012	Walsall	Wolverhampton Rd West & Walsall Custody	
+5017	2012		Wolverhamton Rd West	
+5018	2012		Wood Ln Willenhall	
+5019	2012	Wolverhampton	Woolpack Str, Wolverhampton	
+5020	2012	Wolverhampton	Alfred Squire Rd Wolverhampton	
+5021	2012		All Saints Rd	
+5022	2012		All Saints Rd, Wolves	
+5023	2012		Alleyway Near To Enville Rd	
+5024	2012	Wolverhampton	Asda, Jack Hayward Way, Wolverhampton	
+5025	2012		Asda, Wolves Molineaux	
+5026	2012	Dudley	Beech Green, Dudley	
+5027	2012	Dudley	Beech Green, Dudley	
+5028	2012	Dudley	Beech Green, Dudley	
+5029	2012	Victoria	Bet Fred Victoria St	
+5030	2012		Billy Wright Ph	
+5031	2012		Bilston Rd	
+5032	2012		Bilston St	
+5033	2012	Wolverhampton	Bilston St Wolverhampton	
+5034	2012		Bilston Str	
+5035	2012		Bilston Str	
+5036	2012	Wolverhampton	Bilston Str, Wolverhampton	
+5037	2012	W'Ton	Bilston Str, W'Ton	
+5038	2012		Bilston Stret	
+5039	2012	Birmingham	Birmingham Str, Halesowen	
+5040	2012		Black Country Route	
+5041	2012		Boscobel Crescent	
+5042	2012		Bourne Str	
+5043	2012		Bournes Hill	
+5044	2012	Walsall	Bradford Place Walsall	
+5045	2012		Bradmore Arms Ph	
+5046	2012	Walsall	Bridge St Walsall	
+5047	2012		Broad Str	
+5048	2012	Wolverhampton	Broad Str, Wolverhampton	
+5049	2012	Wolverhampton	Broad Str, Wolverhampton	
+5050	2012	W'Ton	Broad Str, W'Ton	
+5051	2012		Bus Stn West Bromwich	
+5052	2012		Camden Str	
+5053	2012		Car Park Royal Oak, Compton Rd	
+5054	2012	Wolverhampton	Carpark Of Mount Hotel, Tettenhall, Wolverhampton	
+5055	2012	Wolverhampton	Castle Str, Wolverhampton	
+5056	2012	Wolverhampton	Castle Str, Wolverhampton	
+5057	2012	Wolverhampton	Castle Yard, City Centre, Wolverhampton	
+5058	2012		Chapel Ash	
+5059	2012	Wolverhampton	Chapel Ash, Wolverhampton	
+5060	2012	Wolverhampton	Chapel Ash, Wolverhampton	
+5061	2012	Wolverhampton	Chester Str, Wolverhampton	
+5062	2012		Cineworld	
+5063	2012		Cleveland St, Wolves	
+5064	2012		Cleveland Str	
+5065	2012		Connaught Hotel, Tettenhall Rd	
+5066	2012	Wolverhampton	Csatle Str, Wolverhampton	
+5067	2012		Darlington Str	
+5068	2012		Drummond Str	
+5069	2012	Dudley	Dudley Rd	
+5070	2012	Dudley	Dudley Rd	
+5071	2012	Dudley	Dudley Rd	
+5072	2012		Dunstall Rd	
+5073	2012		Fenns Crescent, Pensnett	
+5074	2012		Fold Str, City Centre	
+5075	2012		Frederick Str	
+5076	2012	Wolverhampton	Front Office, Wolverhampton Police Stn	
+5077	2012	Wolverhampton	Fryer Str, Wolverhampton City Centre	
+5078	2012	Wolverhampton	Fryer Str, Wolverhampton City Centre	
+5079	2012		Glebe Str	
+5080	2012	Wednesfield	Graisley Ln, Wednesfield	
+5081	2012		Guy Ave	
+5082	2012		High Holborn, Sedgley	
+5083	2012	Wednesfield	High St Wednesfield	
+5084	2012		High Str Stourbridge	
+5085	2012		High Str, Stourbridge	
+5086	2012		High Str, Stourbridge	
+5087	2012		High Str, Stourbridge	
+5088	2012		High Str, Stourbridge	
+5089	2012		Jeremy Rd, Goldthorn Park, Wolverhampoton	
+5090	2012		Keates Rd, Willenhall	
+5091	2012		Kimberley Str	
+5092	2012	Wolverhampton	Lawn Rd (In The Street), Wolverhampton	
+5093	2012		Leasowes Drive	
+5094	2012		Lewisham Rd, Fordhouses	
+5095	2012		Lichfield Rd	
+5096	2012		Lichfield St, Wolves	
+5097	2012		Lichfield Str	
+5098	2012		Lichfield Str	
+5099	2012		Lichfield Str	
+5100	2012		Lichfield Str	
+5101	2012		Lichfield Str	
+5102	2012		Lichfield Str	
+5103	2012		Lichfield Str	
+5104	2012	Wolverhampton	Lichfield Str, Wolverhampton	
+5105	2012	Wolverhampton	Lichfield Str, Wolverhampton	
+5106	2012		Lichfield Str	
+5107	2012		Lichfields St	
+5108	2012		Lichfiled St,Wolves City Centre	
+5109	2012		Lichwood Rd	
+5110	2012		Lunt Rd, Bilston	
+5111	2012		Manders Bar	
+5112	2012		Market St	
+5113	2012		Market Str	
+5114	2012		Market Str	
+5115	2012		Market Str	
+5116	2012		Market Str	
+5117	2012		Market Str	
+5118	2012		Market Str	
+5119	2012		Market Str	
+5120	2012		Market Str	
+5121	2012		Market Str	
+5122	2012		Market Str	
+5123	2012		Market Str	
+5124	2012		Market Str	
+5125	2012		Market Str	
+5126	2012		Market Str	
+5127	2012		Market Str	
+5128	2012		Market Str	
+5129	2012		Market Str	
+5130	2012		Market Str	
+5131	2012		Market Str	
+5132	2012		Market Str	
+5133	2012		Market Str	
+5134	2012	Wolverhampton	Market Str, Wolverhampton	
+5135	2012	Wolverhampton	Market Str, Wolverhampton	
+5136	2012	Wolverhampton	Market Str, Wolverhampton	
+5137	2012		Market Str, Wolves	
+5138	2012		Merridale St	
+5139	2012		Milcroft, Bilston	
+5140	2012		Molineux Stadium	
+5141	2012		Moon Under The Water	
+5142	2012		Mount Rd Lanesfield	
+5143	2012		Neve Ave	
+5144	2012		New Cross Hospital	
+5145	2012	Wednesfield	New Cross Hospital, Wednesfield	
+5146	2012		New Rd, Stourbridge	
+5147	2012	W'Ton	Newhampton Rd W'Ton	
+5148	2012	W'Ton	Newhampton Rd W'Ton	
+5149	2012	Wolverhampton	Newhampton Rd West, Wolverhampton	
+5150	2012	Wolverhampton	North St Wolverhampton	
+5151	2012	Wolverhampton	North St Wolverhampton	
+5152	2012	Wolverhampton	North St Wolverhampton	
+5153	2012	Wolverhampton	North St Wolverhampton	
+5154	2012		North Str	
+5155	2012		North Str	
+5156	2012		North Str	
+5157	2012	Wolverhampton	North Str, Wolverhampton	
+5158	2012	Wolverhampton	North Str, Wolverhampton	
+5159	2012	Wolverhampton	North Str, Wolverhampton	
+5160	2012	Wolverhampton	O/S Dilshad Restaraunt, Berry Str, Wolverhampton	
+5161	2012		O/S Elizabeth Arms	
+5162	2012		O/S Home Address	
+5163	2012		O/S The Hop Pole Public House	
+5164	2012	Wolverhampton	O/S Walkabout, Queen Str, Wolverhampton	
+5165	2012	W'Ton	O/S Yates, Queens Square, W'Ton	
+5166	2012	Wolverhampton	Oak Str, Merridale, Wolverhampton	
+5167	2012	Wolverhampton	Outdoor Market Salop St Wolverhampton	
+5168	2012	Wolverhampton	Outside Gorgeous Bar, School Str, Wolverhampton	
+5169	2012		Outside Home Address	
+5170	2012		Outside Home Address	
+5171	2012		Outside Home Address	
+5172	2012		Outside Home Address	
+5173	2012		Outside Home Address	
+5174	2012		Outside Home Address	
+5175	2012		Outside Planet Nightclub	
+5176	2012	Wolverhampton	Outside Wolverhampton Central P S	
+5177	2012		Owen Rd	
+5178	2012		Park Rd East	
+5179	2012	Wolverhampton	Park Rd East, Whitmore Reans, Wolverhampton	
+5180	2012		Pipers Row	
+5181	2012		Pipers Row	
+5182	2012		Pipers Row	
+5183	2012		Pipers Row	
+5184	2012		Pipers Row	
+5185	2012		Pitt Str	
+5186	2012	Wolverhampton	Platform 1, Wolverhampton Railway Stn	
+5187	2012	Wolverhampton	Priestfield Tram Stop Wolverhampton	
+5188	2012	Wolverhampton	Priestfield Tram Stop Wolverhampton	
+5189	2012		Princes Str	
+5190	2012	Wolverhampton	Princess Square, Wolverhampton	
+5191	2012		Princess St	
+5192	2012		Princess Str	
+5193	2012		Princess Str	
+5194	2012		Princess Str	
+5195	2012		Princess Str	
+5196	2012		Princess Str	
+5197	2012		Queen Square	
+5198	2012	Wolverhampton	Queen Square Wolverhampton	
+5199	2012	Wolverhampton	Queen St Wolverhampton	
+5200	2012		Queen Str	
+5201	2012		Queen Str	
+5202	2012		Queen Str	
+5203	2012		Queen Str	
+5204	2012		Queen Str	
+5205	2012		Queen Str	
+5206	2012		Queen Str	
+5207	2012	Wolverhampton	Queen Str, Wolverhampton	
+5208	2012	Wolverhampton	Queen Str, Wolverhampton	
+5209	2012	Wolverhampton	Queen Str, Wolverhampton	
+5210	2012	Wolverhampton	Queen Str, Wolverhampton	
+5211	2012	Wolverhampton	Queen Str, Wolverhampton	
+5212	2012	Wolverhampton	Queen Str, Wolverhampton	
+5213	2012	W'Ton	Queen Str, W'Ton	
+5214	2012		Queens Sqaure, Wolves	
+5215	2012	Wolverhampton	Queens Square, Wolverhampton	
+5216	2012	Wolverhampton	Queens Square, Wolverhampton	
+5217	2012	Wolverhampton	Queens Square, Wolverhampton	
+5218	2012	Wolverhampton	Queens Square, Wolverhampton	
+5219	2012		Queens Square, Wolves	
+5220	2012	W'Ton	Queens Square, W'Ton	
+5221	2012		Queens St	
+5222	2012		Queens Str	
+5223	2012	Wolverhampton	Queens Str, Wolverhampton	
+5224	2012	Wolverhampton	Rayleigh Rd, Pennfields, Wolverhampton	
+5225	2012	Wolverhampton	Rayleigh Rd, Pennfields, Wolverhampton	
+5226	2012		Red Lion Pub, Amos Ln	
+5227	2012		Ring Rd St Davids Underpass	
+5228	2012		Royal Tiger Ph	
+5229	2012		School St, Wolves	
+5230	2012		School Str	
+5231	2012		School Str	
+5232	2012	Wolverhampton	School Str, City Centre, Wolverhampton	
+5233	2012	Wolverhampton	Sherwood St Wolverhampton	
+5234	2012		Sherwood Str	
+5235	2012	Wolverhampton	St Marks Rd, Wolverhampton	
+5236	2012		St Peters Gardens, Lichfield Str, WåäìýåTon	
+5237	2012		St Peters Square	
+5238	2012	Wolverhampton	St Peter'S Square, Wolverhampton	
+5239	2012		Stafford Rd, Oxley	
+5240	2012		Stafford St	
+5241	2012		Stourbridge High Str	
+5242	2012		Stroud Rd	
+5243	2012		Tettenhall Rd	
+5244	2012		The Crab Mill,Hagley Rd,Stourbridge	
+5245	2012	Walsall	The Crown Wharf Walsall	
+5246	2012		Thimblemill Rd, Smethwick	
+5247	2012		Thompson Ave	
+5248	2012		Three Crowns Ph, Woodcross	
+5249	2012		Tower St	
+5250	2012	Wolverhampton	Tower St Wolverhampton	
+5251	2012	Wolverhampton	Vicarage Rd, Wolverhampton	
+5252	2012	Victoria	Victoria Passage	
+5253	2012	Victoria	Victoria Str	
+5254	2012	Victoria	Victoria Str	
+5255	2012	Wolverhampton	Victoria Str, Wolverhampton	
+5256	2012		Waterloo Rd	
+5257	2012	Wednesfield	Wednesfield Police Stn Carpark	
+5258	2012	Wednesfield	Wednesfield Rd	
+5259	2012	Wednesfield	Wednesfield Rd	
+5260	2012		West Park	
+5261	2012	Wolverhampton	Wheelers Fold, City Centre, Wolverhampton	
+5262	2012		Whitmore Str	
+5263	2012	Wolverhampton	Willenhall Rd Wolverhampton	
+5264	2012	Wolverhampton	Wolverhampton Bus Stn	
+5265	2012	Wolverhampton	Wolverhampton Central Police Stn Front Office	
+5266	2012	Wolverhampton	Wolverhampton Railway Stn	
+5267	2012	Wolverhampton	Wolverhampton Railway Stn	
+5268	2012	Wolverhampton	Wolverhampton Railway Stn	
+5269	2012	Wolverhampton	Wolverhampton Railway Stn	
+5270	2012	Wolverhampton	Wolverhampton Railway Stn	
+5271	2012	Wolverhampton	Wolverhampton Railway Stn	
+5272	2012	Wolverhampton	Wolverhampton Railway Stn	
+5273	2012	Wolverhampton	Wolverhampton Railway Stn	
+5274	2012	Wolverhampton	Wolverhampton Train Stn	
+5275	2012	Wolverhampton	Wolverhampton Train Stn	
+5276	2012		Wright Ave	
+5277	2012	W'Ton	W'Ton Racecourse	
+5278	2012	W'Ton	W'Ton Railway Stn	
